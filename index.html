@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ramayana Explorer</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>Ramayana Explorer</h1>
+      <p>Navigate all Kandas, chapters (Sargas), and every available Shloka with English meaning.</p>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar" id="sidebar"></aside>
+
+      <section class="content">
+        <div class="meta" id="meta"></div>
+        <div class="sarga-nav" id="sargaNav"></div>
+        <div class="shloka-menu" id="shlokaMenu"></div>
+        <article id="shlokaList" class="shloka-list"></article>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        Source dataset:
+        <a href="https://github.com/AshuVj/Valmiki_Ramayan_Dataset" target="_blank" rel="noreferrer">Valmiki Ramayan Dataset</a>
+      </p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

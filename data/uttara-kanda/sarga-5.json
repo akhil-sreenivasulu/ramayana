@@ -1,0 +1,392 @@
+{
+  "kanda": "Uttara Kanda",
+  "kanda_slug": "uttara-kanda",
+  "sarga": 5,
+  "shloka_count": 48,
+  "shlokas": [
+    {
+      "shloka": 1,
+      "shloka_text": "सुकेशं धार्मिकं दृष्ट्वा वरलब्धं च राक्षसम् । ग्रामणीर्नाम गन्धर्वो विश्वावसुसमप्रभः ।। 7.5.1 ।।",
+      "transliteration": "sukeśaṃ dhārmikaṃ dṛṣṭvā varalabdhaṃ ca rākṣasam | grāmaṇīrnāma gandharvo viśvāvasusamaprabhaḥ || 7.5.1 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 2,
+      "shloka_text": "तस्य देववती नाम द्वितीया श्रीरिवात्मजा । त्रिषु लोकेषु विख्याता रूपयौवनशालिनी । तां सुकेशाय धर्मेण ददौ रक्षःश्रियं यथा ।। 7.5.2 ।।",
+      "transliteration": "tasya devavatī nāma dvitīyā śrīrivātmajā | triṣu lokeṣu vikhyātā rūpayauvanaśālinī | tāṃ sukeśāya dharmeṇa dadau rakṣaḥśriyaṃ yathā || 7.5.2 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 3,
+      "shloka_text": "वरदानकृतैश्वर्यं सा तं प्राप्य पतिं प्रियम् । आसीद्देववती तुष्टा धनं प्राप्येव निर्धनः ।। 7.5.3 ।।",
+      "transliteration": "varadānakṛtaiśvaryaṃ sā taṃ prāpya patiṃ priyam | āsīddevavatī tuṣṭā dhanaṃ prāpyeva nirdhanaḥ || 7.5.3 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 4,
+      "shloka_text": "स तया सह संयुक्तो रराज रजनीचरः । अञ्जनादभिनिष्क्रान्तः करेण्वेव महागजः ।। 7.5.4 ।।",
+      "transliteration": "sa tayā saha saṃyukto rarāja rajanīcaraḥ | añjanādabhiniṣkrāntaḥ kareṇveva mahāgajaḥ || 7.5.4 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 5,
+      "shloka_text": "देववत्यां सुकेशस्तु जनयामास राघव ।। 7.5.5 ।।",
+      "transliteration": "devavatyāṃ sukeśastu janayāmāsa rāghava || 7.5.5 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 6,
+      "shloka_text": "त्रीन् पुत्रान् जनयामास त्रेताग्निसमविग्रहान् । माल्यवन्तं सुमालिं च मालिं च बलिनां वरम् । त्रींस्त्रिनेत्रसमान्पुत्रान्राक्षसान्राक्षसाधिपः ।। 7.5.6 ।।",
+      "transliteration": "trīn putrān janayāmāsa tretāgnisamavigrahān | mālyavantaṃ sumāliṃ ca māliṃ ca balināṃ varam | trīṃstrinetrasamānputrānrākṣasānrākṣasādhipaḥ || 7.5.6 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 7,
+      "shloka_text": "त्रयो लोका इवाव्यग्राः स्थितास्त्रय इवाग्नयः । त्रयो मन्त्रा इवात्युग्रास्त्रयो घोरा इवामयाः ।। 7.5.7 ।।",
+      "transliteration": "trayo lokā ivāvyagrāḥ sthitāstraya ivāgnayaḥ | trayo mantrā ivātyugrāstrayo ghorā ivāmayāḥ || 7.5.7 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 8,
+      "shloka_text": "त्रयः सुकेशस्य सुतास्त्रेताग्निसमतेजसः । विवृद्धिमगमंस्तत्र व्याधयोपेक्षिता इव ।। 7.5.8 ।।",
+      "transliteration": "trayaḥ sukeśasya sutāstretāgnisamatejasaḥ | vivṛddhimagamaṃstatra vyādhayopekṣitā iva || 7.5.8 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 9,
+      "shloka_text": "वरप्राप्तिं पितुस्ते तु ज्ञात्वेश्वरतपोबलात् । तपस्तप्तुं गता मेरुं भ्रातरः कृतनिश्चयाः ।। 7.5.9 ।।",
+      "transliteration": "varaprāptiṃ pituste tu jñātveśvaratapobalāt | tapastaptuṃ gatā meruṃ bhrātaraḥ kṛtaniścayāḥ || 7.5.9 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 10,
+      "shloka_text": "प्रगृह्य नियमान्घोरान्राक्षसा नृपसत्तम । विचेरुस्ते तपो घोरं सर्वभूतभयावहम् ।। 7.5.10 ।।",
+      "transliteration": "pragṛhya niyamānghorānrākṣasā nṛpasattama | viceruste tapo ghoraṃ sarvabhūtabhayāvaham || 7.5.10 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 11,
+      "shloka_text": "सत्यार्जवशमोपेतैस्तपोभिरतिदुष्करैः । सन्तापयन्तस्त्रील्लोँकान्सदेवासुरमानुषान् ।। 7.5.11 ।।",
+      "transliteration": "satyārjavaśamopetaistapobhiratiduṣkaraiḥ | santāpayantastrīlloँkānsadevāsuramānuṣān || 7.5.11 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 12,
+      "shloka_text": "ततो विभुश्चतुर्वक्त्रो विमानवरमास्थितः । सुकेशपुत्रानामन्त्र्य वरदो ऽस्मीत्यभाषत ।। 7.5.12 ।।",
+      "transliteration": "tato vibhuścaturvaktro vimānavaramāsthitaḥ | sukeśaputrānāmantrya varado 'smītyabhāṣata || 7.5.12 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 13,
+      "shloka_text": "ब्रह्माणं वरदं ज्ञात्वा सेन्द्रैर्देवगणैर्वृतम् । ऊचुः प्राञ्जलयः सर्वे वेपमाना इव द्रुमाः ।। 7.5.13 ।।",
+      "transliteration": "brahmāṇaṃ varadaṃ jñātvā sendrairdevagaṇairvṛtam | ūcuḥ prāñjalayaḥ sarve vepamānā iva drumāḥ || 7.5.13 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 14,
+      "shloka_text": "तपसाराधितो देव यदि नो दिशसे वरम् । अजेयाः शत्रुहन्तारस्तथैव चिरजीविनः ।। 7.5.14 ।।",
+      "transliteration": "tapasārādhito deva yadi no diśase varam | ajeyāḥ śatruhantārastathaiva cirajīvinaḥ || 7.5.14 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 15,
+      "shloka_text": "प्रभविष्ण्वो भवामेति परस्परमनुव्रताः ।। 7.5.15 ।।",
+      "transliteration": "prabhaviṣṇvo bhavāmeti parasparamanuvratāḥ || 7.5.15 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 16,
+      "shloka_text": "एवं भविष्यतीत्युक्त्वा सुकेशतनयान्विभुः । स ययौ ब्रह्मलोकाय ब्रह्मा ब्राह्मणवत्सलः ।। 7.5.16 ।।",
+      "transliteration": "evaṃ bhaviṣyatītyuktvā sukeśatanayānvibhuḥ | sa yayau brahmalokāya brahmā brāhmaṇavatsalaḥ || 7.5.16 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 17,
+      "shloka_text": "वरं लब्ध्वा तु ते सर्वे राम रात्रिञ्चरास्तदा । सुरासुरान्प्रबाधन्ते वरदानसुनिर्भयाः ।। 7.5.17 ।।",
+      "transliteration": "varaṃ labdhvā tu te sarve rāma rātriñcarāstadā | surāsurānprabādhante varadānasunirbhayāḥ || 7.5.17 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 18,
+      "shloka_text": "तैर्वध्यमानास्त्रिदशाः सर्षिसङ्घाः सचारणाः । त्रातारं नाधिगच्छन्ति निरयस्था यथा नराः ।। 7.5.18 ।।",
+      "transliteration": "tairvadhyamānāstridaśāḥ sarṣisaṅghāḥ sacāraṇāḥ | trātāraṃ nādhigacchanti nirayasthā yathā narāḥ || 7.5.18 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 19,
+      "shloka_text": "अथ ते विश्वकर्माणं शिल्पिनां वरमव्ययम् । ऊचुः समेत्य संहृष्टा राक्षसा रघुसत्तम ।। 7.5.19 ।।",
+      "transliteration": "atha te viśvakarmāṇaṃ śilpināṃ varamavyayam | ūcuḥ sametya saṃhṛṣṭā rākṣasā raghusattama || 7.5.19 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 20,
+      "shloka_text": "ओजस्तेजोबलवतां महतामात्मतेजसा । गृहकर्ता भवानेव देवानां हृदयेप्सितम् ।। 7.5.20 ।।",
+      "transliteration": "ojastejobalavatāṃ mahatāmātmatejasā | gṛhakartā bhavāneva devānāṃ hṛdayepsitam || 7.5.20 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 21,
+      "shloka_text": "अस्माकमपि तावत्त्वं गृहं कुरु महामते । हिमवन्तमपाश्रित्य मेरुमन्दरमेव वा । महेश्वरगृहप्रख्यं गृहं नः क्रियतां महत् ।। 7.5.21 ।।",
+      "transliteration": "asmākamapi tāvattvaṃ gṛhaṃ kuru mahāmate | himavantamapāśritya merumandarameva vā | maheśvaragṛhaprakhyaṃ gṛhaṃ naḥ kriyatāṃ mahat || 7.5.21 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 22,
+      "shloka_text": "विश्वकर्मा ततस्तेषां राक्षसानां महाभुजः । निवासं कथयामास शक्रस्येवामरावतीम् ।। 7.5.22 ।।",
+      "transliteration": "viśvakarmā tatasteṣāṃ rākṣasānāṃ mahābhujaḥ | nivāsaṃ kathayāmāsa śakrasyevāmarāvatīm || 7.5.22 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 23,
+      "shloka_text": "दक्षिणस्योदधेस्तीरे त्रिकूटो नाम पर्वतः । सुवेल इति चाप्यन्यो द्वितीयस्तत्र सत्तमाः ।। 7.5.23 ।।",
+      "transliteration": "dakṣiṇasyodadhestīre trikūṭo nāma parvataḥ | suvela iti cāpyanyo dvitīyastatra sattamāḥ || 7.5.23 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 24,
+      "shloka_text": "शिखरे तस्य शैलस्य मध्यमे ऽम्बुदसन्निभे । शकुनैरपि दुष्प्रापे टङ्कच्छिन्नचतुर्दिशि ।। 7.5.24 ।।",
+      "transliteration": "śikhare tasya śailasya madhyame 'mbudasannibhe | śakunairapi duṣprāpe ṭaṅkacchinnacaturdiśi || 7.5.24 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 25,
+      "shloka_text": "त्रिंशद्योजनक्स्तीर्णा शतयोजनमायता । स्वर्णप्राकारसंवीता हेमतोरणसंवृता ।। 7.5.25 ।।",
+      "transliteration": "triṃśadyojanakstīrṇā śatayojanamāyatā | svarṇaprākārasaṃvītā hematoraṇasaṃvṛtā || 7.5.25 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 26,
+      "shloka_text": "मया लङ्केति नगरी शक्राज्ञप्तेन निर्मिता । तस्यां वसत दुर्धर्षा यूयं राक्षसपुङ्गवाः ।। 7.5.26 ।।",
+      "transliteration": "mayā laṅketi nagarī śakrājñaptena nirmitā | tasyāṃ vasata durdharṣā yūyaṃ rākṣasapuṅgavāḥ || 7.5.26 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 27,
+      "shloka_text": "अमरावतीं समासाद्य सेन्द्रा इव दिवौकसः । लङ्कादुर्गं समासाद्य राक्षसैर्बहुभिर्वृताः ।। 7.5.27 ।।",
+      "transliteration": "amarāvatīṃ samāsādya sendrā iva divaukasaḥ | laṅkādurgaṃ samāsādya rākṣasairbahubhirvṛtāḥ || 7.5.27 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 28,
+      "shloka_text": "भविष्यथ दुराधर्षाः शत्रूणां शत्रुसूदनाः ।। 7.5.28 ।।",
+      "transliteration": "bhaviṣyatha durādharṣāḥ śatrūṇāṃ śatrusūdanāḥ || 7.5.28 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 29,
+      "shloka_text": "विश्वकर्मवचः श्रुत्वा ततस्ते राक्षसोत्तमाः । सहस्रानुचरा भूत्वा गत्वा तामवसन्पुरीम् ।। 7.5.29 ।।",
+      "transliteration": "viśvakarmavacaḥ śrutvā tataste rākṣasottamāḥ | sahasrānucarā bhūtvā gatvā tāmavasanpurīm || 7.5.29 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 30,
+      "shloka_text": "दृढप्राकारपरिखां हैमैर्गृहशतैर्वृताम् । लङ्कामवाप्य ते हृष्टा न्यवसन्रजनीचराः ।। 7.5.30 ।।",
+      "transliteration": "dṛḍhaprākāraparikhāṃ haimairgṛhaśatairvṛtām | laṅkāmavāpya te hṛṣṭā nyavasanrajanīcarāḥ || 7.5.30 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 31,
+      "shloka_text": "एतस्मिन्नेव काले तु यथाकामं च राघव । नर्मदा नाम गन्धर्वी बभूव रघुनन्दन ।। 7.5.31 ।।",
+      "transliteration": "etasminneva kāle tu yathākāmaṃ ca rāghava | narmadā nāma gandharvī babhūva raghunandana || 7.5.31 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 32,
+      "shloka_text": "तस्याः कान्यात्रयं ह्यासीत् धीश्रीकिर्तिसमद्युति । ज्येष्ठक्रमेण सा तेषां राक्षसानामराक्षसी ।। 7.5.32 ।।",
+      "transliteration": "tasyāḥ kānyātrayaṃ hyāsīt dhīśrīkirtisamadyuti | jyeṣṭhakrameṇa sā teṣāṃ rākṣasānāmarākṣasī || 7.5.32 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 33,
+      "shloka_text": "कन्यास्ताः प्रददौ हृष्टा पूर्णचन्द्रनिभाननाः । त्रयाणां राक्षसेन्द्राणां तिस्रो गन्धर्वकन्यकाः ।। 7.5.33 ।।",
+      "transliteration": "kanyāstāḥ pradadau hṛṣṭā pūrṇacandranibhānanāḥ | trayāṇāṃ rākṣasendrāṇāṃ tisro gandharvakanyakāḥ || 7.5.33 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 34,
+      "shloka_text": "दत्ता मात्रा महाभागा नक्षत्रे भगदैवते । कुतदारास्तु ते राम सुकेशतनयास्तदा ।। 7.5.34 ।।",
+      "transliteration": "dattā mātrā mahābhāgā nakṣatre bhagadaivate | kutadārāstu te rāma sukeśatanayāstadā || 7.5.34 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 35,
+      "shloka_text": "चिक्रीडुः सह भार्याभिरप्सरोभिरिवामराः । ततो माल्यवतो भार्या सुन्दरी नाम सुन्दरी ।। 7.5.35 ।।",
+      "transliteration": "cikrīḍuḥ saha bhāryābhirapsarobhirivāmarāḥ | tato mālyavato bhāryā sundarī nāma sundarī || 7.5.35 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 36,
+      "shloka_text": "स तस्यां जनयामास यदपत्यं निबोध तत् । वज्रमुष्टिर्विरूपाक्षोदुर्मुखश्चैव राक्षसः ।। 7.5.36 ।।",
+      "transliteration": "sa tasyāṃ janayāmāsa yadapatyaṃ nibodha tat | vajramuṣṭirvirūpākṣodurmukhaścaiva rākṣasaḥ || 7.5.36 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 37,
+      "shloka_text": "सुप्तघ्नो यज्ञकोपश्च मत्तोन्मत्तौ तथैव च । अनला चाभवत्कन्या सुन्दर्यां राम सुन्दरी ।। 7.5.37 ।।",
+      "transliteration": "suptaghno yajñakopaśca mattonmattau tathaiva ca | analā cābhavatkanyā sundaryāṃ rāma sundarī || 7.5.37 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 38,
+      "shloka_text": "सुमालिनो ऽपि भार्यासीत्पूर्णचद्रनिभानना । नाम्ना केतुमती राम प्राणेभ्यो ऽपि गरीयसी ।। 7.5.38 ।।",
+      "transliteration": "sumālino 'pi bhāryāsītpūrṇacadranibhānanā | nāmnā ketumatī rāma prāṇebhyo 'pi garīyasī || 7.5.38 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 39,
+      "shloka_text": "सुमाली जनयामास यदपत्यं निशाचरः । केतुमत्यां महाराज तन्निबोधानुपूर्वशः ।। 7.5.39 ।।",
+      "transliteration": "sumālī janayāmāsa yadapatyaṃ niśācaraḥ | ketumatyāṃ mahārāja tannibodhānupūrvaśaḥ || 7.5.39 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 40,
+      "shloka_text": "प्रहस्तो ऽकम्पनश्चैव विकटः कालकार्मुखः । धूम्राक्षश्चैव दण्डश्च सुपार्श्वश्च महाबलः ।। 7.5.40 ।।",
+      "transliteration": "prahasto 'kampanaścaiva vikaṭaḥ kālakārmukhaḥ | dhūmrākṣaścaiva daṇḍaśca supārśvaśca mahābalaḥ || 7.5.40 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 41,
+      "shloka_text": "संह्रादिः प्रघसश्चैव भासकर्णश्च राक्षसः । राका पुष्पोत्कटा चैव कैकसी च शुचिस्मिता ।। कुम्भीनसी च इत्येते सुमालेः प्रसवाः स्मृताः ।। 7.5.41 ।।",
+      "transliteration": "saṃhrādiḥ praghasaścaiva bhāsakarṇaśca rākṣasaḥ | rākā puṣpotkaṭā caiva kaikasī ca śucismitā || kumbhīnasī ca ityete sumāleḥ prasavāḥ smṛtāḥ || 7.5.41 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 42,
+      "shloka_text": "कुम्भीनसी च इत्येते सुमालेः प्रसवाः स्मृताः ।। 7.5.41 ।।",
+      "transliteration": "kumbhīnasī ca ityete sumāleḥ prasavāḥ smṛtāḥ || 7.5.41 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 43,
+      "shloka_text": "मालेस्तु वसुधा नाम गन्धर्वी रूपशालिनी । भार्यासीत्पद्मपत्राक्षी स्वक्षी यक्षीवरोपमा ।। 7.5.42 ।।",
+      "transliteration": "mālestu vasudhā nāma gandharvī rūpaśālinī | bhāryāsītpadmapatrākṣī svakṣī yakṣīvaropamā || 7.5.42 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 44,
+      "shloka_text": "सुमालेरनुजस्तस्यां जनयामास यत् प्रभो । अपत्यं कथ्यमानं तु मया त्वं शृणु राघव ।। 7.5.43 ।।",
+      "transliteration": "sumāleranujastasyāṃ janayāmāsa yat prabho | apatyaṃ kathyamānaṃ tu mayā tvaṃ śṛṇu rāghava || 7.5.43 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 45,
+      "shloka_text": "अनिलश्चानलश्चैव हरः सम्पातिरेव च । एते विभीषणामात्या मालेयास्तु निशाचरः ।। 7.5.44 ।।",
+      "transliteration": "anilaścānalaścaiva haraḥ sampātireva ca | ete vibhīṣaṇāmātyā māleyāstu niśācaraḥ || 7.5.44 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 46,
+      "shloka_text": "ततस्तु ते राक्षसपुङ्गवास्त्रयो निशाचरैः पुत्रशतैश्च संवृताः । सुरान्सहेन्द्रानृषिनागयक्षान्बबाधिरे तान्बहुवीर्यदर्पिताः ।। 7.5.45 ।।",
+      "transliteration": "tatastu te rākṣasapuṅgavāstrayo niśācaraiḥ putraśataiśca saṃvṛtāḥ | surānsahendrānṛṣināgayakṣānbabādhire tānbahuvīryadarpitāḥ || 7.5.45 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 47,
+      "shloka_text": "जगद्भ्रमन्तो ऽनिलवद्दुरासदा रणेषु मृत्युप्रतिमानतेजसः । वरप्रदानादतिगर्विता भृशं क्रतुक्रियाणां प्रशमङ्कराः सदा ।। 7.5.46 ।।",
+      "transliteration": "jagadbhramanto 'nilavaddurāsadā raṇeṣu mṛtyupratimānatejasaḥ | varapradānādatigarvitā bhṛśaṃ kratukriyāṇāṃ praśamaṅkarāḥ sadā || 7.5.46 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 48,
+      "shloka_text": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे पञ्चमः सर्गः ।। 5 ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmaduttarakāṇḍe pañcamaḥ sargaḥ || 5 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    }
+  ]
+}

@@ -1,0 +1,3307 @@
+{
+  "generated_at": "2026-03-08T08:30:19.621Z",
+  "source": "https://github.com/AshuVj/Valmiki_Ramayan_Dataset",
+  "totals": {
+    "kandas": 7,
+    "sargas": 648,
+    "shlokas": 23402
+  },
+  "kandas": [
+    {
+      "name": "Aranya Kanda",
+      "slug": "aranya-kanda",
+      "sarga_count": 75,
+      "shloka_count": 2439,
+      "sargas": [
+        {
+          "sarga": 1,
+          "shloka_count": 22,
+          "path": "data/aranya-kanda/sarga-1.json"
+        },
+        {
+          "sarga": 2,
+          "shloka_count": 26,
+          "path": "data/aranya-kanda/sarga-2.json"
+        },
+        {
+          "sarga": 3,
+          "shloka_count": 26,
+          "path": "data/aranya-kanda/sarga-3.json"
+        },
+        {
+          "sarga": 4,
+          "shloka_count": 32,
+          "path": "data/aranya-kanda/sarga-4.json"
+        },
+        {
+          "sarga": 5,
+          "shloka_count": 43,
+          "path": "data/aranya-kanda/sarga-5.json"
+        },
+        {
+          "sarga": 6,
+          "shloka_count": 26,
+          "path": "data/aranya-kanda/sarga-6.json"
+        },
+        {
+          "sarga": 7,
+          "shloka_count": 24,
+          "path": "data/aranya-kanda/sarga-7.json"
+        },
+        {
+          "sarga": 8,
+          "shloka_count": 20,
+          "path": "data/aranya-kanda/sarga-8.json"
+        },
+        {
+          "sarga": 9,
+          "shloka_count": 33,
+          "path": "data/aranya-kanda/sarga-9.json"
+        },
+        {
+          "sarga": 10,
+          "shloka_count": 23,
+          "path": "data/aranya-kanda/sarga-10.json"
+        },
+        {
+          "sarga": 11,
+          "shloka_count": 93,
+          "path": "data/aranya-kanda/sarga-11.json"
+        },
+        {
+          "sarga": 12,
+          "shloka_count": 37,
+          "path": "data/aranya-kanda/sarga-12.json"
+        },
+        {
+          "sarga": 13,
+          "shloka_count": 27,
+          "path": "data/aranya-kanda/sarga-13.json"
+        },
+        {
+          "sarga": 14,
+          "shloka_count": 35,
+          "path": "data/aranya-kanda/sarga-14.json"
+        },
+        {
+          "sarga": 15,
+          "shloka_count": 31,
+          "path": "data/aranya-kanda/sarga-15.json"
+        },
+        {
+          "sarga": 16,
+          "shloka_count": 43,
+          "path": "data/aranya-kanda/sarga-16.json"
+        },
+        {
+          "sarga": 17,
+          "shloka_count": 30,
+          "path": "data/aranya-kanda/sarga-17.json"
+        },
+        {
+          "sarga": 18,
+          "shloka_count": 26,
+          "path": "data/aranya-kanda/sarga-18.json"
+        },
+        {
+          "sarga": 19,
+          "shloka_count": 26,
+          "path": "data/aranya-kanda/sarga-19.json"
+        },
+        {
+          "sarga": 20,
+          "shloka_count": 25,
+          "path": "data/aranya-kanda/sarga-20.json"
+        },
+        {
+          "sarga": 21,
+          "shloka_count": 22,
+          "path": "data/aranya-kanda/sarga-21.json"
+        },
+        {
+          "sarga": 22,
+          "shloka_count": 26,
+          "path": "data/aranya-kanda/sarga-22.json"
+        },
+        {
+          "sarga": 23,
+          "shloka_count": 35,
+          "path": "data/aranya-kanda/sarga-23.json"
+        },
+        {
+          "sarga": 24,
+          "shloka_count": 37,
+          "path": "data/aranya-kanda/sarga-24.json"
+        },
+        {
+          "sarga": 25,
+          "shloka_count": 42,
+          "path": "data/aranya-kanda/sarga-25.json"
+        },
+        {
+          "sarga": 26,
+          "shloka_count": 38,
+          "path": "data/aranya-kanda/sarga-26.json"
+        },
+        {
+          "sarga": 27,
+          "shloka_count": 20,
+          "path": "data/aranya-kanda/sarga-27.json"
+        },
+        {
+          "sarga": 28,
+          "shloka_count": 33,
+          "path": "data/aranya-kanda/sarga-28.json"
+        },
+        {
+          "sarga": 29,
+          "shloka_count": 28,
+          "path": "data/aranya-kanda/sarga-29.json"
+        },
+        {
+          "sarga": 30,
+          "shloka_count": 41,
+          "path": "data/aranya-kanda/sarga-30.json"
+        },
+        {
+          "sarga": 31,
+          "shloka_count": 50,
+          "path": "data/aranya-kanda/sarga-31.json"
+        },
+        {
+          "sarga": 32,
+          "shloka_count": 25,
+          "path": "data/aranya-kanda/sarga-32.json"
+        },
+        {
+          "sarga": 33,
+          "shloka_count": 24,
+          "path": "data/aranya-kanda/sarga-33.json"
+        },
+        {
+          "sarga": 34,
+          "shloka_count": 27,
+          "path": "data/aranya-kanda/sarga-34.json"
+        },
+        {
+          "sarga": 35,
+          "shloka_count": 42,
+          "path": "data/aranya-kanda/sarga-35.json"
+        },
+        {
+          "sarga": 36,
+          "shloka_count": 24,
+          "path": "data/aranya-kanda/sarga-36.json"
+        },
+        {
+          "sarga": 37,
+          "shloka_count": 25,
+          "path": "data/aranya-kanda/sarga-37.json"
+        },
+        {
+          "sarga": 38,
+          "shloka_count": 33,
+          "path": "data/aranya-kanda/sarga-38.json"
+        },
+        {
+          "sarga": 39,
+          "shloka_count": 25,
+          "path": "data/aranya-kanda/sarga-39.json"
+        },
+        {
+          "sarga": 40,
+          "shloka_count": 27,
+          "path": "data/aranya-kanda/sarga-40.json"
+        },
+        {
+          "sarga": 41,
+          "shloka_count": 20,
+          "path": "data/aranya-kanda/sarga-41.json"
+        },
+        {
+          "sarga": 42,
+          "shloka_count": 35,
+          "path": "data/aranya-kanda/sarga-42.json"
+        },
+        {
+          "sarga": 43,
+          "shloka_count": 50,
+          "path": "data/aranya-kanda/sarga-43.json"
+        },
+        {
+          "sarga": 44,
+          "shloka_count": 27,
+          "path": "data/aranya-kanda/sarga-44.json"
+        },
+        {
+          "sarga": 45,
+          "shloka_count": 40,
+          "path": "data/aranya-kanda/sarga-45.json"
+        },
+        {
+          "sarga": 46,
+          "shloka_count": 37,
+          "path": "data/aranya-kanda/sarga-46.json"
+        },
+        {
+          "sarga": 47,
+          "shloka_count": 50,
+          "path": "data/aranya-kanda/sarga-47.json"
+        },
+        {
+          "sarga": 48,
+          "shloka_count": 24,
+          "path": "data/aranya-kanda/sarga-48.json"
+        },
+        {
+          "sarga": 49,
+          "shloka_count": 41,
+          "path": "data/aranya-kanda/sarga-49.json"
+        },
+        {
+          "sarga": 50,
+          "shloka_count": 27,
+          "path": "data/aranya-kanda/sarga-50.json"
+        },
+        {
+          "sarga": 51,
+          "shloka_count": 46,
+          "path": "data/aranya-kanda/sarga-51.json"
+        },
+        {
+          "sarga": 52,
+          "shloka_count": 44,
+          "path": "data/aranya-kanda/sarga-52.json"
+        },
+        {
+          "sarga": 53,
+          "shloka_count": 26,
+          "path": "data/aranya-kanda/sarga-53.json"
+        },
+        {
+          "sarga": 54,
+          "shloka_count": 30,
+          "path": "data/aranya-kanda/sarga-54.json"
+        },
+        {
+          "sarga": 55,
+          "shloka_count": 37,
+          "path": "data/aranya-kanda/sarga-55.json"
+        },
+        {
+          "sarga": 56,
+          "shloka_count": 36,
+          "path": "data/aranya-kanda/sarga-56.json"
+        },
+        {
+          "sarga": 57,
+          "shloka_count": 24,
+          "path": "data/aranya-kanda/sarga-57.json"
+        },
+        {
+          "sarga": 58,
+          "shloka_count": 19,
+          "path": "data/aranya-kanda/sarga-58.json"
+        },
+        {
+          "sarga": 59,
+          "shloka_count": 27,
+          "path": "data/aranya-kanda/sarga-59.json"
+        },
+        {
+          "sarga": 60,
+          "shloka_count": 38,
+          "path": "data/aranya-kanda/sarga-60.json"
+        },
+        {
+          "sarga": 61,
+          "shloka_count": 32,
+          "path": "data/aranya-kanda/sarga-61.json"
+        },
+        {
+          "sarga": 62,
+          "shloka_count": 21,
+          "path": "data/aranya-kanda/sarga-62.json"
+        },
+        {
+          "sarga": 63,
+          "shloka_count": 20,
+          "path": "data/aranya-kanda/sarga-63.json"
+        },
+        {
+          "sarga": 64,
+          "shloka_count": 75,
+          "path": "data/aranya-kanda/sarga-64.json"
+        },
+        {
+          "sarga": 65,
+          "shloka_count": 16,
+          "path": "data/aranya-kanda/sarga-65.json"
+        },
+        {
+          "sarga": 66,
+          "shloka_count": 19,
+          "path": "data/aranya-kanda/sarga-66.json"
+        },
+        {
+          "sarga": 67,
+          "shloka_count": 29,
+          "path": "data/aranya-kanda/sarga-67.json"
+        },
+        {
+          "sarga": 68,
+          "shloka_count": 38,
+          "path": "data/aranya-kanda/sarga-68.json"
+        },
+        {
+          "sarga": 69,
+          "shloka_count": 51,
+          "path": "data/aranya-kanda/sarga-69.json"
+        },
+        {
+          "sarga": 70,
+          "shloka_count": 18,
+          "path": "data/aranya-kanda/sarga-70.json"
+        },
+        {
+          "sarga": 71,
+          "shloka_count": 33,
+          "path": "data/aranya-kanda/sarga-71.json"
+        },
+        {
+          "sarga": 72,
+          "shloka_count": 27,
+          "path": "data/aranya-kanda/sarga-72.json"
+        },
+        {
+          "sarga": 73,
+          "shloka_count": 45,
+          "path": "data/aranya-kanda/sarga-73.json"
+        },
+        {
+          "sarga": 74,
+          "shloka_count": 35,
+          "path": "data/aranya-kanda/sarga-74.json"
+        },
+        {
+          "sarga": 75,
+          "shloka_count": 30,
+          "path": "data/aranya-kanda/sarga-75.json"
+        }
+      ]
+    },
+    {
+      "name": "Ayodhya Kanda",
+      "slug": "ayodhya-kanda",
+      "sarga_count": 119,
+      "shloka_count": 4262,
+      "sargas": [
+        {
+          "sarga": 1,
+          "shloka_count": 50,
+          "path": "data/ayodhya-kanda/sarga-1.json"
+        },
+        {
+          "sarga": 2,
+          "shloka_count": 54,
+          "path": "data/ayodhya-kanda/sarga-2.json"
+        },
+        {
+          "sarga": 3,
+          "shloka_count": 49,
+          "path": "data/ayodhya-kanda/sarga-3.json"
+        },
+        {
+          "sarga": 4,
+          "shloka_count": 34,
+          "path": "data/ayodhya-kanda/sarga-4.json"
+        },
+        {
+          "sarga": 5,
+          "shloka_count": 26,
+          "path": "data/ayodhya-kanda/sarga-5.json"
+        },
+        {
+          "sarga": 6,
+          "shloka_count": 28,
+          "path": "data/ayodhya-kanda/sarga-6.json"
+        },
+        {
+          "sarga": 7,
+          "shloka_count": 36,
+          "path": "data/ayodhya-kanda/sarga-7.json"
+        },
+        {
+          "sarga": 8,
+          "shloka_count": 39,
+          "path": "data/ayodhya-kanda/sarga-8.json"
+        },
+        {
+          "sarga": 9,
+          "shloka_count": 66,
+          "path": "data/ayodhya-kanda/sarga-9.json"
+        },
+        {
+          "sarga": 10,
+          "shloka_count": 40,
+          "path": "data/ayodhya-kanda/sarga-10.json"
+        },
+        {
+          "sarga": 11,
+          "shloka_count": 29,
+          "path": "data/ayodhya-kanda/sarga-11.json"
+        },
+        {
+          "sarga": 12,
+          "shloka_count": 114,
+          "path": "data/ayodhya-kanda/sarga-12.json"
+        },
+        {
+          "sarga": 13,
+          "shloka_count": 26,
+          "path": "data/ayodhya-kanda/sarga-13.json"
+        },
+        {
+          "sarga": 14,
+          "shloka_count": 68,
+          "path": "data/ayodhya-kanda/sarga-14.json"
+        },
+        {
+          "sarga": 15,
+          "shloka_count": 49,
+          "path": "data/ayodhya-kanda/sarga-15.json"
+        },
+        {
+          "sarga": 16,
+          "shloka_count": 47,
+          "path": "data/ayodhya-kanda/sarga-16.json"
+        },
+        {
+          "sarga": 17,
+          "shloka_count": 22,
+          "path": "data/ayodhya-kanda/sarga-17.json"
+        },
+        {
+          "sarga": 18,
+          "shloka_count": 41,
+          "path": "data/ayodhya-kanda/sarga-18.json"
+        },
+        {
+          "sarga": 19,
+          "shloka_count": 40,
+          "path": "data/ayodhya-kanda/sarga-19.json"
+        },
+        {
+          "sarga": 20,
+          "shloka_count": 55,
+          "path": "data/ayodhya-kanda/sarga-20.json"
+        },
+        {
+          "sarga": 21,
+          "shloka_count": 63,
+          "path": "data/ayodhya-kanda/sarga-21.json"
+        },
+        {
+          "sarga": 22,
+          "shloka_count": 30,
+          "path": "data/ayodhya-kanda/sarga-22.json"
+        },
+        {
+          "sarga": 23,
+          "shloka_count": 40,
+          "path": "data/ayodhya-kanda/sarga-23.json"
+        },
+        {
+          "sarga": 24,
+          "shloka_count": 38,
+          "path": "data/ayodhya-kanda/sarga-24.json"
+        },
+        {
+          "sarga": 25,
+          "shloka_count": 47,
+          "path": "data/ayodhya-kanda/sarga-25.json"
+        },
+        {
+          "sarga": 26,
+          "shloka_count": 38,
+          "path": "data/ayodhya-kanda/sarga-26.json"
+        },
+        {
+          "sarga": 27,
+          "shloka_count": 23,
+          "path": "data/ayodhya-kanda/sarga-27.json"
+        },
+        {
+          "sarga": 28,
+          "shloka_count": 26,
+          "path": "data/ayodhya-kanda/sarga-28.json"
+        },
+        {
+          "sarga": 29,
+          "shloka_count": 24,
+          "path": "data/ayodhya-kanda/sarga-29.json"
+        },
+        {
+          "sarga": 30,
+          "shloka_count": 46,
+          "path": "data/ayodhya-kanda/sarga-30.json"
+        },
+        {
+          "sarga": 31,
+          "shloka_count": 35,
+          "path": "data/ayodhya-kanda/sarga-31.json"
+        },
+        {
+          "sarga": 32,
+          "shloka_count": 45,
+          "path": "data/ayodhya-kanda/sarga-32.json"
+        },
+        {
+          "sarga": 33,
+          "shloka_count": 31,
+          "path": "data/ayodhya-kanda/sarga-33.json"
+        },
+        {
+          "sarga": 34,
+          "shloka_count": 61,
+          "path": "data/ayodhya-kanda/sarga-34.json"
+        },
+        {
+          "sarga": 35,
+          "shloka_count": 34,
+          "path": "data/ayodhya-kanda/sarga-35.json"
+        },
+        {
+          "sarga": 36,
+          "shloka_count": 33,
+          "path": "data/ayodhya-kanda/sarga-36.json"
+        },
+        {
+          "sarga": 37,
+          "shloka_count": 37,
+          "path": "data/ayodhya-kanda/sarga-37.json"
+        },
+        {
+          "sarga": 38,
+          "shloka_count": 18,
+          "path": "data/ayodhya-kanda/sarga-38.json"
+        },
+        {
+          "sarga": 39,
+          "shloka_count": 41,
+          "path": "data/ayodhya-kanda/sarga-39.json"
+        },
+        {
+          "sarga": 40,
+          "shloka_count": 51,
+          "path": "data/ayodhya-kanda/sarga-40.json"
+        },
+        {
+          "sarga": 41,
+          "shloka_count": 21,
+          "path": "data/ayodhya-kanda/sarga-41.json"
+        },
+        {
+          "sarga": 42,
+          "shloka_count": 35,
+          "path": "data/ayodhya-kanda/sarga-42.json"
+        },
+        {
+          "sarga": 43,
+          "shloka_count": 21,
+          "path": "data/ayodhya-kanda/sarga-43.json"
+        },
+        {
+          "sarga": 44,
+          "shloka_count": 31,
+          "path": "data/ayodhya-kanda/sarga-44.json"
+        },
+        {
+          "sarga": 45,
+          "shloka_count": 33,
+          "path": "data/ayodhya-kanda/sarga-45.json"
+        },
+        {
+          "sarga": 46,
+          "shloka_count": 34,
+          "path": "data/ayodhya-kanda/sarga-46.json"
+        },
+        {
+          "sarga": 47,
+          "shloka_count": 19,
+          "path": "data/ayodhya-kanda/sarga-47.json"
+        },
+        {
+          "sarga": 48,
+          "shloka_count": 37,
+          "path": "data/ayodhya-kanda/sarga-48.json"
+        },
+        {
+          "sarga": 49,
+          "shloka_count": 18,
+          "path": "data/ayodhya-kanda/sarga-49.json"
+        },
+        {
+          "sarga": 50,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-50.json"
+        },
+        {
+          "sarga": 51,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-51.json"
+        },
+        {
+          "sarga": 52,
+          "shloka_count": 102,
+          "path": "data/ayodhya-kanda/sarga-52.json"
+        },
+        {
+          "sarga": 53,
+          "shloka_count": 35,
+          "path": "data/ayodhya-kanda/sarga-53.json"
+        },
+        {
+          "sarga": 54,
+          "shloka_count": 43,
+          "path": "data/ayodhya-kanda/sarga-54.json"
+        },
+        {
+          "sarga": 55,
+          "shloka_count": 34,
+          "path": "data/ayodhya-kanda/sarga-55.json"
+        },
+        {
+          "sarga": 56,
+          "shloka_count": 37,
+          "path": "data/ayodhya-kanda/sarga-56.json"
+        },
+        {
+          "sarga": 57,
+          "shloka_count": 34,
+          "path": "data/ayodhya-kanda/sarga-57.json"
+        },
+        {
+          "sarga": 58,
+          "shloka_count": 37,
+          "path": "data/ayodhya-kanda/sarga-58.json"
+        },
+        {
+          "sarga": 59,
+          "shloka_count": 38,
+          "path": "data/ayodhya-kanda/sarga-59.json"
+        },
+        {
+          "sarga": 60,
+          "shloka_count": 23,
+          "path": "data/ayodhya-kanda/sarga-60.json"
+        },
+        {
+          "sarga": 61,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-61.json"
+        },
+        {
+          "sarga": 62,
+          "shloka_count": 20,
+          "path": "data/ayodhya-kanda/sarga-62.json"
+        },
+        {
+          "sarga": 63,
+          "shloka_count": 53,
+          "path": "data/ayodhya-kanda/sarga-63.json"
+        },
+        {
+          "sarga": 64,
+          "shloka_count": 79,
+          "path": "data/ayodhya-kanda/sarga-64.json"
+        },
+        {
+          "sarga": 65,
+          "shloka_count": 29,
+          "path": "data/ayodhya-kanda/sarga-65.json"
+        },
+        {
+          "sarga": 66,
+          "shloka_count": 29,
+          "path": "data/ayodhya-kanda/sarga-66.json"
+        },
+        {
+          "sarga": 67,
+          "shloka_count": 38,
+          "path": "data/ayodhya-kanda/sarga-67.json"
+        },
+        {
+          "sarga": 68,
+          "shloka_count": 22,
+          "path": "data/ayodhya-kanda/sarga-68.json"
+        },
+        {
+          "sarga": 69,
+          "shloka_count": 21,
+          "path": "data/ayodhya-kanda/sarga-69.json"
+        },
+        {
+          "sarga": 70,
+          "shloka_count": 30,
+          "path": "data/ayodhya-kanda/sarga-70.json"
+        },
+        {
+          "sarga": 71,
+          "shloka_count": 46,
+          "path": "data/ayodhya-kanda/sarga-71.json"
+        },
+        {
+          "sarga": 72,
+          "shloka_count": 53,
+          "path": "data/ayodhya-kanda/sarga-72.json"
+        },
+        {
+          "sarga": 73,
+          "shloka_count": 28,
+          "path": "data/ayodhya-kanda/sarga-73.json"
+        },
+        {
+          "sarga": 74,
+          "shloka_count": 36,
+          "path": "data/ayodhya-kanda/sarga-74.json"
+        },
+        {
+          "sarga": 75,
+          "shloka_count": 64,
+          "path": "data/ayodhya-kanda/sarga-75.json"
+        },
+        {
+          "sarga": 76,
+          "shloka_count": 23,
+          "path": "data/ayodhya-kanda/sarga-76.json"
+        },
+        {
+          "sarga": 77,
+          "shloka_count": 26,
+          "path": "data/ayodhya-kanda/sarga-77.json"
+        },
+        {
+          "sarga": 78,
+          "shloka_count": 26,
+          "path": "data/ayodhya-kanda/sarga-78.json"
+        },
+        {
+          "sarga": 79,
+          "shloka_count": 17,
+          "path": "data/ayodhya-kanda/sarga-79.json"
+        },
+        {
+          "sarga": 80,
+          "shloka_count": 22,
+          "path": "data/ayodhya-kanda/sarga-80.json"
+        },
+        {
+          "sarga": 81,
+          "shloka_count": 16,
+          "path": "data/ayodhya-kanda/sarga-81.json"
+        },
+        {
+          "sarga": 82,
+          "shloka_count": 32,
+          "path": "data/ayodhya-kanda/sarga-82.json"
+        },
+        {
+          "sarga": 83,
+          "shloka_count": 26,
+          "path": "data/ayodhya-kanda/sarga-83.json"
+        },
+        {
+          "sarga": 84,
+          "shloka_count": 18,
+          "path": "data/ayodhya-kanda/sarga-84.json"
+        },
+        {
+          "sarga": 85,
+          "shloka_count": 22,
+          "path": "data/ayodhya-kanda/sarga-85.json"
+        },
+        {
+          "sarga": 86,
+          "shloka_count": 25,
+          "path": "data/ayodhya-kanda/sarga-86.json"
+        },
+        {
+          "sarga": 87,
+          "shloka_count": 23,
+          "path": "data/ayodhya-kanda/sarga-87.json"
+        },
+        {
+          "sarga": 88,
+          "shloka_count": 30,
+          "path": "data/ayodhya-kanda/sarga-88.json"
+        },
+        {
+          "sarga": 89,
+          "shloka_count": 22,
+          "path": "data/ayodhya-kanda/sarga-89.json"
+        },
+        {
+          "sarga": 90,
+          "shloka_count": 24,
+          "path": "data/ayodhya-kanda/sarga-90.json"
+        },
+        {
+          "sarga": 91,
+          "shloka_count": 83,
+          "path": "data/ayodhya-kanda/sarga-91.json"
+        },
+        {
+          "sarga": 92,
+          "shloka_count": 39,
+          "path": "data/ayodhya-kanda/sarga-92.json"
+        },
+        {
+          "sarga": 93,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-93.json"
+        },
+        {
+          "sarga": 94,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-94.json"
+        },
+        {
+          "sarga": 95,
+          "shloka_count": 19,
+          "path": "data/ayodhya-kanda/sarga-95.json"
+        },
+        {
+          "sarga": 96,
+          "shloka_count": 31,
+          "path": "data/ayodhya-kanda/sarga-96.json"
+        },
+        {
+          "sarga": 97,
+          "shloka_count": 31,
+          "path": "data/ayodhya-kanda/sarga-97.json"
+        },
+        {
+          "sarga": 98,
+          "shloka_count": 18,
+          "path": "data/ayodhya-kanda/sarga-98.json"
+        },
+        {
+          "sarga": 99,
+          "shloka_count": 42,
+          "path": "data/ayodhya-kanda/sarga-99.json"
+        },
+        {
+          "sarga": 100,
+          "shloka_count": 76,
+          "path": "data/ayodhya-kanda/sarga-100.json"
+        },
+        {
+          "sarga": 101,
+          "shloka_count": 9,
+          "path": "data/ayodhya-kanda/sarga-101.json"
+        },
+        {
+          "sarga": 102,
+          "shloka_count": 49,
+          "path": "data/ayodhya-kanda/sarga-102.json"
+        },
+        {
+          "sarga": 103,
+          "shloka_count": 32,
+          "path": "data/ayodhya-kanda/sarga-103.json"
+        },
+        {
+          "sarga": 104,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-104.json"
+        },
+        {
+          "sarga": 105,
+          "shloka_count": 46,
+          "path": "data/ayodhya-kanda/sarga-105.json"
+        },
+        {
+          "sarga": 106,
+          "shloka_count": 35,
+          "path": "data/ayodhya-kanda/sarga-106.json"
+        },
+        {
+          "sarga": 107,
+          "shloka_count": 19,
+          "path": "data/ayodhya-kanda/sarga-107.json"
+        },
+        {
+          "sarga": 108,
+          "shloka_count": 18,
+          "path": "data/ayodhya-kanda/sarga-108.json"
+        },
+        {
+          "sarga": 109,
+          "shloka_count": 39,
+          "path": "data/ayodhya-kanda/sarga-109.json"
+        },
+        {
+          "sarga": 110,
+          "shloka_count": 34,
+          "path": "data/ayodhya-kanda/sarga-110.json"
+        },
+        {
+          "sarga": 111,
+          "shloka_count": 32,
+          "path": "data/ayodhya-kanda/sarga-111.json"
+        },
+        {
+          "sarga": 112,
+          "shloka_count": 31,
+          "path": "data/ayodhya-kanda/sarga-112.json"
+        },
+        {
+          "sarga": 113,
+          "shloka_count": 24,
+          "path": "data/ayodhya-kanda/sarga-113.json"
+        },
+        {
+          "sarga": 114,
+          "shloka_count": 31,
+          "path": "data/ayodhya-kanda/sarga-114.json"
+        },
+        {
+          "sarga": 115,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-115.json"
+        },
+        {
+          "sarga": 116,
+          "shloka_count": 26,
+          "path": "data/ayodhya-kanda/sarga-116.json"
+        },
+        {
+          "sarga": 117,
+          "shloka_count": 27,
+          "path": "data/ayodhya-kanda/sarga-117.json"
+        },
+        {
+          "sarga": 118,
+          "shloka_count": 54,
+          "path": "data/ayodhya-kanda/sarga-118.json"
+        },
+        {
+          "sarga": 119,
+          "shloka_count": 22,
+          "path": "data/ayodhya-kanda/sarga-119.json"
+        }
+      ]
+    },
+    {
+      "name": "Bala Kanda",
+      "slug": "bala-kanda",
+      "sarga_count": 77,
+      "shloka_count": 2217,
+      "sargas": [
+        {
+          "sarga": 1,
+          "shloka_count": 100,
+          "path": "data/bala-kanda/sarga-1.json"
+        },
+        {
+          "sarga": 2,
+          "shloka_count": 43,
+          "path": "data/bala-kanda/sarga-2.json"
+        },
+        {
+          "sarga": 3,
+          "shloka_count": 38,
+          "path": "data/bala-kanda/sarga-3.json"
+        },
+        {
+          "sarga": 4,
+          "shloka_count": 31,
+          "path": "data/bala-kanda/sarga-4.json"
+        },
+        {
+          "sarga": 5,
+          "shloka_count": 23,
+          "path": "data/bala-kanda/sarga-5.json"
+        },
+        {
+          "sarga": 6,
+          "shloka_count": 28,
+          "path": "data/bala-kanda/sarga-6.json"
+        },
+        {
+          "sarga": 7,
+          "shloka_count": 22,
+          "path": "data/bala-kanda/sarga-7.json"
+        },
+        {
+          "sarga": 8,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-8.json"
+        },
+        {
+          "sarga": 9,
+          "shloka_count": 19,
+          "path": "data/bala-kanda/sarga-9.json"
+        },
+        {
+          "sarga": 10,
+          "shloka_count": 31,
+          "path": "data/bala-kanda/sarga-10.json"
+        },
+        {
+          "sarga": 11,
+          "shloka_count": 30,
+          "path": "data/bala-kanda/sarga-11.json"
+        },
+        {
+          "sarga": 12,
+          "shloka_count": 21,
+          "path": "data/bala-kanda/sarga-12.json"
+        },
+        {
+          "sarga": 13,
+          "shloka_count": 37,
+          "path": "data/bala-kanda/sarga-13.json"
+        },
+        {
+          "sarga": 14,
+          "shloka_count": 57,
+          "path": "data/bala-kanda/sarga-14.json"
+        },
+        {
+          "sarga": 15,
+          "shloka_count": 33,
+          "path": "data/bala-kanda/sarga-15.json"
+        },
+        {
+          "sarga": 16,
+          "shloka_count": 32,
+          "path": "data/bala-kanda/sarga-16.json"
+        },
+        {
+          "sarga": 17,
+          "shloka_count": 35,
+          "path": "data/bala-kanda/sarga-17.json"
+        },
+        {
+          "sarga": 18,
+          "shloka_count": 58,
+          "path": "data/bala-kanda/sarga-18.json"
+        },
+        {
+          "sarga": 19,
+          "shloka_count": 21,
+          "path": "data/bala-kanda/sarga-19.json"
+        },
+        {
+          "sarga": 20,
+          "shloka_count": 27,
+          "path": "data/bala-kanda/sarga-20.json"
+        },
+        {
+          "sarga": 21,
+          "shloka_count": 21,
+          "path": "data/bala-kanda/sarga-21.json"
+        },
+        {
+          "sarga": 22,
+          "shloka_count": 23,
+          "path": "data/bala-kanda/sarga-22.json"
+        },
+        {
+          "sarga": 23,
+          "shloka_count": 22,
+          "path": "data/bala-kanda/sarga-23.json"
+        },
+        {
+          "sarga": 24,
+          "shloka_count": 32,
+          "path": "data/bala-kanda/sarga-24.json"
+        },
+        {
+          "sarga": 25,
+          "shloka_count": 21,
+          "path": "data/bala-kanda/sarga-25.json"
+        },
+        {
+          "sarga": 26,
+          "shloka_count": 36,
+          "path": "data/bala-kanda/sarga-26.json"
+        },
+        {
+          "sarga": 27,
+          "shloka_count": 26,
+          "path": "data/bala-kanda/sarga-27.json"
+        },
+        {
+          "sarga": 28,
+          "shloka_count": 20,
+          "path": "data/bala-kanda/sarga-28.json"
+        },
+        {
+          "sarga": 29,
+          "shloka_count": 31,
+          "path": "data/bala-kanda/sarga-29.json"
+        },
+        {
+          "sarga": 30,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-30.json"
+        },
+        {
+          "sarga": 31,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-31.json"
+        },
+        {
+          "sarga": 32,
+          "shloka_count": 26,
+          "path": "data/bala-kanda/sarga-32.json"
+        },
+        {
+          "sarga": 33,
+          "shloka_count": 26,
+          "path": "data/bala-kanda/sarga-33.json"
+        },
+        {
+          "sarga": 34,
+          "shloka_count": 23,
+          "path": "data/bala-kanda/sarga-34.json"
+        },
+        {
+          "sarga": 35,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-35.json"
+        },
+        {
+          "sarga": 36,
+          "shloka_count": 27,
+          "path": "data/bala-kanda/sarga-36.json"
+        },
+        {
+          "sarga": 37,
+          "shloka_count": 32,
+          "path": "data/bala-kanda/sarga-37.json"
+        },
+        {
+          "sarga": 38,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-38.json"
+        },
+        {
+          "sarga": 39,
+          "shloka_count": 25,
+          "path": "data/bala-kanda/sarga-39.json"
+        },
+        {
+          "sarga": 40,
+          "shloka_count": 29,
+          "path": "data/bala-kanda/sarga-40.json"
+        },
+        {
+          "sarga": 41,
+          "shloka_count": 26,
+          "path": "data/bala-kanda/sarga-41.json"
+        },
+        {
+          "sarga": 42,
+          "shloka_count": 25,
+          "path": "data/bala-kanda/sarga-42.json"
+        },
+        {
+          "sarga": 43,
+          "shloka_count": 41,
+          "path": "data/bala-kanda/sarga-43.json"
+        },
+        {
+          "sarga": 44,
+          "shloka_count": 22,
+          "path": "data/bala-kanda/sarga-44.json"
+        },
+        {
+          "sarga": 45,
+          "shloka_count": 44,
+          "path": "data/bala-kanda/sarga-45.json"
+        },
+        {
+          "sarga": 46,
+          "shloka_count": 23,
+          "path": "data/bala-kanda/sarga-46.json"
+        },
+        {
+          "sarga": 47,
+          "shloka_count": 22,
+          "path": "data/bala-kanda/sarga-47.json"
+        },
+        {
+          "sarga": 48,
+          "shloka_count": 33,
+          "path": "data/bala-kanda/sarga-48.json"
+        },
+        {
+          "sarga": 49,
+          "shloka_count": 22,
+          "path": "data/bala-kanda/sarga-49.json"
+        },
+        {
+          "sarga": 50,
+          "shloka_count": 23,
+          "path": "data/bala-kanda/sarga-50.json"
+        },
+        {
+          "sarga": 51,
+          "shloka_count": 28,
+          "path": "data/bala-kanda/sarga-51.json"
+        },
+        {
+          "sarga": 52,
+          "shloka_count": 23,
+          "path": "data/bala-kanda/sarga-52.json"
+        },
+        {
+          "sarga": 53,
+          "shloka_count": 25,
+          "path": "data/bala-kanda/sarga-53.json"
+        },
+        {
+          "sarga": 54,
+          "shloka_count": 23,
+          "path": "data/bala-kanda/sarga-54.json"
+        },
+        {
+          "sarga": 55,
+          "shloka_count": 28,
+          "path": "data/bala-kanda/sarga-55.json"
+        },
+        {
+          "sarga": 56,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-56.json"
+        },
+        {
+          "sarga": 57,
+          "shloka_count": 21,
+          "path": "data/bala-kanda/sarga-57.json"
+        },
+        {
+          "sarga": 58,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-58.json"
+        },
+        {
+          "sarga": 59,
+          "shloka_count": 22,
+          "path": "data/bala-kanda/sarga-59.json"
+        },
+        {
+          "sarga": 60,
+          "shloka_count": 34,
+          "path": "data/bala-kanda/sarga-60.json"
+        },
+        {
+          "sarga": 61,
+          "shloka_count": 22,
+          "path": "data/bala-kanda/sarga-61.json"
+        },
+        {
+          "sarga": 62,
+          "shloka_count": 28,
+          "path": "data/bala-kanda/sarga-62.json"
+        },
+        {
+          "sarga": 63,
+          "shloka_count": 26,
+          "path": "data/bala-kanda/sarga-63.json"
+        },
+        {
+          "sarga": 64,
+          "shloka_count": 20,
+          "path": "data/bala-kanda/sarga-64.json"
+        },
+        {
+          "sarga": 65,
+          "shloka_count": 36,
+          "path": "data/bala-kanda/sarga-65.json"
+        },
+        {
+          "sarga": 66,
+          "shloka_count": 26,
+          "path": "data/bala-kanda/sarga-66.json"
+        },
+        {
+          "sarga": 67,
+          "shloka_count": 27,
+          "path": "data/bala-kanda/sarga-67.json"
+        },
+        {
+          "sarga": 68,
+          "shloka_count": 19,
+          "path": "data/bala-kanda/sarga-68.json"
+        },
+        {
+          "sarga": 69,
+          "shloka_count": 18,
+          "path": "data/bala-kanda/sarga-69.json"
+        },
+        {
+          "sarga": 70,
+          "shloka_count": 43,
+          "path": "data/bala-kanda/sarga-70.json"
+        },
+        {
+          "sarga": 71,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-71.json"
+        },
+        {
+          "sarga": 72,
+          "shloka_count": 25,
+          "path": "data/bala-kanda/sarga-72.json"
+        },
+        {
+          "sarga": 73,
+          "shloka_count": 37,
+          "path": "data/bala-kanda/sarga-73.json"
+        },
+        {
+          "sarga": 74,
+          "shloka_count": 25,
+          "path": "data/bala-kanda/sarga-74.json"
+        },
+        {
+          "sarga": 75,
+          "shloka_count": 28,
+          "path": "data/bala-kanda/sarga-75.json"
+        },
+        {
+          "sarga": 76,
+          "shloka_count": 24,
+          "path": "data/bala-kanda/sarga-76.json"
+        },
+        {
+          "sarga": 77,
+          "shloka_count": 30,
+          "path": "data/bala-kanda/sarga-77.json"
+        }
+      ]
+    },
+    {
+      "name": "Kishkindha Kanda",
+      "slug": "kishkindha-kanda",
+      "sarga_count": 67,
+      "shloka_count": 2445,
+      "sargas": [
+        {
+          "sarga": 1,
+          "shloka_count": 130,
+          "path": "data/kishkindha-kanda/sarga-1.json"
+        },
+        {
+          "sarga": 2,
+          "shloka_count": 29,
+          "path": "data/kishkindha-kanda/sarga-2.json"
+        },
+        {
+          "sarga": 3,
+          "shloka_count": 39,
+          "path": "data/kishkindha-kanda/sarga-3.json"
+        },
+        {
+          "sarga": 4,
+          "shloka_count": 35,
+          "path": "data/kishkindha-kanda/sarga-4.json"
+        },
+        {
+          "sarga": 5,
+          "shloka_count": 32,
+          "path": "data/kishkindha-kanda/sarga-5.json"
+        },
+        {
+          "sarga": 6,
+          "shloka_count": 27,
+          "path": "data/kishkindha-kanda/sarga-6.json"
+        },
+        {
+          "sarga": 7,
+          "shloka_count": 25,
+          "path": "data/kishkindha-kanda/sarga-7.json"
+        },
+        {
+          "sarga": 8,
+          "shloka_count": 46,
+          "path": "data/kishkindha-kanda/sarga-8.json"
+        },
+        {
+          "sarga": 9,
+          "shloka_count": 26,
+          "path": "data/kishkindha-kanda/sarga-9.json"
+        },
+        {
+          "sarga": 10,
+          "shloka_count": 35,
+          "path": "data/kishkindha-kanda/sarga-10.json"
+        },
+        {
+          "sarga": 11,
+          "shloka_count": 93,
+          "path": "data/kishkindha-kanda/sarga-11.json"
+        },
+        {
+          "sarga": 12,
+          "shloka_count": 42,
+          "path": "data/kishkindha-kanda/sarga-12.json"
+        },
+        {
+          "sarga": 13,
+          "shloka_count": 30,
+          "path": "data/kishkindha-kanda/sarga-13.json"
+        },
+        {
+          "sarga": 14,
+          "shloka_count": 22,
+          "path": "data/kishkindha-kanda/sarga-14.json"
+        },
+        {
+          "sarga": 15,
+          "shloka_count": 31,
+          "path": "data/kishkindha-kanda/sarga-15.json"
+        },
+        {
+          "sarga": 16,
+          "shloka_count": 38,
+          "path": "data/kishkindha-kanda/sarga-16.json"
+        },
+        {
+          "sarga": 17,
+          "shloka_count": 52,
+          "path": "data/kishkindha-kanda/sarga-17.json"
+        },
+        {
+          "sarga": 18,
+          "shloka_count": 68,
+          "path": "data/kishkindha-kanda/sarga-18.json"
+        },
+        {
+          "sarga": 19,
+          "shloka_count": 28,
+          "path": "data/kishkindha-kanda/sarga-19.json"
+        },
+        {
+          "sarga": 20,
+          "shloka_count": 25,
+          "path": "data/kishkindha-kanda/sarga-20.json"
+        },
+        {
+          "sarga": 21,
+          "shloka_count": 16,
+          "path": "data/kishkindha-kanda/sarga-21.json"
+        },
+        {
+          "sarga": 22,
+          "shloka_count": 31,
+          "path": "data/kishkindha-kanda/sarga-22.json"
+        },
+        {
+          "sarga": 23,
+          "shloka_count": 30,
+          "path": "data/kishkindha-kanda/sarga-23.json"
+        },
+        {
+          "sarga": 24,
+          "shloka_count": 44,
+          "path": "data/kishkindha-kanda/sarga-24.json"
+        },
+        {
+          "sarga": 25,
+          "shloka_count": 52,
+          "path": "data/kishkindha-kanda/sarga-25.json"
+        },
+        {
+          "sarga": 26,
+          "shloka_count": 41,
+          "path": "data/kishkindha-kanda/sarga-26.json"
+        },
+        {
+          "sarga": 27,
+          "shloka_count": 48,
+          "path": "data/kishkindha-kanda/sarga-27.json"
+        },
+        {
+          "sarga": 28,
+          "shloka_count": 66,
+          "path": "data/kishkindha-kanda/sarga-28.json"
+        },
+        {
+          "sarga": 29,
+          "shloka_count": 34,
+          "path": "data/kishkindha-kanda/sarga-29.json"
+        },
+        {
+          "sarga": 30,
+          "shloka_count": 85,
+          "path": "data/kishkindha-kanda/sarga-30.json"
+        },
+        {
+          "sarga": 31,
+          "shloka_count": 51,
+          "path": "data/kishkindha-kanda/sarga-31.json"
+        },
+        {
+          "sarga": 32,
+          "shloka_count": 22,
+          "path": "data/kishkindha-kanda/sarga-32.json"
+        },
+        {
+          "sarga": 33,
+          "shloka_count": 65,
+          "path": "data/kishkindha-kanda/sarga-33.json"
+        },
+        {
+          "sarga": 34,
+          "shloka_count": 19,
+          "path": "data/kishkindha-kanda/sarga-34.json"
+        },
+        {
+          "sarga": 35,
+          "shloka_count": 23,
+          "path": "data/kishkindha-kanda/sarga-35.json"
+        },
+        {
+          "sarga": 36,
+          "shloka_count": 20,
+          "path": "data/kishkindha-kanda/sarga-36.json"
+        },
+        {
+          "sarga": 37,
+          "shloka_count": 37,
+          "path": "data/kishkindha-kanda/sarga-37.json"
+        },
+        {
+          "sarga": 38,
+          "shloka_count": 34,
+          "path": "data/kishkindha-kanda/sarga-38.json"
+        },
+        {
+          "sarga": 39,
+          "shloka_count": 44,
+          "path": "data/kishkindha-kanda/sarga-39.json"
+        },
+        {
+          "sarga": 40,
+          "shloka_count": 70,
+          "path": "data/kishkindha-kanda/sarga-40.json"
+        },
+        {
+          "sarga": 41,
+          "shloka_count": 50,
+          "path": "data/kishkindha-kanda/sarga-41.json"
+        },
+        {
+          "sarga": 42,
+          "shloka_count": 55,
+          "path": "data/kishkindha-kanda/sarga-42.json"
+        },
+        {
+          "sarga": 43,
+          "shloka_count": 64,
+          "path": "data/kishkindha-kanda/sarga-43.json"
+        },
+        {
+          "sarga": 44,
+          "shloka_count": 17,
+          "path": "data/kishkindha-kanda/sarga-44.json"
+        },
+        {
+          "sarga": 45,
+          "shloka_count": 15,
+          "path": "data/kishkindha-kanda/sarga-45.json"
+        },
+        {
+          "sarga": 46,
+          "shloka_count": 24,
+          "path": "data/kishkindha-kanda/sarga-46.json"
+        },
+        {
+          "sarga": 47,
+          "shloka_count": 14,
+          "path": "data/kishkindha-kanda/sarga-47.json"
+        },
+        {
+          "sarga": 48,
+          "shloka_count": 23,
+          "path": "data/kishkindha-kanda/sarga-48.json"
+        },
+        {
+          "sarga": 49,
+          "shloka_count": 22,
+          "path": "data/kishkindha-kanda/sarga-49.json"
+        },
+        {
+          "sarga": 50,
+          "shloka_count": 41,
+          "path": "data/kishkindha-kanda/sarga-50.json"
+        },
+        {
+          "sarga": 51,
+          "shloka_count": 19,
+          "path": "data/kishkindha-kanda/sarga-51.json"
+        },
+        {
+          "sarga": 52,
+          "shloka_count": 19,
+          "path": "data/kishkindha-kanda/sarga-52.json"
+        },
+        {
+          "sarga": 53,
+          "shloka_count": 39,
+          "path": "data/kishkindha-kanda/sarga-53.json"
+        },
+        {
+          "sarga": 54,
+          "shloka_count": 22,
+          "path": "data/kishkindha-kanda/sarga-54.json"
+        },
+        {
+          "sarga": 55,
+          "shloka_count": 23,
+          "path": "data/kishkindha-kanda/sarga-55.json"
+        },
+        {
+          "sarga": 56,
+          "shloka_count": 17,
+          "path": "data/kishkindha-kanda/sarga-56.json"
+        },
+        {
+          "sarga": 57,
+          "shloka_count": 19,
+          "path": "data/kishkindha-kanda/sarga-57.json"
+        },
+        {
+          "sarga": 58,
+          "shloka_count": 36,
+          "path": "data/kishkindha-kanda/sarga-58.json"
+        },
+        {
+          "sarga": 59,
+          "shloka_count": 28,
+          "path": "data/kishkindha-kanda/sarga-59.json"
+        },
+        {
+          "sarga": 60,
+          "shloka_count": 21,
+          "path": "data/kishkindha-kanda/sarga-60.json"
+        },
+        {
+          "sarga": 61,
+          "shloka_count": 17,
+          "path": "data/kishkindha-kanda/sarga-61.json"
+        },
+        {
+          "sarga": 62,
+          "shloka_count": 15,
+          "path": "data/kishkindha-kanda/sarga-62.json"
+        },
+        {
+          "sarga": 63,
+          "shloka_count": 15,
+          "path": "data/kishkindha-kanda/sarga-63.json"
+        },
+        {
+          "sarga": 64,
+          "shloka_count": 24,
+          "path": "data/kishkindha-kanda/sarga-64.json"
+        },
+        {
+          "sarga": 65,
+          "shloka_count": 34,
+          "path": "data/kishkindha-kanda/sarga-65.json"
+        },
+        {
+          "sarga": 66,
+          "shloka_count": 37,
+          "path": "data/kishkindha-kanda/sarga-66.json"
+        },
+        {
+          "sarga": 67,
+          "shloka_count": 50,
+          "path": "data/kishkindha-kanda/sarga-67.json"
+        }
+      ]
+    },
+    {
+      "name": "Sundara Kanda",
+      "slug": "sundara-kanda",
+      "sarga_count": 68,
+      "shloka_count": 2772,
+      "sargas": [
+        {
+          "sarga": 1,
+          "shloka_count": 201,
+          "path": "data/sundara-kanda/sarga-1.json"
+        },
+        {
+          "sarga": 2,
+          "shloka_count": 58,
+          "path": "data/sundara-kanda/sarga-2.json"
+        },
+        {
+          "sarga": 3,
+          "shloka_count": 51,
+          "path": "data/sundara-kanda/sarga-3.json"
+        },
+        {
+          "sarga": 4,
+          "shloka_count": 29,
+          "path": "data/sundara-kanda/sarga-4.json"
+        },
+        {
+          "sarga": 5,
+          "shloka_count": 27,
+          "path": "data/sundara-kanda/sarga-5.json"
+        },
+        {
+          "sarga": 6,
+          "shloka_count": 42,
+          "path": "data/sundara-kanda/sarga-6.json"
+        },
+        {
+          "sarga": 7,
+          "shloka_count": 17,
+          "path": "data/sundara-kanda/sarga-7.json"
+        },
+        {
+          "sarga": 8,
+          "shloka_count": 7,
+          "path": "data/sundara-kanda/sarga-8.json"
+        },
+        {
+          "sarga": 9,
+          "shloka_count": 73,
+          "path": "data/sundara-kanda/sarga-9.json"
+        },
+        {
+          "sarga": 10,
+          "shloka_count": 54,
+          "path": "data/sundara-kanda/sarga-10.json"
+        },
+        {
+          "sarga": 11,
+          "shloka_count": 47,
+          "path": "data/sundara-kanda/sarga-11.json"
+        },
+        {
+          "sarga": 12,
+          "shloka_count": 25,
+          "path": "data/sundara-kanda/sarga-12.json"
+        },
+        {
+          "sarga": 13,
+          "shloka_count": 69,
+          "path": "data/sundara-kanda/sarga-13.json"
+        },
+        {
+          "sarga": 14,
+          "shloka_count": 52,
+          "path": "data/sundara-kanda/sarga-14.json"
+        },
+        {
+          "sarga": 15,
+          "shloka_count": 54,
+          "path": "data/sundara-kanda/sarga-15.json"
+        },
+        {
+          "sarga": 16,
+          "shloka_count": 32,
+          "path": "data/sundara-kanda/sarga-16.json"
+        },
+        {
+          "sarga": 17,
+          "shloka_count": 32,
+          "path": "data/sundara-kanda/sarga-17.json"
+        },
+        {
+          "sarga": 18,
+          "shloka_count": 32,
+          "path": "data/sundara-kanda/sarga-18.json"
+        },
+        {
+          "sarga": 19,
+          "shloka_count": 23,
+          "path": "data/sundara-kanda/sarga-19.json"
+        },
+        {
+          "sarga": 20,
+          "shloka_count": 36,
+          "path": "data/sundara-kanda/sarga-20.json"
+        },
+        {
+          "sarga": 21,
+          "shloka_count": 34,
+          "path": "data/sundara-kanda/sarga-21.json"
+        },
+        {
+          "sarga": 22,
+          "shloka_count": 46,
+          "path": "data/sundara-kanda/sarga-22.json"
+        },
+        {
+          "sarga": 23,
+          "shloka_count": 19,
+          "path": "data/sundara-kanda/sarga-23.json"
+        },
+        {
+          "sarga": 24,
+          "shloka_count": 48,
+          "path": "data/sundara-kanda/sarga-24.json"
+        },
+        {
+          "sarga": 25,
+          "shloka_count": 20,
+          "path": "data/sundara-kanda/sarga-25.json"
+        },
+        {
+          "sarga": 26,
+          "shloka_count": 51,
+          "path": "data/sundara-kanda/sarga-26.json"
+        },
+        {
+          "sarga": 27,
+          "shloka_count": 51,
+          "path": "data/sundara-kanda/sarga-27.json"
+        },
+        {
+          "sarga": 28,
+          "shloka_count": 19,
+          "path": "data/sundara-kanda/sarga-28.json"
+        },
+        {
+          "sarga": 29,
+          "shloka_count": 8,
+          "path": "data/sundara-kanda/sarga-29.json"
+        },
+        {
+          "sarga": 30,
+          "shloka_count": 44,
+          "path": "data/sundara-kanda/sarga-30.json"
+        },
+        {
+          "sarga": 31,
+          "shloka_count": 19,
+          "path": "data/sundara-kanda/sarga-31.json"
+        },
+        {
+          "sarga": 32,
+          "shloka_count": 14,
+          "path": "data/sundara-kanda/sarga-32.json"
+        },
+        {
+          "sarga": 33,
+          "shloka_count": 31,
+          "path": "data/sundara-kanda/sarga-33.json"
+        },
+        {
+          "sarga": 34,
+          "shloka_count": 41,
+          "path": "data/sundara-kanda/sarga-34.json"
+        },
+        {
+          "sarga": 35,
+          "shloka_count": 89,
+          "path": "data/sundara-kanda/sarga-35.json"
+        },
+        {
+          "sarga": 36,
+          "shloka_count": 47,
+          "path": "data/sundara-kanda/sarga-36.json"
+        },
+        {
+          "sarga": 37,
+          "shloka_count": 65,
+          "path": "data/sundara-kanda/sarga-37.json"
+        },
+        {
+          "sarga": 38,
+          "shloka_count": 73,
+          "path": "data/sundara-kanda/sarga-38.json"
+        },
+        {
+          "sarga": 39,
+          "shloka_count": 54,
+          "path": "data/sundara-kanda/sarga-39.json"
+        },
+        {
+          "sarga": 40,
+          "shloka_count": 25,
+          "path": "data/sundara-kanda/sarga-40.json"
+        },
+        {
+          "sarga": 41,
+          "shloka_count": 21,
+          "path": "data/sundara-kanda/sarga-41.json"
+        },
+        {
+          "sarga": 42,
+          "shloka_count": 43,
+          "path": "data/sundara-kanda/sarga-42.json"
+        },
+        {
+          "sarga": 43,
+          "shloka_count": 25,
+          "path": "data/sundara-kanda/sarga-43.json"
+        },
+        {
+          "sarga": 44,
+          "shloka_count": 20,
+          "path": "data/sundara-kanda/sarga-44.json"
+        },
+        {
+          "sarga": 45,
+          "shloka_count": 17,
+          "path": "data/sundara-kanda/sarga-45.json"
+        },
+        {
+          "sarga": 46,
+          "shloka_count": 39,
+          "path": "data/sundara-kanda/sarga-46.json"
+        },
+        {
+          "sarga": 47,
+          "shloka_count": 38,
+          "path": "data/sundara-kanda/sarga-47.json"
+        },
+        {
+          "sarga": 48,
+          "shloka_count": 61,
+          "path": "data/sundara-kanda/sarga-48.json"
+        },
+        {
+          "sarga": 49,
+          "shloka_count": 20,
+          "path": "data/sundara-kanda/sarga-49.json"
+        },
+        {
+          "sarga": 50,
+          "shloka_count": 19,
+          "path": "data/sundara-kanda/sarga-50.json"
+        },
+        {
+          "sarga": 51,
+          "shloka_count": 46,
+          "path": "data/sundara-kanda/sarga-51.json"
+        },
+        {
+          "sarga": 52,
+          "shloka_count": 26,
+          "path": "data/sundara-kanda/sarga-52.json"
+        },
+        {
+          "sarga": 53,
+          "shloka_count": 44,
+          "path": "data/sundara-kanda/sarga-53.json"
+        },
+        {
+          "sarga": 54,
+          "shloka_count": 50,
+          "path": "data/sundara-kanda/sarga-54.json"
+        },
+        {
+          "sarga": 55,
+          "shloka_count": 34,
+          "path": "data/sundara-kanda/sarga-55.json"
+        },
+        {
+          "sarga": 56,
+          "shloka_count": 34,
+          "path": "data/sundara-kanda/sarga-56.json"
+        },
+        {
+          "sarga": 57,
+          "shloka_count": 51,
+          "path": "data/sundara-kanda/sarga-57.json"
+        },
+        {
+          "sarga": 58,
+          "shloka_count": 166,
+          "path": "data/sundara-kanda/sarga-58.json"
+        },
+        {
+          "sarga": 59,
+          "shloka_count": 36,
+          "path": "data/sundara-kanda/sarga-59.json"
+        },
+        {
+          "sarga": 60,
+          "shloka_count": 6,
+          "path": "data/sundara-kanda/sarga-60.json"
+        },
+        {
+          "sarga": 61,
+          "shloka_count": 23,
+          "path": "data/sundara-kanda/sarga-61.json"
+        },
+        {
+          "sarga": 62,
+          "shloka_count": 39,
+          "path": "data/sundara-kanda/sarga-62.json"
+        },
+        {
+          "sarga": 63,
+          "shloka_count": 29,
+          "path": "data/sundara-kanda/sarga-63.json"
+        },
+        {
+          "sarga": 64,
+          "shloka_count": 39,
+          "path": "data/sundara-kanda/sarga-64.json"
+        },
+        {
+          "sarga": 65,
+          "shloka_count": 27,
+          "path": "data/sundara-kanda/sarga-65.json"
+        },
+        {
+          "sarga": 66,
+          "shloka_count": 15,
+          "path": "data/sundara-kanda/sarga-66.json"
+        },
+        {
+          "sarga": 67,
+          "shloka_count": 16,
+          "path": "data/sundara-kanda/sarga-67.json"
+        },
+        {
+          "sarga": 68,
+          "shloka_count": 29,
+          "path": "data/sundara-kanda/sarga-68.json"
+        }
+      ]
+    },
+    {
+      "name": "Uttara Kanda",
+      "slug": "uttara-kanda",
+      "sarga_count": 111,
+      "shloka_count": 3574,
+      "sargas": [
+        {
+          "sarga": 1,
+          "shloka_count": 42,
+          "path": "data/uttara-kanda/sarga-1.json"
+        },
+        {
+          "sarga": 2,
+          "shloka_count": 36,
+          "path": "data/uttara-kanda/sarga-2.json"
+        },
+        {
+          "sarga": 3,
+          "shloka_count": 37,
+          "path": "data/uttara-kanda/sarga-3.json"
+        },
+        {
+          "sarga": 4,
+          "shloka_count": 33,
+          "path": "data/uttara-kanda/sarga-4.json"
+        },
+        {
+          "sarga": 5,
+          "shloka_count": 48,
+          "path": "data/uttara-kanda/sarga-5.json"
+        },
+        {
+          "sarga": 6,
+          "shloka_count": 70,
+          "path": "data/uttara-kanda/sarga-6.json"
+        },
+        {
+          "sarga": 7,
+          "shloka_count": 56,
+          "path": "data/uttara-kanda/sarga-7.json"
+        },
+        {
+          "sarga": 8,
+          "shloka_count": 31,
+          "path": "data/uttara-kanda/sarga-8.json"
+        },
+        {
+          "sarga": 9,
+          "shloka_count": 49,
+          "path": "data/uttara-kanda/sarga-9.json"
+        },
+        {
+          "sarga": 10,
+          "shloka_count": 50,
+          "path": "data/uttara-kanda/sarga-10.json"
+        },
+        {
+          "sarga": 11,
+          "shloka_count": 53,
+          "path": "data/uttara-kanda/sarga-11.json"
+        },
+        {
+          "sarga": 12,
+          "shloka_count": 33,
+          "path": "data/uttara-kanda/sarga-12.json"
+        },
+        {
+          "sarga": 13,
+          "shloka_count": 43,
+          "path": "data/uttara-kanda/sarga-13.json"
+        },
+        {
+          "sarga": 14,
+          "shloka_count": 31,
+          "path": "data/uttara-kanda/sarga-14.json"
+        },
+        {
+          "sarga": 15,
+          "shloka_count": 46,
+          "path": "data/uttara-kanda/sarga-15.json"
+        },
+        {
+          "sarga": 16,
+          "shloka_count": 51,
+          "path": "data/uttara-kanda/sarga-16.json"
+        },
+        {
+          "sarga": 17,
+          "shloka_count": 45,
+          "path": "data/uttara-kanda/sarga-17.json"
+        },
+        {
+          "sarga": 18,
+          "shloka_count": 37,
+          "path": "data/uttara-kanda/sarga-18.json"
+        },
+        {
+          "sarga": 19,
+          "shloka_count": 33,
+          "path": "data/uttara-kanda/sarga-19.json"
+        },
+        {
+          "sarga": 20,
+          "shloka_count": 34,
+          "path": "data/uttara-kanda/sarga-20.json"
+        },
+        {
+          "sarga": 21,
+          "shloka_count": 47,
+          "path": "data/uttara-kanda/sarga-21.json"
+        },
+        {
+          "sarga": 22,
+          "shloka_count": 52,
+          "path": "data/uttara-kanda/sarga-22.json"
+        },
+        {
+          "sarga": 23,
+          "shloka_count": 55,
+          "path": "data/uttara-kanda/sarga-23.json"
+        },
+        {
+          "sarga": 24,
+          "shloka_count": 43,
+          "path": "data/uttara-kanda/sarga-24.json"
+        },
+        {
+          "sarga": 25,
+          "shloka_count": 52,
+          "path": "data/uttara-kanda/sarga-25.json"
+        },
+        {
+          "sarga": 26,
+          "shloka_count": 62,
+          "path": "data/uttara-kanda/sarga-26.json"
+        },
+        {
+          "sarga": 27,
+          "shloka_count": 50,
+          "path": "data/uttara-kanda/sarga-27.json"
+        },
+        {
+          "sarga": 28,
+          "shloka_count": 50,
+          "path": "data/uttara-kanda/sarga-28.json"
+        },
+        {
+          "sarga": 29,
+          "shloka_count": 42,
+          "path": "data/uttara-kanda/sarga-29.json"
+        },
+        {
+          "sarga": 30,
+          "shloka_count": 56,
+          "path": "data/uttara-kanda/sarga-30.json"
+        },
+        {
+          "sarga": 31,
+          "shloka_count": 44,
+          "path": "data/uttara-kanda/sarga-31.json"
+        },
+        {
+          "sarga": 32,
+          "shloka_count": 74,
+          "path": "data/uttara-kanda/sarga-32.json"
+        },
+        {
+          "sarga": 33,
+          "shloka_count": 24,
+          "path": "data/uttara-kanda/sarga-33.json"
+        },
+        {
+          "sarga": 34,
+          "shloka_count": 47,
+          "path": "data/uttara-kanda/sarga-34.json"
+        },
+        {
+          "sarga": 35,
+          "shloka_count": 66,
+          "path": "data/uttara-kanda/sarga-35.json"
+        },
+        {
+          "sarga": 36,
+          "shloka_count": 64,
+          "path": "data/uttara-kanda/sarga-36.json"
+        },
+        {
+          "sarga": 37,
+          "shloka_count": 25,
+          "path": "data/uttara-kanda/sarga-37.json"
+        },
+        {
+          "sarga": 38,
+          "shloka_count": 34,
+          "path": "data/uttara-kanda/sarga-38.json"
+        },
+        {
+          "sarga": 39,
+          "shloka_count": 31,
+          "path": "data/uttara-kanda/sarga-39.json"
+        },
+        {
+          "sarga": 40,
+          "shloka_count": 30,
+          "path": "data/uttara-kanda/sarga-40.json"
+        },
+        {
+          "sarga": 41,
+          "shloka_count": 23,
+          "path": "data/uttara-kanda/sarga-41.json"
+        },
+        {
+          "sarga": 42,
+          "shloka_count": 37,
+          "path": "data/uttara-kanda/sarga-42.json"
+        },
+        {
+          "sarga": 43,
+          "shloka_count": 24,
+          "path": "data/uttara-kanda/sarga-43.json"
+        },
+        {
+          "sarga": 44,
+          "shloka_count": 22,
+          "path": "data/uttara-kanda/sarga-44.json"
+        },
+        {
+          "sarga": 45,
+          "shloka_count": 26,
+          "path": "data/uttara-kanda/sarga-45.json"
+        },
+        {
+          "sarga": 46,
+          "shloka_count": 35,
+          "path": "data/uttara-kanda/sarga-46.json"
+        },
+        {
+          "sarga": 47,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-47.json"
+        },
+        {
+          "sarga": 48,
+          "shloka_count": 27,
+          "path": "data/uttara-kanda/sarga-48.json"
+        },
+        {
+          "sarga": 49,
+          "shloka_count": 25,
+          "path": "data/uttara-kanda/sarga-49.json"
+        },
+        {
+          "sarga": 50,
+          "shloka_count": 21,
+          "path": "data/uttara-kanda/sarga-50.json"
+        },
+        {
+          "sarga": 51,
+          "shloka_count": 32,
+          "path": "data/uttara-kanda/sarga-51.json"
+        },
+        {
+          "sarga": 52,
+          "shloka_count": 20,
+          "path": "data/uttara-kanda/sarga-52.json"
+        },
+        {
+          "sarga": 53,
+          "shloka_count": 27,
+          "path": "data/uttara-kanda/sarga-53.json"
+        },
+        {
+          "sarga": 54,
+          "shloka_count": 20,
+          "path": "data/uttara-kanda/sarga-54.json"
+        },
+        {
+          "sarga": 55,
+          "shloka_count": 22,
+          "path": "data/uttara-kanda/sarga-55.json"
+        },
+        {
+          "sarga": 56,
+          "shloka_count": 30,
+          "path": "data/uttara-kanda/sarga-56.json"
+        },
+        {
+          "sarga": 57,
+          "shloka_count": 21,
+          "path": "data/uttara-kanda/sarga-57.json"
+        },
+        {
+          "sarga": 58,
+          "shloka_count": 26,
+          "path": "data/uttara-kanda/sarga-58.json"
+        },
+        {
+          "sarga": 59,
+          "shloka_count": 24,
+          "path": "data/uttara-kanda/sarga-59.json"
+        },
+        {
+          "sarga": 60,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-60.json"
+        },
+        {
+          "sarga": 61,
+          "shloka_count": 26,
+          "path": "data/uttara-kanda/sarga-61.json"
+        },
+        {
+          "sarga": 62,
+          "shloka_count": 22,
+          "path": "data/uttara-kanda/sarga-62.json"
+        },
+        {
+          "sarga": 63,
+          "shloka_count": 32,
+          "path": "data/uttara-kanda/sarga-63.json"
+        },
+        {
+          "sarga": 64,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-64.json"
+        },
+        {
+          "sarga": 65,
+          "shloka_count": 40,
+          "path": "data/uttara-kanda/sarga-65.json"
+        },
+        {
+          "sarga": 66,
+          "shloka_count": 18,
+          "path": "data/uttara-kanda/sarga-66.json"
+        },
+        {
+          "sarga": 67,
+          "shloka_count": 27,
+          "path": "data/uttara-kanda/sarga-67.json"
+        },
+        {
+          "sarga": 68,
+          "shloka_count": 21,
+          "path": "data/uttara-kanda/sarga-68.json"
+        },
+        {
+          "sarga": 69,
+          "shloka_count": 41,
+          "path": "data/uttara-kanda/sarga-69.json"
+        },
+        {
+          "sarga": 70,
+          "shloka_count": 18,
+          "path": "data/uttara-kanda/sarga-70.json"
+        },
+        {
+          "sarga": 71,
+          "shloka_count": 25,
+          "path": "data/uttara-kanda/sarga-71.json"
+        },
+        {
+          "sarga": 72,
+          "shloka_count": 22,
+          "path": "data/uttara-kanda/sarga-72.json"
+        },
+        {
+          "sarga": 73,
+          "shloka_count": 20,
+          "path": "data/uttara-kanda/sarga-73.json"
+        },
+        {
+          "sarga": 74,
+          "shloka_count": 34,
+          "path": "data/uttara-kanda/sarga-74.json"
+        },
+        {
+          "sarga": 75,
+          "shloka_count": 20,
+          "path": "data/uttara-kanda/sarga-75.json"
+        },
+        {
+          "sarga": 76,
+          "shloka_count": 53,
+          "path": "data/uttara-kanda/sarga-76.json"
+        },
+        {
+          "sarga": 77,
+          "shloka_count": 23,
+          "path": "data/uttara-kanda/sarga-77.json"
+        },
+        {
+          "sarga": 78,
+          "shloka_count": 31,
+          "path": "data/uttara-kanda/sarga-78.json"
+        },
+        {
+          "sarga": 79,
+          "shloka_count": 21,
+          "path": "data/uttara-kanda/sarga-79.json"
+        },
+        {
+          "sarga": 80,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-80.json"
+        },
+        {
+          "sarga": 81,
+          "shloka_count": 23,
+          "path": "data/uttara-kanda/sarga-81.json"
+        },
+        {
+          "sarga": 82,
+          "shloka_count": 21,
+          "path": "data/uttara-kanda/sarga-82.json"
+        },
+        {
+          "sarga": 83,
+          "shloka_count": 21,
+          "path": "data/uttara-kanda/sarga-83.json"
+        },
+        {
+          "sarga": 84,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-84.json"
+        },
+        {
+          "sarga": 85,
+          "shloka_count": 23,
+          "path": "data/uttara-kanda/sarga-85.json"
+        },
+        {
+          "sarga": 86,
+          "shloka_count": 22,
+          "path": "data/uttara-kanda/sarga-86.json"
+        },
+        {
+          "sarga": 87,
+          "shloka_count": 30,
+          "path": "data/uttara-kanda/sarga-87.json"
+        },
+        {
+          "sarga": 88,
+          "shloka_count": 25,
+          "path": "data/uttara-kanda/sarga-88.json"
+        },
+        {
+          "sarga": 89,
+          "shloka_count": 26,
+          "path": "data/uttara-kanda/sarga-89.json"
+        },
+        {
+          "sarga": 90,
+          "shloka_count": 25,
+          "path": "data/uttara-kanda/sarga-90.json"
+        },
+        {
+          "sarga": 91,
+          "shloka_count": 27,
+          "path": "data/uttara-kanda/sarga-91.json"
+        },
+        {
+          "sarga": 92,
+          "shloka_count": 20,
+          "path": "data/uttara-kanda/sarga-92.json"
+        },
+        {
+          "sarga": 93,
+          "shloka_count": 20,
+          "path": "data/uttara-kanda/sarga-93.json"
+        },
+        {
+          "sarga": 94,
+          "shloka_count": 33,
+          "path": "data/uttara-kanda/sarga-94.json"
+        },
+        {
+          "sarga": 95,
+          "shloka_count": 18,
+          "path": "data/uttara-kanda/sarga-95.json"
+        },
+        {
+          "sarga": 96,
+          "shloka_count": 25,
+          "path": "data/uttara-kanda/sarga-96.json"
+        },
+        {
+          "sarga": 97,
+          "shloka_count": 28,
+          "path": "data/uttara-kanda/sarga-97.json"
+        },
+        {
+          "sarga": 98,
+          "shloka_count": 28,
+          "path": "data/uttara-kanda/sarga-98.json"
+        },
+        {
+          "sarga": 99,
+          "shloka_count": 21,
+          "path": "data/uttara-kanda/sarga-99.json"
+        },
+        {
+          "sarga": 100,
+          "shloka_count": 26,
+          "path": "data/uttara-kanda/sarga-100.json"
+        },
+        {
+          "sarga": 101,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-101.json"
+        },
+        {
+          "sarga": 102,
+          "shloka_count": 18,
+          "path": "data/uttara-kanda/sarga-102.json"
+        },
+        {
+          "sarga": 103,
+          "shloka_count": 18,
+          "path": "data/uttara-kanda/sarga-103.json"
+        },
+        {
+          "sarga": 104,
+          "shloka_count": 20,
+          "path": "data/uttara-kanda/sarga-104.json"
+        },
+        {
+          "sarga": 105,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-105.json"
+        },
+        {
+          "sarga": 106,
+          "shloka_count": 19,
+          "path": "data/uttara-kanda/sarga-106.json"
+        },
+        {
+          "sarga": 107,
+          "shloka_count": 22,
+          "path": "data/uttara-kanda/sarga-107.json"
+        },
+        {
+          "sarga": 108,
+          "shloka_count": 39,
+          "path": "data/uttara-kanda/sarga-108.json"
+        },
+        {
+          "sarga": 109,
+          "shloka_count": 23,
+          "path": "data/uttara-kanda/sarga-109.json"
+        },
+        {
+          "sarga": 110,
+          "shloka_count": 29,
+          "path": "data/uttara-kanda/sarga-110.json"
+        },
+        {
+          "sarga": 111,
+          "shloka_count": 29,
+          "path": "data/uttara-kanda/sarga-111.json"
+        }
+      ]
+    },
+    {
+      "name": "Yuddha Kanda",
+      "slug": "yuddha-kanda",
+      "sarga_count": 131,
+      "shloka_count": 5693,
+      "sargas": [
+        {
+          "sarga": 1,
+          "shloka_count": 19,
+          "path": "data/yuddha-kanda/sarga-1.json"
+        },
+        {
+          "sarga": 2,
+          "shloka_count": 25,
+          "path": "data/yuddha-kanda/sarga-2.json"
+        },
+        {
+          "sarga": 3,
+          "shloka_count": 34,
+          "path": "data/yuddha-kanda/sarga-3.json"
+        },
+        {
+          "sarga": 4,
+          "shloka_count": 124,
+          "path": "data/yuddha-kanda/sarga-4.json"
+        },
+        {
+          "sarga": 5,
+          "shloka_count": 23,
+          "path": "data/yuddha-kanda/sarga-5.json"
+        },
+        {
+          "sarga": 6,
+          "shloka_count": 18,
+          "path": "data/yuddha-kanda/sarga-6.json"
+        },
+        {
+          "sarga": 7,
+          "shloka_count": 25,
+          "path": "data/yuddha-kanda/sarga-7.json"
+        },
+        {
+          "sarga": 8,
+          "shloka_count": 24,
+          "path": "data/yuddha-kanda/sarga-8.json"
+        },
+        {
+          "sarga": 9,
+          "shloka_count": 23,
+          "path": "data/yuddha-kanda/sarga-9.json"
+        },
+        {
+          "sarga": 10,
+          "shloka_count": 29,
+          "path": "data/yuddha-kanda/sarga-10.json"
+        },
+        {
+          "sarga": 11,
+          "shloka_count": 32,
+          "path": "data/yuddha-kanda/sarga-11.json"
+        },
+        {
+          "sarga": 12,
+          "shloka_count": 40,
+          "path": "data/yuddha-kanda/sarga-12.json"
+        },
+        {
+          "sarga": 13,
+          "shloka_count": 21,
+          "path": "data/yuddha-kanda/sarga-13.json"
+        },
+        {
+          "sarga": 14,
+          "shloka_count": 22,
+          "path": "data/yuddha-kanda/sarga-14.json"
+        },
+        {
+          "sarga": 15,
+          "shloka_count": 14,
+          "path": "data/yuddha-kanda/sarga-15.json"
+        },
+        {
+          "sarga": 16,
+          "shloka_count": 27,
+          "path": "data/yuddha-kanda/sarga-16.json"
+        },
+        {
+          "sarga": 17,
+          "shloka_count": 64,
+          "path": "data/yuddha-kanda/sarga-17.json"
+        },
+        {
+          "sarga": 18,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-18.json"
+        },
+        {
+          "sarga": 19,
+          "shloka_count": 42,
+          "path": "data/yuddha-kanda/sarga-19.json"
+        },
+        {
+          "sarga": 20,
+          "shloka_count": 36,
+          "path": "data/yuddha-kanda/sarga-20.json"
+        },
+        {
+          "sarga": 21,
+          "shloka_count": 33,
+          "path": "data/yuddha-kanda/sarga-21.json"
+        },
+        {
+          "sarga": 22,
+          "shloka_count": 87,
+          "path": "data/yuddha-kanda/sarga-22.json"
+        },
+        {
+          "sarga": 23,
+          "shloka_count": 16,
+          "path": "data/yuddha-kanda/sarga-23.json"
+        },
+        {
+          "sarga": 24,
+          "shloka_count": 45,
+          "path": "data/yuddha-kanda/sarga-24.json"
+        },
+        {
+          "sarga": 25,
+          "shloka_count": 33,
+          "path": "data/yuddha-kanda/sarga-25.json"
+        },
+        {
+          "sarga": 26,
+          "shloka_count": 48,
+          "path": "data/yuddha-kanda/sarga-26.json"
+        },
+        {
+          "sarga": 27,
+          "shloka_count": 48,
+          "path": "data/yuddha-kanda/sarga-27.json"
+        },
+        {
+          "sarga": 28,
+          "shloka_count": 44,
+          "path": "data/yuddha-kanda/sarga-28.json"
+        },
+        {
+          "sarga": 29,
+          "shloka_count": 29,
+          "path": "data/yuddha-kanda/sarga-29.json"
+        },
+        {
+          "sarga": 30,
+          "shloka_count": 35,
+          "path": "data/yuddha-kanda/sarga-30.json"
+        },
+        {
+          "sarga": 31,
+          "shloka_count": 45,
+          "path": "data/yuddha-kanda/sarga-31.json"
+        },
+        {
+          "sarga": 32,
+          "shloka_count": 44,
+          "path": "data/yuddha-kanda/sarga-32.json"
+        },
+        {
+          "sarga": 33,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-33.json"
+        },
+        {
+          "sarga": 34,
+          "shloka_count": 28,
+          "path": "data/yuddha-kanda/sarga-34.json"
+        },
+        {
+          "sarga": 35,
+          "shloka_count": 37,
+          "path": "data/yuddha-kanda/sarga-35.json"
+        },
+        {
+          "sarga": 36,
+          "shloka_count": 22,
+          "path": "data/yuddha-kanda/sarga-36.json"
+        },
+        {
+          "sarga": 37,
+          "shloka_count": 37,
+          "path": "data/yuddha-kanda/sarga-37.json"
+        },
+        {
+          "sarga": 38,
+          "shloka_count": 19,
+          "path": "data/yuddha-kanda/sarga-38.json"
+        },
+        {
+          "sarga": 39,
+          "shloka_count": 29,
+          "path": "data/yuddha-kanda/sarga-39.json"
+        },
+        {
+          "sarga": 40,
+          "shloka_count": 30,
+          "path": "data/yuddha-kanda/sarga-40.json"
+        },
+        {
+          "sarga": 41,
+          "shloka_count": 99,
+          "path": "data/yuddha-kanda/sarga-41.json"
+        },
+        {
+          "sarga": 42,
+          "shloka_count": 47,
+          "path": "data/yuddha-kanda/sarga-42.json"
+        },
+        {
+          "sarga": 43,
+          "shloka_count": 45,
+          "path": "data/yuddha-kanda/sarga-43.json"
+        },
+        {
+          "sarga": 44,
+          "shloka_count": 39,
+          "path": "data/yuddha-kanda/sarga-44.json"
+        },
+        {
+          "sarga": 45,
+          "shloka_count": 28,
+          "path": "data/yuddha-kanda/sarga-45.json"
+        },
+        {
+          "sarga": 46,
+          "shloka_count": 50,
+          "path": "data/yuddha-kanda/sarga-46.json"
+        },
+        {
+          "sarga": 47,
+          "shloka_count": 23,
+          "path": "data/yuddha-kanda/sarga-47.json"
+        },
+        {
+          "sarga": 48,
+          "shloka_count": 37,
+          "path": "data/yuddha-kanda/sarga-48.json"
+        },
+        {
+          "sarga": 49,
+          "shloka_count": 32,
+          "path": "data/yuddha-kanda/sarga-49.json"
+        },
+        {
+          "sarga": 50,
+          "shloka_count": 65,
+          "path": "data/yuddha-kanda/sarga-50.json"
+        },
+        {
+          "sarga": 51,
+          "shloka_count": 36,
+          "path": "data/yuddha-kanda/sarga-51.json"
+        },
+        {
+          "sarga": 52,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-52.json"
+        },
+        {
+          "sarga": 53,
+          "shloka_count": 32,
+          "path": "data/yuddha-kanda/sarga-53.json"
+        },
+        {
+          "sarga": 54,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-54.json"
+        },
+        {
+          "sarga": 55,
+          "shloka_count": 31,
+          "path": "data/yuddha-kanda/sarga-55.json"
+        },
+        {
+          "sarga": 56,
+          "shloka_count": 39,
+          "path": "data/yuddha-kanda/sarga-56.json"
+        },
+        {
+          "sarga": 57,
+          "shloka_count": 46,
+          "path": "data/yuddha-kanda/sarga-57.json"
+        },
+        {
+          "sarga": 58,
+          "shloka_count": 60,
+          "path": "data/yuddha-kanda/sarga-58.json"
+        },
+        {
+          "sarga": 59,
+          "shloka_count": 146,
+          "path": "data/yuddha-kanda/sarga-59.json"
+        },
+        {
+          "sarga": 60,
+          "shloka_count": 97,
+          "path": "data/yuddha-kanda/sarga-60.json"
+        },
+        {
+          "sarga": 61,
+          "shloka_count": 40,
+          "path": "data/yuddha-kanda/sarga-61.json"
+        },
+        {
+          "sarga": 62,
+          "shloka_count": 23,
+          "path": "data/yuddha-kanda/sarga-62.json"
+        },
+        {
+          "sarga": 63,
+          "shloka_count": 57,
+          "path": "data/yuddha-kanda/sarga-63.json"
+        },
+        {
+          "sarga": 64,
+          "shloka_count": 36,
+          "path": "data/yuddha-kanda/sarga-64.json"
+        },
+        {
+          "sarga": 65,
+          "shloka_count": 57,
+          "path": "data/yuddha-kanda/sarga-65.json"
+        },
+        {
+          "sarga": 66,
+          "shloka_count": 34,
+          "path": "data/yuddha-kanda/sarga-66.json"
+        },
+        {
+          "sarga": 67,
+          "shloka_count": 178,
+          "path": "data/yuddha-kanda/sarga-67.json"
+        },
+        {
+          "sarga": 68,
+          "shloka_count": 23,
+          "path": "data/yuddha-kanda/sarga-68.json"
+        },
+        {
+          "sarga": 69,
+          "shloka_count": 95,
+          "path": "data/yuddha-kanda/sarga-69.json"
+        },
+        {
+          "sarga": 70,
+          "shloka_count": 66,
+          "path": "data/yuddha-kanda/sarga-70.json"
+        },
+        {
+          "sarga": 71,
+          "shloka_count": 115,
+          "path": "data/yuddha-kanda/sarga-71.json"
+        },
+        {
+          "sarga": 72,
+          "shloka_count": 17,
+          "path": "data/yuddha-kanda/sarga-72.json"
+        },
+        {
+          "sarga": 73,
+          "shloka_count": 74,
+          "path": "data/yuddha-kanda/sarga-73.json"
+        },
+        {
+          "sarga": 74,
+          "shloka_count": 76,
+          "path": "data/yuddha-kanda/sarga-74.json"
+        },
+        {
+          "sarga": 75,
+          "shloka_count": 70,
+          "path": "data/yuddha-kanda/sarga-75.json"
+        },
+        {
+          "sarga": 76,
+          "shloka_count": 93,
+          "path": "data/yuddha-kanda/sarga-76.json"
+        },
+        {
+          "sarga": 77,
+          "shloka_count": 23,
+          "path": "data/yuddha-kanda/sarga-77.json"
+        },
+        {
+          "sarga": 78,
+          "shloka_count": 20,
+          "path": "data/yuddha-kanda/sarga-78.json"
+        },
+        {
+          "sarga": 79,
+          "shloka_count": 40,
+          "path": "data/yuddha-kanda/sarga-79.json"
+        },
+        {
+          "sarga": 80,
+          "shloka_count": 42,
+          "path": "data/yuddha-kanda/sarga-80.json"
+        },
+        {
+          "sarga": 81,
+          "shloka_count": 34,
+          "path": "data/yuddha-kanda/sarga-81.json"
+        },
+        {
+          "sarga": 82,
+          "shloka_count": 27,
+          "path": "data/yuddha-kanda/sarga-82.json"
+        },
+        {
+          "sarga": 83,
+          "shloka_count": 43,
+          "path": "data/yuddha-kanda/sarga-83.json"
+        },
+        {
+          "sarga": 84,
+          "shloka_count": 10,
+          "path": "data/yuddha-kanda/sarga-84.json"
+        },
+        {
+          "sarga": 85,
+          "shloka_count": 35,
+          "path": "data/yuddha-kanda/sarga-85.json"
+        },
+        {
+          "sarga": 86,
+          "shloka_count": 34,
+          "path": "data/yuddha-kanda/sarga-86.json"
+        },
+        {
+          "sarga": 87,
+          "shloka_count": 29,
+          "path": "data/yuddha-kanda/sarga-87.json"
+        },
+        {
+          "sarga": 88,
+          "shloka_count": 36,
+          "path": "data/yuddha-kanda/sarga-88.json"
+        },
+        {
+          "sarga": 89,
+          "shloka_count": 41,
+          "path": "data/yuddha-kanda/sarga-89.json"
+        },
+        {
+          "sarga": 90,
+          "shloka_count": 53,
+          "path": "data/yuddha-kanda/sarga-90.json"
+        },
+        {
+          "sarga": 91,
+          "shloka_count": 96,
+          "path": "data/yuddha-kanda/sarga-91.json"
+        },
+        {
+          "sarga": 92,
+          "shloka_count": 27,
+          "path": "data/yuddha-kanda/sarga-92.json"
+        },
+        {
+          "sarga": 93,
+          "shloka_count": 67,
+          "path": "data/yuddha-kanda/sarga-93.json"
+        },
+        {
+          "sarga": 94,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-94.json"
+        },
+        {
+          "sarga": 95,
+          "shloka_count": 40,
+          "path": "data/yuddha-kanda/sarga-95.json"
+        },
+        {
+          "sarga": 96,
+          "shloka_count": 43,
+          "path": "data/yuddha-kanda/sarga-96.json"
+        },
+        {
+          "sarga": 97,
+          "shloka_count": 35,
+          "path": "data/yuddha-kanda/sarga-97.json"
+        },
+        {
+          "sarga": 98,
+          "shloka_count": 37,
+          "path": "data/yuddha-kanda/sarga-98.json"
+        },
+        {
+          "sarga": 99,
+          "shloka_count": 25,
+          "path": "data/yuddha-kanda/sarga-99.json"
+        },
+        {
+          "sarga": 100,
+          "shloka_count": 50,
+          "path": "data/yuddha-kanda/sarga-100.json"
+        },
+        {
+          "sarga": 101,
+          "shloka_count": 46,
+          "path": "data/yuddha-kanda/sarga-101.json"
+        },
+        {
+          "sarga": 102,
+          "shloka_count": 48,
+          "path": "data/yuddha-kanda/sarga-102.json"
+        },
+        {
+          "sarga": 103,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-103.json"
+        },
+        {
+          "sarga": 104,
+          "shloka_count": 31,
+          "path": "data/yuddha-kanda/sarga-104.json"
+        },
+        {
+          "sarga": 105,
+          "shloka_count": 30,
+          "path": "data/yuddha-kanda/sarga-105.json"
+        },
+        {
+          "sarga": 106,
+          "shloka_count": 26,
+          "path": "data/yuddha-kanda/sarga-106.json"
+        },
+        {
+          "sarga": 107,
+          "shloka_count": 30,
+          "path": "data/yuddha-kanda/sarga-107.json"
+        },
+        {
+          "sarga": 108,
+          "shloka_count": 35,
+          "path": "data/yuddha-kanda/sarga-108.json"
+        },
+        {
+          "sarga": 109,
+          "shloka_count": 28,
+          "path": "data/yuddha-kanda/sarga-109.json"
+        },
+        {
+          "sarga": 110,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-110.json"
+        },
+        {
+          "sarga": 111,
+          "shloka_count": 33,
+          "path": "data/yuddha-kanda/sarga-111.json"
+        },
+        {
+          "sarga": 112,
+          "shloka_count": 24,
+          "path": "data/yuddha-kanda/sarga-112.json"
+        },
+        {
+          "sarga": 113,
+          "shloka_count": 25,
+          "path": "data/yuddha-kanda/sarga-113.json"
+        },
+        {
+          "sarga": 114,
+          "shloka_count": 125,
+          "path": "data/yuddha-kanda/sarga-114.json"
+        },
+        {
+          "sarga": 115,
+          "shloka_count": 25,
+          "path": "data/yuddha-kanda/sarga-115.json"
+        },
+        {
+          "sarga": 116,
+          "shloka_count": 53,
+          "path": "data/yuddha-kanda/sarga-116.json"
+        },
+        {
+          "sarga": 117,
+          "shloka_count": 35,
+          "path": "data/yuddha-kanda/sarga-117.json"
+        },
+        {
+          "sarga": 118,
+          "shloka_count": 24,
+          "path": "data/yuddha-kanda/sarga-118.json"
+        },
+        {
+          "sarga": 119,
+          "shloka_count": 35,
+          "path": "data/yuddha-kanda/sarga-119.json"
+        },
+        {
+          "sarga": 120,
+          "shloka_count": 32,
+          "path": "data/yuddha-kanda/sarga-120.json"
+        },
+        {
+          "sarga": 121,
+          "shloka_count": 21,
+          "path": "data/yuddha-kanda/sarga-121.json"
+        },
+        {
+          "sarga": 122,
+          "shloka_count": 38,
+          "path": "data/yuddha-kanda/sarga-122.json"
+        },
+        {
+          "sarga": 123,
+          "shloka_count": 23,
+          "path": "data/yuddha-kanda/sarga-123.json"
+        },
+        {
+          "sarga": 124,
+          "shloka_count": 29,
+          "path": "data/yuddha-kanda/sarga-124.json"
+        },
+        {
+          "sarga": 125,
+          "shloka_count": 26,
+          "path": "data/yuddha-kanda/sarga-125.json"
+        },
+        {
+          "sarga": 126,
+          "shloka_count": 56,
+          "path": "data/yuddha-kanda/sarga-126.json"
+        },
+        {
+          "sarga": 127,
+          "shloka_count": 21,
+          "path": "data/yuddha-kanda/sarga-127.json"
+        },
+        {
+          "sarga": 128,
+          "shloka_count": 45,
+          "path": "data/yuddha-kanda/sarga-128.json"
+        },
+        {
+          "sarga": 129,
+          "shloka_count": 54,
+          "path": "data/yuddha-kanda/sarga-129.json"
+        },
+        {
+          "sarga": 130,
+          "shloka_count": 61,
+          "path": "data/yuddha-kanda/sarga-130.json"
+        },
+        {
+          "sarga": 131,
+          "shloka_count": 124,
+          "path": "data/yuddha-kanda/sarga-131.json"
+        }
+      ]
+    }
+  ]
+}

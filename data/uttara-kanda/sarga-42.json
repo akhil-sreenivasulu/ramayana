@@ -1,0 +1,304 @@
+{
+  "kanda": "Uttara Kanda",
+  "kanda_slug": "uttara-kanda",
+  "sarga": 42,
+  "shloka_count": 37,
+  "shlokas": [
+    {
+      "shloka": 1,
+      "shloka_text": "स विसृज्य ततो रामः पुष्पकं हेमभूषितम् । प्रविवेश महाबाहुरशोकवनिकां तदा ।। 7.42.1 ।।",
+      "transliteration": "sa visṛjya tato rāmaḥ puṣpakaṃ hemabhūṣitam | praviveśa mahābāhuraśokavanikāṃ tadā || 7.42.1 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 2,
+      "shloka_text": "चन्दनागुरुचूतैश्च तुङ्गकालेयकैरपि । देवदारुवनैश्चापि समन्तादुपशोभिताम् ।। 7.42.2 ।।",
+      "transliteration": "candanāgurucūtaiśca tuṅgakāleyakairapi | devadāruvanaiścāpi samantādupaśobhitām || 7.42.2 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 3,
+      "shloka_text": "चम्पकाशोकपुन्नागमधूकपनसासनैः । शोभितां पारिजातैश्च विधूमज्वलनप्रभैः ।। 7.42.3 ।।",
+      "transliteration": "campakāśokapunnāgamadhūkapanasāsanaiḥ | śobhitāṃ pārijātaiśca vidhūmajvalanaprabhaiḥ || 7.42.3 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 4,
+      "shloka_text": "लोध्रनीपार्जुनैर्नागैः सप्तपर्णातिमुक्तकैः । मन्दारकदलीगुल्मलताजालसमावृताम् ।। 7.42.4 ।।",
+      "transliteration": "lodhranīpārjunairnāgaiḥ saptaparṇātimuktakaiḥ | mandārakadalīgulmalatājālasamāvṛtām || 7.42.4 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 5,
+      "shloka_text": "प्रियङ्गुभिः कदम्बैश्च तथा च वकुलैरपि । जम्बूभिर्दाडिमैश्चैव कोविदारैश्च शोभिताम् ।। 7.42.5 ।।",
+      "transliteration": "priyaṅgubhiḥ kadambaiśca tathā ca vakulairapi | jambūbhirdāḍimaiścaiva kovidāraiśca śobhitām || 7.42.5 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 6,
+      "shloka_text": "सर्वदा कुसुमै रम्यैः फलवद्भिर्मनोरमैः । दिव्यगन्धरसोपेतैस्तरुणाङ्कुरपल्लवैः ।। 7.42.6 ।।",
+      "transliteration": "sarvadā kusumai ramyaiḥ phalavadbhirmanoramaiḥ | divyagandharasopetaistaruṇāṅkurapallavaiḥ || 7.42.6 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 7,
+      "shloka_text": "तथैव तरुभिर्दिव्यैः शिल्पिभिः परिकल्पितैः । चारुपल्लवपुष्पाढ्यैर्मत्तभ्रमरसङ्कुलैः ।। 7.42.7 ।।",
+      "transliteration": "tathaiva tarubhirdivyaiḥ śilpibhiḥ parikalpitaiḥ | cārupallavapuṣpāḍhyairmattabhramarasaṅkulaiḥ || 7.42.7 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 8,
+      "shloka_text": "कोकिलैर्भृङ्गराजैश्च नानावर्णैश्च पक्षिभिः । शोभितां शतशश्चित्रां चूतवृक्षावतंसकैः ।। 7.42.8 ।।",
+      "transliteration": "kokilairbhṛṅgarājaiśca nānāvarṇaiśca pakṣibhiḥ | śobhitāṃ śataśaścitrāṃ cūtavṛkṣāvataṃsakaiḥ || 7.42.8 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 9,
+      "shloka_text": "शातकुम्भनिभाः केचित्केचिदग्निशिखोपमाः । नीलाञ्जननिभाश्चान्ये भान्ति तत्रत्यपादपाः ।। 7.42.9 ।।",
+      "transliteration": "śātakumbhanibhāḥ kecitkecidagniśikhopamāḥ | nīlāñjananibhāścānye bhānti tatratyapādapāḥ || 7.42.9 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 10,
+      "shloka_text": "सुरभीणि च पुष्पाणि माल्यानि विविधानि च । दीर्घिका विविधाकाराः पूर्णाः परमवारिणा ।। 7.42.10 ।।",
+      "transliteration": "surabhīṇi ca puṣpāṇi mālyāni vividhāni ca | dīrghikā vividhākārāḥ pūrṇāḥ paramavāriṇā || 7.42.10 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 11,
+      "shloka_text": "माणिक्यकृतसोपानाः स्फाटिकान्तरकुट्टिमाः । फुल्लपद्मोत्पलवनाश्चक्रवाकोपशोभिताः ।। 7.42.11 ।।",
+      "transliteration": "māṇikyakṛtasopānāḥ sphāṭikāntarakuṭṭimāḥ | phullapadmotpalavanāścakravākopaśobhitāḥ || 7.42.11 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 12,
+      "shloka_text": "दात्यूहशुकसङ्घुष्टा हंससारसनादिताः । तरुभिः पुष्पवद्भिश्च तीरजैरुपशोभिताः ।। 7.42.12 ।।",
+      "transliteration": "dātyūhaśukasaṅghuṣṭā haṃsasārasanāditāḥ | tarubhiḥ puṣpavadbhiśca tīrajairupaśobhitāḥ || 7.42.12 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 13,
+      "shloka_text": "प्राकारैर्विविधाकारैः शोभिताश्च शिलातलैः । तत्रैव च वनोद्देशे वैडूर्यमणिसन्निभैः ।। 7.42.13 ।।",
+      "transliteration": "prākārairvividhākāraiḥ śobhitāśca śilātalaiḥ | tatraiva ca vanoddeśe vaiḍūryamaṇisannibhaiḥ || 7.42.13 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 14,
+      "shloka_text": "शाद्वलैः परमोपेतां पुष्पितद्रुमकाननाम् । तत्र सङ्घर्षजातानां वृक्षाणां पुष्पशालिनाम् ।। 7.42.14 ।।",
+      "transliteration": "śādvalaiḥ paramopetāṃ puṣpitadrumakānanām | tatra saṅgharṣajātānāṃ vṛkṣāṇāṃ puṣpaśālinām || 7.42.14 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 15,
+      "shloka_text": "प्रस्तराः पुष्पशबला नभस्तारागणैरिव । नन्दनं हि यथेन्द्रस्य ब्राह्मं चैत्ररथं यथा ।। 7.42.15 ।।",
+      "transliteration": "prastarāḥ puṣpaśabalā nabhastārāgaṇairiva | nandanaṃ hi yathendrasya brāhmaṃ caitrarathaṃ yathā | tathābhūtaṃ hi rāmasya kānanaṃ sanniveśanam || 7.42.15 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 16,
+      "shloka_text": "तथाभूतं हि रामस्य काननं सन्निवेशनम् । बह्वासनगृहोपेतां लतागृहसमावृताम् ।। 7.42.16 ।।",
+      "transliteration": "bahvāsanagṛhopetāṃ latāgṛhasamāvṛtām | aśokavanikāṃ sphītāṃ praviśya raghunandanaḥ || 7.42.16 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 17,
+      "shloka_text": "अशोकवनिकां स्फीतां प्रविश्य रघुनन्दनः । आसने च शुभाकारे पुष्पप्रकरभूषिते ।। 7.42.17 ।।",
+      "transliteration": "āsane ca śubhākāre puṣpaprakarabhūṣite | kuśāstaraṇasaṃstīrṇe rāmaḥ sanniṣasāda ha || 7.42.17 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 18,
+      "shloka_text": "कुशास्तरणसंस्तीर्णे रामः सन्निषसाद ह । सीतामादायं हस्तेन मधुमैरेयकं शुचि ।। 7.42.18 ।।",
+      "transliteration": "sītāmādāyaṃ hastena madhumaireyakaṃ śuci | pāyayāmāsa kākutsthaḥ śacīmiva purandaraḥ || 7.42.18 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 19,
+      "shloka_text": "पाययामास काकुत्स्थः शचीमिव पुरन्दरः । मांसानि च समृष्टानि फलानि विविधानि च ।। 7.42.19 ।।",
+      "transliteration": "māṃsāni ca samṛṣṭāni phalāni vividhāni ca | rāmasyābhyavahārārthaṃ kiṅkarāstūrṇamāharan || 7.42.19 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 20,
+      "shloka_text": "रामस्याभ्यवहारार्थं किङ्करास्तूर्णमाहरन्उ । उपानृत्यंश्च राजानं नृत्यगीतविशारदाः ।। 7.42.20 ।।",
+      "transliteration": "upānṛtyaṃśca rājānaṃ nṛtyagītaviśāradāḥ | bālāśca rūpavatyaśca striyaḥ pānavaśānugāḥ || 7.42.20 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 21,
+      "shloka_text": "बालाश्च रूपवत्यश्च स्त्रियः पानवशानुगाः । मनोभिरामा रामास्ता रामो रमयतां वरः ।। 7.42.21 ।।",
+      "transliteration": "manobhirāmā rāmāstā rāmo ramayatāṃ varaḥ | ramayāmāsa dharmātmā nityaṃ paramabhūṣitaḥ || 7.42.21 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 22,
+      "shloka_text": "उपानृत्यन्त काकुत्स्थं नृत्यगीतविशारदाः । मनोभिरामा रामास्ता रामो रमयतां वरः ।। 7.42.22 ।।",
+      "transliteration": "sa tayā sītayā sārdhamāsīno virarāja ha | arundhatyā sahāsīno vasiṣṭha iva tejasā || 7.42.22 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 23,
+      "shloka_text": "रमयामास धर्मात्मा नित्यं परमभूषितः । स तया सीतया सार्धमासीनो विरराज ह ।। 7.42.23 ।।",
+      "transliteration": "evaṃ rāmo mudā yuktaḥ sītāṃ surasutopamām | ramayāmāsa vaidehīmahanyahani devavat || 7.42.23 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 24,
+      "shloka_text": "अरुन्धत्या सहासीनो वसिष्ठ इव तेजसा । एवं रामो मुदा युक्तः सीतां सुरसुतोपमाम् ।। 7.42.24 ।।",
+      "transliteration": "tathā tayorviharatoḥ sītārāghavayościram | atyakrāmacchubhaḥ kālaḥ śaiśiro bhogadaḥ sadā || 7.42.24 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 25,
+      "shloka_text": "रमयामास वैदेहीमहन्यहनि देववत्त । था तयोर्विहरतोः सीताराघवयोश्चिरम् ।। 7.42.25 ।।",
+      "transliteration": "daśavarṣasahasrāṇi gatāni sumahātmanoḥ | prāptayorvividhānbhogānatītaḥ śiśirāgamaḥ || 7.42.25 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 26,
+      "shloka_text": "अत्यक्रामच्छुभः कालः शैशिरो भोगदः सदा । प्राप्तयोर्विविधान्भोगानतीतः शिशिरागमः ।। 7.42.26 ।।",
+      "transliteration": "pūrvāhṇe dharmakāryāṇi kṛtvā dharmeṇa dharmavit | śeṣaṃ divasabhāgārdhamantaḥpuragato 'bhavat || 7.42.26 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 27,
+      "shloka_text": "पूर्वाह्णे धर्मकार्याणि कृत्वा धर्मेण धर्मवित् । शेषं दिवसभागार्धमन्तःपुरगतो ऽभवत् ।। 7.42.27 ।।",
+      "transliteration": "sītāpi devakāryāṇi kṛtvā paurvāhṇikāni vai | śvaśrūṇāmakarotpūjāṃ sarvāsāmaviśeṣataḥ || 7.42.27 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 28,
+      "shloka_text": "सीतापि देवकार्याणि कृत्वा पौर्वाह्णिकानि वै । श्वश्रूणामकरोत्पूजां सर्वासामविशेषतः ।। 7.42.28 ।।",
+      "transliteration": "abhyagacchattato rāmaṃ vicitrābharaṇāmbarā | triviṣṭape sahasrākṣamupaviṣṭaṃ yathā śacī || 7.42.28 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 29,
+      "shloka_text": "अभ्यगच्छत्ततो रामं विचित्राभरणाम्बरा । त्रिविष्टपे सहस्राक्षमुपविष्टं यथा शची ।। 7.42.29 ।।",
+      "transliteration": "dṛṣṭvā tu rāghavaḥ patnīṃ kalyāṇena samanvitām | praharṣamatulaṃ lebhe sādhu sādhviti cābravīt || 7.42.29 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 30,
+      "shloka_text": "दृष्ट्वा तु राघवः पत्नीं कल्याणेन समन्विताम् । प्रहर्षमतुलं लेभे साधु साध्विति चाब्रवीत् ।। 7.42.30 ।।",
+      "transliteration": "abravīcca varārohāṃ sītāṃ surasutopamām | apatyalābho vaidehi tvayi me samupasthitaḥ || 7.42.30 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 31,
+      "shloka_text": "अब्रवीच्च वरारोहां सीतां सुरसुतोपमाम् । अपत्यलाभो वैदेहि त्वयि मे समुपस्थितः ।। 7.42.31 ।।",
+      "transliteration": "kimicchasi varārohe kāmaḥ kiṃ kriyatāṃ tava || 7.42.31 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 32,
+      "shloka_text": "किमिच्छसि वरारोहे कामः किं क्रियतां तव । स्मितं कृत्वा तु वैदेही रामं वाक्यमथाब्रवीत् ।। 7.42.32 ।।",
+      "transliteration": "smitaṃ kṛtvā tu vaidehī rāmaṃ vākyamathābravīt | tapovanāni puṇyāni draṣṭumicchāmi rāghava || 7.42.32 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 33,
+      "shloka_text": "तपोवनानि पुण्यानि द्रष्टुमिच्छामि राघव । गङ्गातीरोपविष्टानामृषीणामुग्रतेजसाम् ।। 7.42.33 ।।",
+      "transliteration": "gaṅgātīropaviṣṭānāmṛṣīṇāmugratejasām | phalamūlāśināṃ deva pādamūleṣu vartitum || 7.42.33 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 34,
+      "shloka_text": "फलमूलाशिनां देव पादमूलेषु वर्तितुम् । एष मे परमः कामो यन्मूलफलभोजिनाम् ।। 7.42.34 ।।",
+      "transliteration": "eṣa me paramaḥ kāmo yanmūlaphalabhojinām | apyekarātraṃ kākutstha nivaseyaṃ tapovane || 7.42.34 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 35,
+      "shloka_text": "अप्येकरात्रं काकुत्स्थ निवसेयं तपोवने । तथेति च प्रतिज्ञातं रामेणाक्लिष्टकर्मणा । विस्रब्धा भव वैदेहि श्वो गमिष्यस्यसंशयम् ।। 7.42.35 ।।",
+      "transliteration": "tatheti ca pratijñātaṃ rāmeṇākliṣṭakarmaṇā | visrabdhā bhava vaidehi śvo gamiṣyasyasaṃśayam || 7.42.35 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 36,
+      "shloka_text": "एवमुक्त्वा तु काकुत्स्थो मैथिलीं जनकात्मजाम् । मध्यकक्षान्तरं रामो निर्जगाम सुहृद्वृतः ।। 7.42.36 ।।",
+      "transliteration": "evamuktvā tu kākutstho maithilīṃ janakātmajām | madhyakakṣāntaraṃ rāmo nirjagāma suhṛdvṛtaḥ || 7.42.36 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 37,
+      "shloka_text": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे द्विचत्वारिंशः सर्गः ।। 42 ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmaduttarakāṇḍe dvicatvāriṃśaḥ sargaḥ || 42 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    }
+  ]
+}

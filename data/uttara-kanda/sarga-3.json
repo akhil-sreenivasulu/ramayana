@@ -1,0 +1,304 @@
+{
+  "kanda": "Uttara Kanda",
+  "kanda_slug": "uttara-kanda",
+  "sarga": 3,
+  "shloka_count": 37,
+  "shlokas": [
+    {
+      "shloka": 1,
+      "shloka_text": "अथ पुत्रः पुलस्त्यस्य विश्रवा मुनिपुङ्गवः । अचिरेणैव कालेन पितेव तपसि स्थितः ।। 7.3.1 ।।",
+      "transliteration": "atha putraḥ pulastyasya viśravā munipuṅgavaḥ | acireṇaiva kālena piteva tapasi sthitaḥ || 7.3.1 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 2,
+      "shloka_text": "सत्यवाञ्छीलवाञ्छान्तः स्वाध्यायनिरतः शुचिः । सर्वभोगेष्वसंसक्तो नित्यं धर्मपरायणः ।। 7.3.2 ।।",
+      "transliteration": "satyavāñchīlavāñchāntaḥ svādhyāyanirataḥ śuciḥ | sarvabhogeṣvasaṃsakto nityaṃ dharmaparāyaṇaḥ || 7.3.2 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 3,
+      "shloka_text": "ज्ञात्वा तस्य तु तद्वृत्तं भरद्वाजो महामुनिः । ददौ विश्रवसे भार्यां स्वसुतां देववर्णिनीम् ।। 7.3.3 ।।",
+      "transliteration": "jñātvā tasya tu tadvṛttaṃ bharadvājo mahāmuniḥ | dadau viśravase bhāryāṃ svasutāṃ devavarṇinīm || 7.3.3 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 4,
+      "shloka_text": "प्रतिगृह्य तु धर्मेण भरद्वाजसुतां तदा । प्रजान्वेक्षिकया बुद्ध्या श्रेयो ह्यस्य विचिन्तयन् ।। 7.3.4 ।।",
+      "transliteration": "pratigṛhya tu dharmeṇa bharadvājasutāṃ tadā | prajānvekṣikayā buddhyā śreyo hyasya vicintayan || 7.3.4 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 5,
+      "shloka_text": "मुदा परमया युक्तो विश्रवा मुनिपुङ्गवः । स तस्यां वीर्यसम्पन्नमपत्यं परमाद्भुतम् ।। 7.3.5 ।।",
+      "transliteration": "mudā paramayā yukto viśravā munipuṅgavaḥ | sa tasyāṃ vīryasampannamapatyaṃ paramādbhutam || 7.3.5 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 6,
+      "shloka_text": "जनयामास धर्मज्ञः सर्वैर्ब्रह्मगुणैर्युतम् । तस्मिञ्जाते तु संहृष्टः सम्बभूव पितामहः ।। 7.3.6 ।।",
+      "transliteration": "janayāmāsa dharmajñaḥ sarvairbrahmaguṇairyutam | tasmiñjāte tu saṃhṛṣṭaḥ sambabhūva pitāmahaḥ || 7.3.6 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 7,
+      "shloka_text": "दृष्ट्वा श्रेयस्करीं बुद्धिं धनाध्यक्षो भविष्यति । नाम तस्याकरोत्प्रीतः सार्धं देवर्षिभिस्तदा ।। 7.3.7 ।।",
+      "transliteration": "dṛṣṭvā śreyaskarīṃ buddhiṃ dhanādhyakṣo bhaviṣyati | nāma tasyākarotprītaḥ sārdhaṃ devarṣibhistadā || 7.3.7 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 8,
+      "shloka_text": "यस्माद्विश्रवसो ऽपत्यं सादृश्याद्विश्रवा इव । तस्माद्वैश्रवणो नाम भविष्यत्वेष विश्रुतः ।। 7.3.8 ।।",
+      "transliteration": "yasmādviśravaso 'patyaṃ sādṛśyādviśravā iva | tasmādvaiśravaṇo nāma bhaviṣyatveṣa viśrutaḥ || 7.3.8 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 9,
+      "shloka_text": "स तु वैश्रवणस्तत्र तपोवनगतस्तदा । अवर्धताहुतिहुतो महातेजा यथानलः ।। 7.3.9 ।।",
+      "transliteration": "sa tu vaiśravaṇastatra tapovanagatastadā | avardhatāhutihuto mahātejā yathānalaḥ || 7.3.9 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 10,
+      "shloka_text": "तस्याश्रमपदस्थस्य बुद्धिर्जज्ञे महात्मनः । चरिष्ये परमं धर्मं धर्मो हि परमा गतिः ।। 7.3.10 ।।",
+      "transliteration": "tasyāśramapadasthasya buddhirjajñe mahātmanaḥ | cariṣye paramaṃ dharmaṃ dharmo hi paramā gatiḥ || 7.3.10 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 11,
+      "shloka_text": "स तु वर्षसहस्राणि तपस्तप्त्वा महावने । यन्त्रितो नियमैरुग्रैश्चकार सुमहत्तपः ।। 7.3.11 ।।",
+      "transliteration": "sa tu varṣasahasrāṇi tapastaptvā mahāvane | yantrito niyamairugraiścakāra sumahattapaḥ || 7.3.11 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 12,
+      "shloka_text": "पूर्णे वर्षसहस्रान्ते तं तं विधिमकल्पयत् । जलाशी मारुताहारो निराहारस्तथैव च ।। 7.3.12 ।।",
+      "transliteration": "pūrṇe varṣasahasrānte taṃ taṃ vidhimakalpayat | jalāśī mārutāhāro nirāhārastathaiva ca || 7.3.12 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 13,
+      "shloka_text": "एवं वर्षसहस्राणि जग्मुस्तान्येकवर्षवत् । अथ प्रीतो महातेजाः सेन्द्रैः सुरगणैः सह ।। 7.3.13 ।।",
+      "transliteration": "evaṃ varṣasahasrāṇi jagmustānyekavarṣavat | atha prīto mahātejāḥ sendraiḥ suragaṇaiḥ saha || 7.3.13 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 14,
+      "shloka_text": "गत्वा तस्याश्रमपदं ब्रह्मेदं वाक्यमब्रवीत् । परितुष्टो ऽस्मि ते वत्स कर्मणानेन सुव्रत । वरं वृणीष्व भद्रं ते वरार्हस्त्वं महामते ।। 7.3.14 ।।",
+      "transliteration": "gatvā tasyāśramapadaṃ brahmedaṃ vākyamabravīt | parituṣṭo 'smi te vatsa karmaṇānena suvrata | varaṃ vṛṇīṣva bhadraṃ te varārhastvaṃ mahāmate || 7.3.14 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 15,
+      "shloka_text": "अथाब्रवीद्वैश्रवणः पितामहमुपस्थितम् । भगवँल्लोकपालत्वमिच्छेयं वित्तरक्षणम् ।। 7.3.15 ।।",
+      "transliteration": "athābravīdvaiśravaṇaḥ pitāmahamupasthitam | bhagavaँllokapālatvamiccheyaṃ vittarakṣaṇam || 7.3.15 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 16,
+      "shloka_text": "अथाब्रवीद्वैश्रवणं परितुष्टेन चेतसा । ब्रह्मा सुरगणैः सार्धं बाढमित्येव हृष्टवत् ।। 7.3.16 ।।",
+      "transliteration": "athābravīdvaiśravaṇaṃ parituṣṭena cetasā | brahmā suragaṇaiḥ sārdhaṃ bāḍhamityeva hṛṣṭavat || 7.3.16 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 17,
+      "shloka_text": "अहं वै लोकपालानां चतुर्थं स्रष्टुमुद्यतः ।। 7.3.17 ।।",
+      "transliteration": "ahaṃ vai lokapālānāṃ caturthaṃ sraṣṭumudyataḥ || 7.3.17 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 18,
+      "shloka_text": "यमेन्द्रवरुणानां च पदं यत्तव चेप्सितम् । तद्गच्छ त्वं हि धर्मज्ञ निधीशत्वमवाप्नुहि । शक्राम्बुपयमानां च चतुर्थस्त्वं भविष्यसि ।। 7.3.18 ।।",
+      "transliteration": "yamendravaruṇānāṃ ca padaṃ yattava cepsitam | tadgaccha tvaṃ hi dharmajña nidhīśatvamavāpnuhi | śakrāmbupayamānāṃ ca caturthastvaṃ bhaviṣyasi || 7.3.18 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 19,
+      "shloka_text": "एतच्च पुष्पकं नाम विमानं सूर्यसन्निभम् । प्रतिगृह्णीष्व यानार्थं त्रिदशैः समतां व्रज ।। 7.3.19 ।।",
+      "transliteration": "etacca puṣpakaṃ nāma vimānaṃ sūryasannibham | pratigṛhṇīṣva yānārthaṃ tridaśaiḥ samatāṃ vraja || 7.3.19 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 20,
+      "shloka_text": "स्वस्ति ते ऽस्तु गमिष्यामः सर्व एव यथागतम् । कृतकृत्या वयं तात दत्त्वा तव वरद्वयम् ।। 7.3.20 ।।",
+      "transliteration": "svasti te 'stu gamiṣyāmaḥ sarva eva yathāgatam | kṛtakṛtyā vayaṃ tāta dattvā tava varadvayam || 7.3.20 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 21,
+      "shloka_text": "इत्युक्त्वा स गतो ब्रह्मा स्वस्थानं त्रिदशैः सह ।। 7.3.21 ।।",
+      "transliteration": "ityuktvā sa gato brahmā svasthānaṃ tridaśaiḥ saha || 7.3.21 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 22,
+      "shloka_text": "गतेषु ब्रह्मपूर्वेषु देवेष्वथ नभस्थलम् । वने स पितरं प्राह प्राञ्जलिः प्रयतात्मवान् । निवासनं न मे देवो विदधे स प्रजापतिः ।। 7.3.22 ।।",
+      "transliteration": "gateṣu brahmapūrveṣu deveṣvatha nabhasthalam | vane sa pitaraṃ prāha prāñjaliḥ prayatātmavān | nivāsanaṃ na me devo vidadhe sa prajāpatiḥ || 7.3.22 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 23,
+      "shloka_text": "भगवँल्लब्धवानस्मि वरमिष्टं पितामहात् । तं पश्य भगवन्कञ्चिन्निवासं साधु मे प्रभो ।। 7.3.23 ।।",
+      "transliteration": "bhagavaँllabdhavānasmi varamiṣṭaṃ pitāmahāt | taṃ paśya bhagavankañcinnivāsaṃ sādhu me prabho || 7.3.23 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 24,
+      "shloka_text": "न च पीडा भवेद्यत्र प्राणिनो यस्य कस्यचित् । एवमुक्तस्तु पुत्रेण विश्रवा मुनिपुङ्गवः ।। 7.3.24 ।।",
+      "transliteration": "na ca pīḍā bhavedyatra prāṇino yasya kasyacit | evamuktastu putreṇa viśravā munipuṅgavaḥ || 7.3.24 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 25,
+      "shloka_text": "वचनं प्राह धर्मज्ञः श्रूयतामिति सत्तमः । दक्षिणस्योदधेस्तीरे त्रिकूटो नाम पर्वतः ।। 7.3.25 ।।",
+      "transliteration": "vacanaṃ prāha dharmajñaḥ śrūyatāmiti sattamaḥ | dakṣiṇasyodadhestīre trikūṭo nāma parvataḥ || 7.3.25 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 26,
+      "shloka_text": "तस्याग्रे तु विशाला सा महेन्द्रस्य पुरी यथा । लङ्का नाम पुरी रम्या निर्मिता विश्वकर्मणा ।। 7.3.26 ।।",
+      "transliteration": "tasyāgre tu viśālā sā mahendrasya purī yathā | laṅkā nāma purī ramyā nirmitā viśvakarmaṇā || 7.3.26 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 27,
+      "shloka_text": "राक्षसानां निवासार्थं यथेन्द्रस्यामरावती । तत्र त्वं वस भद्रं ते लङ्कायां नात्र संशयः ।। 7.3.27 ।।",
+      "transliteration": "rākṣasānāṃ nivāsārthaṃ yathendrasyāmarāvatī | tatra tvaṃ vasa bhadraṃ te laṅkāyāṃ nātra saṃśayaḥ || 7.3.27 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 28,
+      "shloka_text": "हेमप्राकारपरिघा यन्त्रशस्त्रसमावृता । रमणीया पुरी सा हि रुक्मवैडूर्यतोरणा ।। 7.3.28 ।।",
+      "transliteration": "hemaprākāraparighā yantraśastrasamāvṛtā | ramaṇīyā purī sā hi rukmavaiḍūryatoraṇā || 7.3.28 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 29,
+      "shloka_text": "राक्षसैः सा परित्यक्ता पुरा विष्णुभयार्दितैः । शून्या रक्षोगणैः सर्वै रसातलतलं गतैः ।। 7.3.29 ।।",
+      "transliteration": "rākṣasaiḥ sā parityaktā purā viṣṇubhayārditaiḥ | śūnyā rakṣogaṇaiḥ sarvai rasātalatalaṃ gataiḥ || 7.3.29 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 30,
+      "shloka_text": "शून्या सम्प्रति लङ्का सा प्रभुस्तस्या न विद्यते । स त्वं तत्र निवासाय गच्छ पुत्र यथासुखम् ।। 7.3.30 ।।",
+      "transliteration": "śūnyā samprati laṅkā sā prabhustasyā na vidyate | sa tvaṃ tatra nivāsāya gaccha putra yathāsukham || 7.3.30 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 31,
+      "shloka_text": "निर्दोषस्तत्र ते वासो न बाधास्तत्र कस्यचित् । एतच्छुत्वा स धर्मात्मा धर्मिष्ठं वचनं पितुः ।। 7.3.31 ।।",
+      "transliteration": "nirdoṣastatra te vāso na bādhāstatra kasyacit | etacchutvā sa dharmātmā dharmiṣṭhaṃ vacanaṃ pituḥ || 7.3.31 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 32,
+      "shloka_text": "निवासयामास तदा लङ्कां पर्वतमूर्धनि । नैर्ऋतानां सहस्रैस्तु हृष्टैः प्रमुदुतैः सह ।। 7.3.32 ।।",
+      "transliteration": "nivāsayāmāsa tadā laṅkāṃ parvatamūrdhani | nairṛtānāṃ sahasraistu hṛṣṭaiḥ pramudutaiḥ saha || 7.3.32 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 33,
+      "shloka_text": "अचिरेणैव कालेन सम्पूर्णा तस्य शासनात् ।। 7.3.33 ।।",
+      "transliteration": "acireṇaiva kālena sampūrṇā tasya śāsanāt || 7.3.33 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 34,
+      "shloka_text": "स तु तत्रावसत्प्रीतो धर्मात्मा नैर्ऋतर्षभः । समुद्रपरिघायां तु लङ्कायां विश्रवात्मजः ।। 7.3.34 ।।",
+      "transliteration": "sa tu tatrāvasatprīto dharmātmā nairṛtarṣabhaḥ | samudraparighāyāṃ tu laṅkāyāṃ viśravātmajaḥ || 7.3.34 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 35,
+      "shloka_text": "काले काले तु धर्मात्मा पुष्पकेण धनेश्वरः । अभ्यागच्छद्विनीतात्मा पितरं मातरं च हि ।। 7.3.35 ।।",
+      "transliteration": "kāle kāle tu dharmātmā puṣpakeṇa dhaneśvaraḥ | abhyāgacchadvinītātmā pitaraṃ mātaraṃ ca hi || 7.3.35 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 36,
+      "shloka_text": "स देवगन्धर्वगणैरभिष्टुतस्तथाप्सरोनृत्यविभूषितालयः । गभस्तिभिः सूर्य इवावभासयन्पितुः समीपं प्रययौ स वित्तपः ।। 7.3.36 ।।",
+      "transliteration": "sa devagandharvagaṇairabhiṣṭutastathāpsaronṛtyavibhūṣitālayaḥ | gabhastibhiḥ sūrya ivāvabhāsayanpituḥ samīpaṃ prayayau sa vittapaḥ || 7.3.36 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 37,
+      "shloka_text": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे तृतीयः सर्गः ।। 3 ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmaduttarakāṇḍe tṛtīyaḥ sargaḥ || 3 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    }
+  ]
+}

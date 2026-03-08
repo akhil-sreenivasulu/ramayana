@@ -1,0 +1,432 @@
+{
+  "kanda": "Uttara Kanda",
+  "kanda_slug": "uttara-kanda",
+  "sarga": 76,
+  "shloka_count": 53,
+  "shlokas": [
+    {
+      "shloka": 1,
+      "shloka_text": "तस्य तद्वचनं श्रुत्वा रामस्याक्लिष्टकर्मणः । अवाक्छिरास्तथाभूत्वा वाक्यमेतदुवाच ह ।। 7.76.1 ।।",
+      "transliteration": "tasya tadvacanaṃ śrutvā rāmasyākliṣṭakarmaṇaḥ | avākchirāstathābhūtvā vākyametaduvāca ha || 7.76.1 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 2,
+      "shloka_text": "शूद्रयोन्यां प्रसूतो ऽस्मि शम्बूको नाम नामतः । देवत्वं पार्थये राम सशरीरो महायशः ।। 7.76.2 ।।",
+      "transliteration": "śūdrayonyāṃ prasūto 'smi śambūko nāma nāmataḥ | devatvaṃ pārthaye rāma saśarīro mahāyaśaḥ || 7.76.2 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 3,
+      "shloka_text": "न मिथ्या ऽहं वदे राम देवलोकजिगीषया । शूद्रं मां विद्धि काकुत्स्थ तप उग्रं समास्थितम् ।। 7.76.3 ।।",
+      "transliteration": "na mithyā 'haṃ vade rāma devalokajigīṣayā | śūdraṃ māṃ viddhi kākutstha tapa ugraṃ samāsthitam || 7.76.3 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 4,
+      "shloka_text": "भाषतस्तस्य शूद्रस्य खड्गं सुरुचिरप्रभम् । निष्कृष्य कोशाद्विमलं शिरश्चिच्छेद राघवः ।। 7.76.4 ।।",
+      "transliteration": "bhāṣatastasya śūdrasya khaḍgaṃ suruciraprabham | niṣkṛṣya kośādvimalaṃ śiraściccheda rāghavaḥ || 7.76.4 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 5,
+      "shloka_text": "तस्मिञ्छूद्रे हते देवाः सेन्द्राः साग्निपुरोगमाः । साधु साध्विति काकुत्स्थं प्रशशंसुर्मुहुर्मुहुः ।। 7.76.5 ।।",
+      "transliteration": "tasmiñchūdre hate devāḥ sendrāḥ sāgnipurogamāḥ | sādhu sādhviti kākutsthaṃ praśaśaṃsurmuhurmuhuḥ || 7.76.5 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 6,
+      "shloka_text": "पुष्पवृष्टिर्महत्यासीद्दिव्यानां सुसुगन्धिनाम् । पुष्पाणां वायुमुक्तानां सर्वतः प्रपपात ह ।। 7.76.6 ।।",
+      "transliteration": "puṣpavṛṣṭirmahatyāsīddivyānāṃ susugandhinām | puṣpāṇāṃ vāyumuktānāṃ sarvataḥ prapapāta ha || 7.76.6 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 7,
+      "shloka_text": "सुप्रीताश्चाब्रुवन्रामं देवाः सत्यपराक्रमम् । सुरकार्यमिदं सौम्य सुकृतं ते महामते ।। 7.76.7 ।।",
+      "transliteration": "suprītāścābruvanrāmaṃ devāḥ satyaparākramam | surakāryamidaṃ saumya sukṛtaṃ te mahāmate || 7.76.7 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 8,
+      "shloka_text": "गृहाण च वरं सौम्य यत्त्वमिच्छस्यरिन्दम । स्वर्गभाङ्नहि शूद्रो ऽयं त्वत्कृते रघुनन्दन ।। 7.76.8 ।।",
+      "transliteration": "gṛhāṇa ca varaṃ saumya yattvamicchasyarindama | svargabhāṅnahi śūdro 'yaṃ tvatkṛte raghunandana || 7.76.8 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 9,
+      "shloka_text": "देवानां भाषितं श्रुत्वा राघवः सुसमाहितः । उवाच प्राञ्जलिर्वाक्यं सहस्राक्षं पुरन्दरम् ।। 7.76.9 ।।",
+      "transliteration": "devānāṃ bhāṣitaṃ śrutvā rāghavaḥ susamāhitaḥ | uvāca prāñjalirvākyaṃ sahasrākṣaṃ purandaram || 7.76.9 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 10,
+      "shloka_text": "यदि देवाः प्रसन्ना मे द्विजपुत्रः स जीवतु । दिशन्तु वरमेतं मे इप्सितं परमं मम ।। 7.76.10 ।।",
+      "transliteration": "yadi devāḥ prasannā me dvijaputraḥ sa jīvatu | diśantu varametaṃ me ipsitaṃ paramaṃ mama || 7.76.10 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 11,
+      "shloka_text": "ममापचाराद्यातो ऽसौ ब्राह्मणस्यैकपुत्रकः । अप्राप्तकालः कालेन नीतो वैवस्वतक्षयम् ।। 7.76.11 ।।",
+      "transliteration": "mamāpacārādyāto 'sau brāhmaṇasyaikaputrakaḥ | aprāptakālaḥ kālena nīto vaivasvatakṣayam || 7.76.11 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 12,
+      "shloka_text": "तं जीवयथ भद्रं वो नानृतं कर्तुमर्हथ । द्विजस्य संश्रुतो ऽर्थो मे जीवयिष्यामि ते सुतम् ।। 7.76.12 ।।",
+      "transliteration": "taṃ jīvayatha bhadraṃ vo nānṛtaṃ kartumarhatha | dvijasya saṃśruto 'rtho me jīvayiṣyāmi te sutam || 7.76.12 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 13,
+      "shloka_text": "राघवस्य तु तद्वाक्यं श्रुत्वा विबुधसत्तमाः । प्रत्युचू राघवं प्रीता देवाः प्रीतिसमन्वितम् ।। 7.76.13 ।।",
+      "transliteration": "rāghavasya tu tadvākyaṃ śrutvā vibudhasattamāḥ | pratyucū rāghavaṃ prītā devāḥ prītisamanvitam || 7.76.13 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 14,
+      "shloka_text": "निर्वृतो भव काकुत्स्थ सो ऽस्मिन्नहनि बालकः । जीवितं प्राप्तवान्भूयः समेतश्चापि बन्धुभिः ।। 7.76.14 ।।",
+      "transliteration": "nirvṛto bhava kākutstha so 'sminnahani bālakaḥ | jīvitaṃ prāptavānbhūyaḥ sametaścāpi bandhubhiḥ || 7.76.14 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 15,
+      "shloka_text": "यस्मिन्मुहूर्ते काकुत्स्थ शूद्रो ऽयं विनिपातितः । तस्मिन्मुहूर्ते बालो ऽसौ जीवेन समयुज्यत ।। 7.76.15 ।।",
+      "transliteration": "yasminmuhūrte kākutstha śūdro 'yaṃ vinipātitaḥ | tasminmuhūrte bālo 'sau jīvena samayujyata || 7.76.15 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 16,
+      "shloka_text": "स्वस्ति प्राप्नुहि भद्रं ते साधु याम नरर्षभ । अगस्त्यस्याश्रमपदं द्रष्टुमिच्छाम राघव ।। 7.76.16 ।।",
+      "transliteration": "svasti prāpnuhi bhadraṃ te sādhu yāma nararṣabha | agastyasyāśramapadaṃ draṣṭumicchāma rāghava || 7.76.16 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 17,
+      "shloka_text": "तस्य दीक्षा समाप्ता हि ब्रह्मर्षेः सुमहाद्युतेः । द्वादशं हि गतं वर्षं जलशय्यां समासतः ।। 7.76.17 ।।",
+      "transliteration": "tasya dīkṣā samāptā hi brahmarṣeḥ sumahādyuteḥ | dvādaśaṃ hi gataṃ varṣaṃ jalaśayyāṃ samāsataḥ || 7.76.17 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 18,
+      "shloka_text": "काकुत्स्थ तद्गमिष्यामो मुनिं समभिनन्दितुम् । त्वं चाप्यागच्छ भद्रं ते द्रष्टुं तमृषिसत्तमम् ।। 7.76.18 ।।",
+      "transliteration": "kākutstha tadgamiṣyāmo muniṃ samabhinanditum | tvaṃ cāpyāgaccha bhadraṃ te draṣṭuṃ tamṛṣisattamam || 7.76.18 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 19,
+      "shloka_text": "स तथेति प्रतिज्ञाय देवानां रघुनन्दनः । आरुरोह विमानं तं पुष्पकं हेमभूषितम् ।। 7.76.19 ।।",
+      "transliteration": "sa tatheti pratijñāya devānāṃ raghunandanaḥ | āruroha vimānaṃ taṃ puṣpakaṃ hemabhūṣitam || 7.76.19 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 20,
+      "shloka_text": "ततो देवाः प्रयातास्ते विमानैर्बहुविस्तरैः । रामो ऽप्यनुजगामाशु कुम्भयोनेस्तपोवनम् ।। 7.76.20 ।।",
+      "transliteration": "tato devāḥ prayātāste vimānairbahuvistaraiḥ | rāmo 'pyanujagāmāśu kumbhayonestapovanam || 7.76.20 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 21,
+      "shloka_text": "दृष्ट्वा तु देवान्सम्प्राप्तानगस्त्यस्तपसां निधिः । अर्चयामास धर्मात्मा सर्वांस्तानविशेषतः ।। 7.76.21 ।।",
+      "transliteration": "dṛṣṭvā tu devānsamprāptānagastyastapasāṃ nidhiḥ | arcayāmāsa dharmātmā sarvāṃstānaviśeṣataḥ || 7.76.21 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 22,
+      "shloka_text": "प्रतिगृह्य ततः पूजां सम्पूज्य च महामुनिम् । जग्मुस्ते त्रिदशा हृष्टा नाकपृष्ठं सहानुगैः ।। 7.76.22 ।।",
+      "transliteration": "pratigṛhya tataḥ pūjāṃ sampūjya ca mahāmunim | jagmuste tridaśā hṛṣṭā nākapṛṣṭhaṃ sahānugaiḥ || 7.76.22 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 23,
+      "shloka_text": "गतेषु तेषु काकुत्स्थः पुष्पकादवरुह्य च । ततो ऽभिवादयामास ह्यगस्त्यमृषिसत्तमम् ।। 7.76.23 ।।",
+      "transliteration": "gateṣu teṣu kākutsthaḥ puṣpakādavaruhya ca | tato 'bhivādayāmāsa hyagastyamṛṣisattamam || 7.76.23 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 24,
+      "shloka_text": "सो ऽभिवाद्य महात्मानं ज्वलन्तमिव तेजसा । आतिथ्यं परमं प्राप्य निषसाद नराधिपः ।। 7.76.24 ।।",
+      "transliteration": "so 'bhivādya mahātmānaṃ jvalantamiva tejasā | ātithyaṃ paramaṃ prāpya niṣasāda narādhipaḥ || 7.76.24 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 25,
+      "shloka_text": "तमुवाच महातेजाः कुम्भयोनिर्महातपाः । स्वागतं ते नरश्रेष्ठ दिष्ट्या प्राप्तो ऽसि राघव ।। 7.76.25 ।।",
+      "transliteration": "tamuvāca mahātejāḥ kumbhayonirmahātapāḥ | svāgataṃ te naraśreṣṭha diṣṭyā prāpto 'si rāghava || 7.76.25 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 26,
+      "shloka_text": "त्वं मे बहुमतो राम गुणैर्बहुभिरुत्तमैः । अतिथिः पूजनीयश्च मम नित्यं हृदि स्थितः ।। 7.76.26 ।।",
+      "transliteration": "tvaṃ me bahumato rāma guṇairbahubhiruttamaiḥ | atithiḥ pūjanīyaśca mama nityaṃ hṛdi sthitaḥ || 7.76.26 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 27,
+      "shloka_text": "सुरा हि कथयन्ति त्वामागतं शूद्रघातिनम् । ब्राह्मणस्य तु धर्मेण त्वया जीवापितः सुतः ।। 7.76.27 ।।",
+      "transliteration": "surā hi kathayanti tvāmāgataṃ śūdraghātinam | brāhmaṇasya tu dharmeṇa tvayā jīvāpitaḥ sutaḥ || 7.76.27 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 28,
+      "shloka_text": "उष्यतां चेह रजनी सकाशे मम राघव । प्रभाते पुष्पकेण त्वं गन्ता ऽसि पुरमेव हि ।। 7.76.28 ।।",
+      "transliteration": "uṣyatāṃ ceha rajanī sakāśe mama rāghava | prabhāte puṣpakeṇa tvaṃ gantā 'si purameva hi || 7.76.28 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 29,
+      "shloka_text": "त्वं हि नारायणः श्रीमांस्त्वयि सर्वं प्रतिष्ठितम् । त्वं प्रभुः सर्वदेवानां पुरुषस्त्वं सनातनः ।। 7.76.29 ।।",
+      "transliteration": "tvaṃ hi nārāyaṇaḥ śrīmāṃstvayi sarvaṃ pratiṣṭhitam | tvaṃ prabhuḥ sarvadevānāṃ puruṣastvaṃ sanātanaḥ || 7.76.29 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 30,
+      "shloka_text": "इदं चाभरणं सौम्य निर्मितं विश्वकर्मणा । दिव्यं दिव्येन वपुषा दीप्यमानं स्वतेजसा । प्रतिगृह्णीष्व काकुत्स्थ मत्प्रियं कुरु राघव ।। 7.76.30 ।।",
+      "transliteration": "idaṃ cābharaṇaṃ saumya nirmitaṃ viśvakarmaṇā | divyaṃ divyena vapuṣā dīpyamānaṃ svatejasā | pratigṛhṇīṣva kākutstha matpriyaṃ kuru rāghava || 7.76.30 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 31,
+      "shloka_text": "दत्तस्य हि पुनर्दाने सुमहत्फलमुच्यते । भरणे हि भवान् शक्तः सेन्द्राणां मरुतामपि ।। 7.76.31 ।।",
+      "transliteration": "dattasya hi punardāne sumahatphalamucyate | bharaṇe hi bhavān śaktaḥ sendrāṇāṃ marutāmapi || 7.76.31 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 32,
+      "shloka_text": "त्वं हि शक्तस्तारयितुं सेन्द्रानपि दिवौकसः । तस्मात्प्रदास्ये विधिवत्तत्प्रतीच्छ नराधिप ।। 7.76.32 ।।",
+      "transliteration": "tvaṃ hi śaktastārayituṃ sendrānapi divaukasaḥ | tasmātpradāsye vidhivattatpratīccha narādhipa || 7.76.32 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 33,
+      "shloka_text": "दिव्यमाभरणं चित्रं प्रदीप्तमिव भास्करम् ।। 7.76.33 ।।",
+      "transliteration": "divyamābharaṇaṃ citraṃ pradīptamiva bhāskaram || 7.76.33 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 34,
+      "shloka_text": "अथोवाच महात्मानमिक्ष्वाकूणां महारथः । रामो मतिमतां श्रेष्ठः क्षत्रधर्ममनुस्मरन् ।। 7.76.34 ।।",
+      "transliteration": "athovāca mahātmānamikṣvākūṇāṃ mahārathaḥ | rāmo matimatāṃ śreṣṭhaḥ kṣatradharmamanusmaran || 7.76.34 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 35,
+      "shloka_text": "प्रतिग्रहो ऽयं भगवन्ब्राह्मणस्याविगर्हितः । गृह्णीयां क्षत्रियो ऽहं वै कथं ब्राह्मणपुङ्गव ।। 7.76.35 ।।",
+      "transliteration": "pratigraho 'yaṃ bhagavanbrāhmaṇasyāvigarhitaḥ | gṛhṇīyāṃ kṣatriyo 'haṃ vai kathaṃ brāhmaṇapuṅgava || 7.76.35 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 36,
+      "shloka_text": "ब्राह्मणेन विशेषेण दत्तं तद्वक्तुमर्हसि । एवमुक्तस्तु रामेण प्रत्युवाच महानृषिः ।। 7.76.36 ।।",
+      "transliteration": "brāhmaṇena viśeṣeṇa dattaṃ tadvaktumarhasi | evamuktastu rāmeṇa pratyuvāca mahānṛṣiḥ || 7.76.36 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 37,
+      "shloka_text": "आसन्कृतयुगे राम ब्रह्मभूते पुरायुगे । अपार्थिवाः प्रजाः सर्वाः सुराणां तु शतक्रतुः ।। 7.76.37 ।।",
+      "transliteration": "āsankṛtayuge rāma brahmabhūte purāyuge | apārthivāḥ prajāḥ sarvāḥ surāṇāṃ tu śatakratuḥ || 7.76.37 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 38,
+      "shloka_text": "ताः प्रजा देवदेवेशं राजार्थं समुपाद्रवन् । सुराणां स्थापितो राजा त्वया देव शतक्रतुः ।। 7.76.38 ।।",
+      "transliteration": "tāḥ prajā devadeveśaṃ rājārthaṃ samupādravan | surāṇāṃ sthāpito rājā tvayā deva śatakratuḥ || 7.76.38 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 39,
+      "shloka_text": "प्रयच्छ नो हि लोकेश पार्थिवं नरपुङ्गवम् । यस्मै पूजां प्रयुञ्जाना धूतपापाश्चरेमहि । न वसामो विना राज्ञा एष नो निश्चयः परः ।। 7.76.39 ।।",
+      "transliteration": "prayaccha no hi lokeśa pārthivaṃ narapuṅgavam | yasmai pūjāṃ prayuñjānā dhūtapāpāścaremahi | na vasāmo vinā rājñā eṣa no niścayaḥ paraḥ || 7.76.39 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 40,
+      "shloka_text": "प्रजानां वचनं श्रुत्वा निश्चयित्वा ऽर्थमुत्तमम् ।। 7.76.40 ।।",
+      "transliteration": "prajānāṃ vacanaṃ śrutvā niścayitvā 'rthamuttamam || 7.76.40 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 41,
+      "shloka_text": "ततो ब्रह्मा सुरश्रेष्ठो लोकपालान्सवासवान् । समाहूयाब्रवीत्सर्वांस्तेजोभागान्प्रयच्छत ।। 7.76.41 ।।",
+      "transliteration": "tato brahmā suraśreṣṭho lokapālānsavāsavān | samāhūyābravītsarvāṃstejobhāgānprayacchata || 7.76.41 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 42,
+      "shloka_text": "ततो ददुर्लोकपालाः सर्वे भागान्स्वतेजसः । अक्षुपच्च ततो ब्रह्मा यतो जातः क्षुपो नृपः ।। 7.76.42 ।।",
+      "transliteration": "tato dadurlokapālāḥ sarve bhāgānsvatejasaḥ | akṣupacca tato brahmā yato jātaḥ kṣupo nṛpaḥ || 7.76.42 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 43,
+      "shloka_text": "तं ब्रह्मा लोकपालानां सहांशैः समयोजयत् । ततो ददौ नृपं तासां प्रजानामीश्वरं क्षुपम् ।। 7.76.43 ।।",
+      "transliteration": "taṃ brahmā lokapālānāṃ sahāṃśaiḥ samayojayat | tato dadau nṛpaṃ tāsāṃ prajānāmīśvaraṃ kṣupam || 7.76.43 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 44,
+      "shloka_text": "तत्रैन्द्रेण च भागेन महीमाज्ञापयन्नृपः । वारुणेन तु भागेन वपुः पुष्यति पार्थिवः ।। 7.76.44 ।।",
+      "transliteration": "tatraindreṇa ca bhāgena mahīmājñāpayannṛpaḥ | vāruṇena tu bhāgena vapuḥ puṣyati pārthivaḥ || 7.76.44 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 45,
+      "shloka_text": "कौबेरेण तु भागेन वित्तमासां ददौ तदा । यस्तु याम्यो ऽभवद्भागस्तेन शास्ति स्म स प्रजाः ।। 7.76.45 ।।",
+      "transliteration": "kaubereṇa tu bhāgena vittamāsāṃ dadau tadā | yastu yāmyo 'bhavadbhāgastena śāsti sma sa prajāḥ || 7.76.45 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 46,
+      "shloka_text": "तत्रैन्द्रेण नरश्रेष्ठ भागेन रघुनन्दन । प्रतिगृह्णीष्व भद्रं ते तारणार्थं मम प्रभो ।। 7.76.46 ।।",
+      "transliteration": "tatraindreṇa naraśreṣṭha bhāgena raghunandana | pratigṛhṇīṣva bhadraṃ te tāraṇārthaṃ mama prabho || 7.76.46 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 47,
+      "shloka_text": "तस्य तद्वचनं श्रुत्वा ऋषेः परमधार्मिकम् । तद्रामः प्रतिजग्राह मुनेराभरणं वरम् ।। 7.76.47 ।।",
+      "transliteration": "tasya tadvacanaṃ śrutvā ṛṣeḥ paramadhārmikam | tadrāmaḥ pratijagrāha munerābharaṇaṃ varam || 7.76.47 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 48,
+      "shloka_text": "प्रतिगृह्य ततो रामस्तदाभरणमुत्तमम् । आगमं तस्य दीप्तस्य प्रष्टुमेवोपचक्रमे ।। 7.76.48 ।।",
+      "transliteration": "pratigṛhya tato rāmastadābharaṇamuttamam | āgamaṃ tasya dīptasya praṣṭumevopacakrame || 7.76.48 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 49,
+      "shloka_text": "अत्यद्भुतमिदं दिव्यं वपुषा युक्तमुत्तमम् । कथं वा भगवता प्राप्तं कुतो वा केन वा हृतम् ।। 7.76.49 ।।",
+      "transliteration": "atyadbhutamidaṃ divyaṃ vapuṣā yuktamuttamam | kathaṃ vā bhagavatā prāptaṃ kuto vā kena vā hṛtam || 7.76.49 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 50,
+      "shloka_text": "कुतूहलितया ब्रह्मन्पृच्छामि त्वां महायशः । आश्चर्याणां बहूनां हि निधिः परमको भवान् ।। 7.76.50 ।।",
+      "transliteration": "kutūhalitayā brahmanpṛcchāmi tvāṃ mahāyaśaḥ | āścaryāṇāṃ bahūnāṃ hi nidhiḥ paramako bhavān || 7.76.50 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 51,
+      "shloka_text": "एवं ब्रुवति काकुत्स्थे मुनिर्वाक्यमथाब्रवीत् । शृणु राम यथावृत्तं पुरा त्रेतायुगे युगे ।। 7.76.51 ।।",
+      "transliteration": "evaṃ bruvati kākutsthe munirvākyamathābravīt | śṛṇu rāma yathāvṛttaṃ purā tretāyuge yuge || 7.76.51 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 52,
+      "shloka_text": "रमणीयप्रदेशे ऽस्मिन् वने यद्दृष्टवानहम् । आश्चर्यं मे महाबाहो दानमाश्रित्य केवलम् ।। 7.76.52 ।।",
+      "transliteration": "ramaṇīyapradeśe 'smin vane yaddṛṣṭavānaham | āścaryaṃ me mahābāho dānamāśritya kevalam || 7.76.52 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 53,
+      "shloka_text": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे षट्सप्ततितमः सर्गः ।। 76 ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmaduttarakāṇḍe ṣaṭsaptatitamaḥ sargaḥ || 76 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "kanda": "Uttara Kanda",
+  "kanda_slug": "uttara-kanda",
+  "sarga": 47,
+  "shloka_count": 19,
+  "shlokas": [
+    {
+      "shloka": 1,
+      "shloka_text": "अथ नावं सुविस्तीर्णां नैषादीं राघवानुजः । आरुरोह समायुक्तां पूर्वमारोप्य मैथिलीम् ।। 7.47.1 ।।",
+      "transliteration": "atha nāvaṃ suvistīrṇāṃ naiṣādīṃ rāghavānujaḥ | āruroha samāyuktāṃ pūrvamāropya maithilīm || 7.47.1 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 2,
+      "shloka_text": "सुमन्त्रं चैव सरथं स्थीयतामिति लक्ष्मणः । उवाच शोकसन्तप्तः प्रयाहीति च नाविकम् ।। 7.47.2 ।।",
+      "transliteration": "sumantraṃ caiva sarathaṃ sthīyatāmiti lakṣmaṇaḥ | uvāca śokasantaptaḥ prayāhīti ca nāvikam || 7.47.2 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 3,
+      "shloka_text": "ततस्तीरमुपागम्य भागीरथ्याः स लक्ष्मणः । उवाच मैथिलीं वाक्यं प्राञ्जलिर्बाष्पसम्प्लुतः ।। 7.47.3 ।।",
+      "transliteration": "tatastīramupāgamya bhāgīrathyāḥ sa lakṣmaṇaḥ | uvāca maithilīṃ vākyaṃ prāñjalirbāṣpasamplutaḥ || 7.47.3 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 4,
+      "shloka_text": "हृद्गतं मे महच्छल्यं यस्मादार्येण धीमता । अस्मिन्निमित्ते वैदेहि लोकस्य वचनीकृतः ।। 7.47.4 ।।",
+      "transliteration": "hṛdgataṃ me mahacchalyaṃ yasmādāryeṇa dhīmatā | asminnimitte vaidehi lokasya vacanīkṛtaḥ || 7.47.4 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 5,
+      "shloka_text": "श्रेयो हि मरणं मे ऽद्य मृत्युर्वा यत्परं भवेत् । न चास्मिन्नीदृशे कार्ये नियोज्यो लोकनिन्दिते ।। 7.47.5 ।।",
+      "transliteration": "śreyo hi maraṇaṃ me 'dya mṛtyurvā yatparaṃ bhavet | na cāsminnīdṛśe kārye niyojyo lokanindite || 7.47.5 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 6,
+      "shloka_text": "प्रसीद च न मे पापं कर्तुमर्हसि शोभने । इत्यञ्जलिकृतो भूमौ निपपात स लक्ष्मणः ।। 7.47.6 ।।",
+      "transliteration": "prasīda ca na me pāpaṃ kartumarhasi śobhane | ityañjalikṛto bhūmau nipapāta sa lakṣmaṇaḥ || 7.47.6 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 7,
+      "shloka_text": "रुदन्तं प्राञ्जलिं दृष्ट्वा काङ्क्षन्तं मृत्युमात्मनः । मैथिली भृशसंविग्ना लक्ष्मणं वाक्यमब्रवीत् ।। 7.47.7 ।।",
+      "transliteration": "rudantaṃ prāñjaliṃ dṛṣṭvā kāṅkṣantaṃ mṛtyumātmanaḥ | maithilī bhṛśasaṃvignā lakṣmaṇaṃ vākyamabravīt || 7.47.7 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 8,
+      "shloka_text": "किमिदं नावगच्छामि ब्रूहि तत्त्वेन लक्ष्मण । पश्यामि त्वां न च स्वस्थमपि क्षेमं महीपतेः ।। 7.47.8 ।।",
+      "transliteration": "kimidaṃ nāvagacchāmi brūhi tattvena lakṣmaṇa | paśyāmi tvāṃ na ca svasthamapi kṣemaṃ mahīpateḥ || 7.47.8 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 9,
+      "shloka_text": "शापितो ऽसि नरेन्द्रेण यत्त्वं सन्तापमागतः । तद्ब्रूयाः सन्निधौ मह्यमहमाज्ञापयामि ते ।। 7.47.9 ।।",
+      "transliteration": "śāpito 'si narendreṇa yattvaṃ santāpamāgataḥ | tadbrūyāḥ sannidhau mahyamahamājñāpayāmi te || 7.47.9 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 10,
+      "shloka_text": "वैदेह्या चोद्यमानस्तु लक्ष्मणो दीनचेतनः । अवाङ्मुखो बाष्पकलं वाक्यमेतदुवाच ह ।। 7.47.10 ।।",
+      "transliteration": "vaidehyā codyamānastu lakṣmaṇo dīnacetanaḥ | avāṅmukho bāṣpakalaṃ vākyametaduvāca ha || 7.47.10 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 11,
+      "shloka_text": "श्रुत्वा परिषदो मध्ये ह्यपवादं सुदारुणम् । पुरे जनपदे चैव त्वत्कृते जनकात्मजे । रामः सन्तप्तहृदयो मा निवेद्य गृहं गतः ।। 7.47.11 ।।",
+      "transliteration": "śrutvā pariṣado madhye hyapavādaṃ sudāruṇam | pure janapade caiva tvatkṛte janakātmaje | rāmaḥ santaptahṛdayo mā nivedya gṛhaṃ gataḥ || 7.47.11 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 12,
+      "shloka_text": "न तानि वचनीयानि मया देवि तवाग्रतः । यानि राज्ञा हृदि न्यस्तान्यमर्षात्पृष्ठतः कृतः ।। 7.47.12 ।।",
+      "transliteration": "na tāni vacanīyāni mayā devi tavāgrataḥ | yāni rājñā hṛdi nyastānyamarṣātpṛṣṭhataḥ kṛtaḥ || 7.47.12 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 13,
+      "shloka_text": "सा त्वं त्यक्ता नृपतिना निर्दोषा मम सन्निधौ । पौरापवादभीतेन ग्राह्यं देवि न ते ऽन्यथा ।। 7.47.13 ।।",
+      "transliteration": "sā tvaṃ tyaktā nṛpatinā nirdoṣā mama sannidhau | paurāpavādabhītena grāhyaṃ devi na te 'nyathā || 7.47.13 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 14,
+      "shloka_text": "आश्रमान्तेषु च मया त्यक्तव्या त्वं भविष्यसि । राज्ञः शासनमाज्ञाय तवेदं किल दौर्हृदम् ।। 7.47.14 ।।",
+      "transliteration": "āśramānteṣu ca mayā tyaktavyā tvaṃ bhaviṣyasi | rājñaḥ śāsanamājñāya tavedaṃ kila daurhṛdam || 7.47.14 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 15,
+      "shloka_text": "तदेतज्जाह्नवीतीरे ब्रह्मर्षीणां तपोवनम् । पुण्यं च रमणीयं च मा विषादं कृथाः शुभे ।। 7.47.15 ।।",
+      "transliteration": "tadetajjāhnavītīre brahmarṣīṇāṃ tapovanam | puṇyaṃ ca ramaṇīyaṃ ca mā viṣādaṃ kṛthāḥ śubhe || 7.47.15 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 16,
+      "shloka_text": "राज्ञो दशरथस्येष्टः पितुर्मे मुनिपुङ्गवः । सखा परमको विप्रो वाल्मीकिः सुमहायशाः ।। 7.47.16 ।।",
+      "transliteration": "rājño daśarathasyeṣṭaḥ piturme munipuṅgavaḥ | sakhā paramako vipro vālmīkiḥ sumahāyaśāḥ || 7.47.16 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 17,
+      "shloka_text": "पादच्छायामुपागम्य सुखमस्य महात्मनः । उपवासपरैकाग्रा वस त्वं जनकात्मजे ।। 7.47.17 ।।",
+      "transliteration": "pādacchāyāmupāgamya sukhamasya mahātmanaḥ | upavāsaparaikāgrā vasa tvaṃ janakātmaje || 7.47.17 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 18,
+      "shloka_text": "पतिव्रतात्वमास्थाय रामं कृत्वा सदा हृदि । श्रेयस्ते परमं देवि तथा कृत्वा भविष्यति ।। 7.47.18 ।।",
+      "transliteration": "pativratātvamāsthāya rāmaṃ kṛtvā sadā hṛdi | śreyaste paramaṃ devi tathā kṛtvā bhaviṣyati || 7.47.18 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 19,
+      "shloka_text": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे सप्तचत्वारिंशः सर्गः ।। 47 ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmaduttarakāṇḍe saptacatvāriṃśaḥ sargaḥ || 47 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    }
+  ]
+}

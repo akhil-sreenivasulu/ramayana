@@ -1,0 +1,600 @@
+{
+  "kanda": "Uttara Kanda",
+  "kanda_slug": "uttara-kanda",
+  "sarga": 32,
+  "shloka_count": 74,
+  "shlokas": [
+    {
+      "shloka": 1,
+      "shloka_text": "नर्मदापुलिने यत्र राक्षसेन्द्रः सुदारुणः । पुष्पोपहारं कुरुते तस्माद्देशाददूरतः ।। 7.32.1 ।।",
+      "transliteration": "narmadāpuline yatra rākṣasendraḥ sudāruṇaḥ | puṣpopahāraṃ kurute tasmāddeśādadūrataḥ || 7.32.1 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 2,
+      "shloka_text": "अर्जुनो जयतां श्रेष्ठो माहिष्मत्याः पतिः प्रभुः । क्रीडते सह नारीभिर्नर्मदातोयमाश्रितः ।। 7.32.2 ।।",
+      "transliteration": "arjuno jayatāṃ śreṣṭho māhiṣmatyāḥ patiḥ prabhuḥ | krīḍate saha nārībhirnarmadātoyamāśritaḥ || 7.32.2 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 3,
+      "shloka_text": "तासां मध्यगतो राजा रराज च तदार्जुनः । करेणूनां सहस्रस्य मध्यस्थ इव कुञ्जरः ।। 7.32.3 ।।",
+      "transliteration": "tāsāṃ madhyagato rājā rarāja ca tadārjunaḥ | kareṇūnāṃ sahasrasya madhyastha iva kuñjaraḥ || 7.32.3 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 4,
+      "shloka_text": "जिज्ञासुः स तु बाहूनां सहस्रस्योत्तमं बलम् । रुरोध नर्मदावेगं बाहुभिर्बहुभिर्वृतः ।। 7.32.4 ।।",
+      "transliteration": "jijñāsuḥ sa tu bāhūnāṃ sahasrasyottamaṃ balam | rurodha narmadāvegaṃ bāhubhirbahubhirvṛtaḥ || 7.32.4 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 5,
+      "shloka_text": "कार्तवीर्यभुजासक्तं तज्जलं प्राप्य निर्मलम् । कूलोपहारं कुर्वाणं प्रतिस्रोतः प्रधावति ।। 7.32.5 ।।",
+      "transliteration": "kārtavīryabhujāsaktaṃ tajjalaṃ prāpya nirmalam | kūlopahāraṃ kurvāṇaṃ pratisrotaḥ pradhāvati || 7.32.5 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 6,
+      "shloka_text": "समीननक्रमकरः सपुष्पकुशसंस्तरः । स नर्मदाम्भसो वेगः प्रावृट्काल इवाबभौ ।। 7.32.6 ।।",
+      "transliteration": "samīnanakramakaraḥ sapuṣpakuśasaṃstaraḥ | sa narmadāmbhaso vegaḥ prāvṛṭkāla ivābabhau || 7.32.6 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 7,
+      "shloka_text": "स वेगः कार्तवीर्येण सम्प्रेषित इवाम्भसः । पुष्पोपहारं सकलं रावणस्य जहार ह ।। 7.32.7 ।।",
+      "transliteration": "sa vegaḥ kārtavīryeṇa sampreṣita ivāmbhasaḥ | puṣpopahāraṃ sakalaṃ rāvaṇasya jahāra ha || 7.32.7 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 8,
+      "shloka_text": "रावणो ऽर्धसमाप्तं तमुत्सृज्य नियमं तदा । नर्मदां पश्यते कान्तां प्रतिकूलां यथा प्रियाम् ।। 7.32.8 ।।",
+      "transliteration": "rāvaṇo 'rdhasamāptaṃ tamutsṛjya niyamaṃ tadā | narmadāṃ paśyate kāntāṃ pratikūlāṃ yathā priyām || 7.32.8 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 9,
+      "shloka_text": "पश्चिमेन तु तं दृष्ट्वा सागरोद्गारसन्निभम् । वर्धन्तमम्भसो वेगं पूर्वामाशां प्रविश्य तु ।। 7.32.9 ।।",
+      "transliteration": "paścimena tu taṃ dṛṣṭvā sāgarodgārasannibham | vardhantamambhaso vegaṃ pūrvāmāśāṃ praviśya tu || 7.32.9 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 10,
+      "shloka_text": "ततो ऽनुभ्रान्तशकुनां स्वभावोपरमे स्थिताम् । निर्विकाराङ्गनाभासामपश्यद्रावणो नदीम् ।। 7.32.10 ।।",
+      "transliteration": "tato 'nubhrāntaśakunāṃ svabhāvoparame sthitām | nirvikārāṅganābhāsāmapaśyadrāvaṇo nadīm || 7.32.10 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 11,
+      "shloka_text": "सव्येतरकराङ्गुल्या सशब्दं च दशाननः । वेगप्रभावमन्वेष्टुं सो ऽदिशच्छुकसारणौ ।। 7.32.11 ।।",
+      "transliteration": "savyetarakarāṅgulyā saśabdaṃ ca daśānanaḥ | vegaprabhāvamanveṣṭuṃ so 'diśacchukasāraṇau || 7.32.11 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 12,
+      "shloka_text": "तौ तु रावणसन्दिष्टौ भ्रातरौ शुकसारणौ । व्योमान्तरगतौ वीरौ प्रस्थितौ पश्चिमामुखौ ।। 7.32.12 ।।",
+      "transliteration": "tau tu rāvaṇasandiṣṭau bhrātarau śukasāraṇau | vyomāntaragatau vīrau prasthitau paścimāmukhau || 7.32.12 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 13,
+      "shloka_text": "अर्धयोजनमात्रं तु गत्वा तौ रजनीचरौ । पश्येतां पुरुषं तोये क्रीडन्तं सहयोषितम् ।। 7.32.13 ।।",
+      "transliteration": "ardhayojanamātraṃ tu gatvā tau rajanīcarau | paśyetāṃ puruṣaṃ toye krīḍantaṃ sahayoṣitam || 7.32.13 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 14,
+      "shloka_text": "बृहत्सालप्रतीकाशं तोयव्याकुलमूर्धजम् । मदरक्तान्तनयनं मदव्याकुलतेजसम् ।। 7.32.14 ।।",
+      "transliteration": "bṛhatsālapratīkāśaṃ toyavyākulamūrdhajam | madaraktāntanayanaṃ madavyākulatejasam || 7.32.14 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 15,
+      "shloka_text": "नदीं बाहुसहस्रेण रुन्धन्तमरिमर्दनम् । गिरिं पादसहस्रेण रुन्धन्तमिव मेदिनीम् ।। 7.32.15 ।।",
+      "transliteration": "nadīṃ bāhusahasreṇa rundhantamarimardanam | giriṃ pādasahasreṇa rundhantamiva medinīm || 7.32.15 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 16,
+      "shloka_text": "बालानां वरनारीणां सहस्रेण समावृतम् । समदानां करेणूनां सहस्रेणेव कुञ्जरम् ।। 7.32.16 ।।",
+      "transliteration": "bālānāṃ varanārīṇāṃ sahasreṇa samāvṛtam | samadānāṃ kareṇūnāṃ sahasreṇeva kuñjaram || 7.32.16 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 17,
+      "shloka_text": "तमद्भुततमं दृष्ट्वा राक्षसौ शुकसारणौ । सन्निवृत्तावुपागम्य रावणं तमथोचतुः ।। 7.32.17 ।।",
+      "transliteration": "tamadbhutatamaṃ dṛṣṭvā rākṣasau śukasāraṇau | sannivṛttāvupāgamya rāvaṇaṃ tamathocatuḥ || 7.32.17 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 18,
+      "shloka_text": "बृहत्सालप्रतीकाशः को ऽप्यसौ राक्षसेश्वर । नर्मदां रोधवद्रुद्ध्वा क्रीडापयति योषितः ।। 7.32.18 ।।",
+      "transliteration": "bṛhatsālapratīkāśaḥ ko 'pyasau rākṣaseśvara | narmadāṃ rodhavadruddhvā krīḍāpayati yoṣitaḥ || 7.32.18 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 19,
+      "shloka_text": "तेन बाहुसहस्रेण सन्निरुद्धजला नदी । सागरोद्गारसङ्काशानुद्गारान्सृजते मुहुः ।। 7.32.19 ।।",
+      "transliteration": "tena bāhusahasreṇa sanniruddhajalā nadī | sāgarodgārasaṅkāśānudgārānsṛjate muhuḥ || 7.32.19 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 20,
+      "shloka_text": "इत्येवं भाषमाणौ तौ निशाम्य शुकसारणौ । रावणो ऽर्जुन इत्युक्त्वा प्रययौ युद्धलालसः ।। 7.32.20 ।।",
+      "transliteration": "ityevaṃ bhāṣamāṇau tau niśāmya śukasāraṇau | rāvaṇo 'rjuna ityuktvā prayayau yuddhalālasaḥ || 7.32.20 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 21,
+      "shloka_text": "अर्जुनाभिमुखे तस्मिन्रावणे राक्षसाधिपे । चण्डः प्रवाति पवनः सनादः सुरजास्तथा ।। 7.32.21 ।।",
+      "transliteration": "arjunābhimukhe tasminrāvaṇe rākṣasādhipe | caṇḍaḥ pravāti pavanaḥ sanādaḥ surajāstathā || 7.32.21 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 22,
+      "shloka_text": "सकृदेव कृतो रावः सरक्तः प्रेषितो घनैः । महोदरमहापार्श्वधूम्राक्षशुकसारणैः ।। 7.32.22 ।।",
+      "transliteration": "sakṛdeva kṛto rāvaḥ saraktaḥ preṣito ghanaiḥ | mahodaramahāpārśvadhūmrākṣaśukasāraṇaiḥ || 7.32.22 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 23,
+      "shloka_text": "संवृतो राक्षसेन्द्रस्तु तत्रागाद्यत्र चार्जुनः । अदीर्घेणैव कालेन स तदा राक्षसो बली । तं नर्मदाह्रदं भीममाजगामाञ्जनप्रभः ।। 7.32.23 ।।",
+      "transliteration": "saṃvṛto rākṣasendrastu tatrāgādyatra cārjunaḥ | adīrgheṇaiva kālena sa tadā rākṣaso balī | taṃ narmadāhradaṃ bhīmamājagāmāñjanaprabhaḥ || 7.32.23 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 24,
+      "shloka_text": "स तत्र स्त्रीपरिवृतं वाशिताभिरिव द्विपम् । नरेन्द्रं पश्यते राजा राक्षसानां तदार्जुनम् ।। 7.32.24 ।।",
+      "transliteration": "sa tatra strīparivṛtaṃ vāśitābhiriva dvipam | narendraṃ paśyate rājā rākṣasānāṃ tadārjunam || 7.32.24 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 25,
+      "shloka_text": "स रोषाद्रक्तनयनो राक्षसेन्द्रो बलोद्धतः ।। 7.32.25 ।।",
+      "transliteration": "sa roṣādraktanayano rākṣasendro baloddhataḥ || 7.32.25 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 26,
+      "shloka_text": "इत्येवमर्जुनामात्यनाह गम्भीरया गिरा । अमात्याः क्षिप्रमाख्यात हैहयस्य नृपस्य वै ।। 7.32.26 ।।",
+      "transliteration": "ityevamarjunāmātyanāha gambhīrayā girā | amātyāḥ kṣipramākhyāta haihayasya nṛpasya vai || 7.32.26 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 27,
+      "shloka_text": "युद्धार्थी समनुप्राप्तो रावणो नाम राक्षसः । रावणस्य वचः श्रुत्वा मन्त्रिणो ऽथार्जुनस्य ते । उत्तस्थुः सायुधास्त्राश्च रावणं वाक्यमब्रुवन् ।। 7.32.27 ।।",
+      "transliteration": "yuddhārthī samanuprāpto rāvaṇo nāma rākṣasaḥ | rāvaṇasya vacaḥ śrutvā mantriṇo 'thārjunasya te | uttasthuḥ sāyudhāstrāśca rāvaṇaṃ vākyamabruvan || 7.32.27 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 28,
+      "shloka_text": "युद्धस्य कालो विज्ञेयः साधु भोः साधु रावण ।। 7.32.28 ।।",
+      "transliteration": "yuddhasya kālo vijñeyaḥ sādhu bhoḥ sādhu rāvaṇa || 7.32.28 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 29,
+      "shloka_text": "चः श्रुत्वा मन्त्रिणो ऽथार्जुनस्य ते । यः क्षीबं स्त्रीवृतं चैव योद्धुमुत्सहते नृपम् । स्त्रीसमक्षं कथं यत्तद्योद्धुमुत्सहसे ऽर्जुनम् । वाशितामध्यगं मत्तं शार्दूल इव कुञ्जरम् ।। 7.32.29 ।।",
+      "transliteration": "caḥ śrutvā mantriṇo 'thārjunasya te | yaḥ kṣībaṃ strīvṛtaṃ caiva yoddhumutsahate nṛpam | strīsamakṣaṃ kathaṃ yattadyoddhumutsahase 'rjunam | vāśitāmadhyagaṃ mattaṃ śārdūla iva kuñjaram || 7.32.29 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 30,
+      "shloka_text": "क्षमस्वाद्य दशग्रीव चोष्यतां रजनी त्वया । युद्धे श्रद्धा च यद्यस्ति श्वस्तात समरे ऽर्जुनम् ।। 7.32.30 ।।",
+      "transliteration": "kṣamasvādya daśagrīva coṣyatāṃ rajanī tvayā | yuddhe śraddhā ca yadyasti śvastāta samare 'rjunam || 7.32.30 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 31,
+      "shloka_text": "यद्यद्यास्ति मतिर्योद्धुं युद्धतृष्णासमावृता । निहत्यास्मांस्ततो युद्धमर्जुनेनोपयास्यसि ।। 7.32.31 ।।",
+      "transliteration": "yadyadyāsti matiryoddhuṃ yuddhatṛṣṇāsamāvṛtā | nihatyāsmāṃstato yuddhamarjunenopayāsyasi || 7.32.31 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 32,
+      "shloka_text": "ततस्ते रावणामात्यैरमात्याः पार्थिवस्य तु । सूदिताश्चापि ते युद्धे भक्षिताश्च बुभुक्षितैः ।। 7.32.32 ।।",
+      "transliteration": "tataste rāvaṇāmātyairamātyāḥ pārthivasya tu | sūditāścāpi te yuddhe bhakṣitāśca bubhukṣitaiḥ || 7.32.32 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 33,
+      "shloka_text": "ततो हलहलाशब्दो नर्मदातीर आबभौ । अर्जुनस्यानुयातऽणां रावणस्य च मन्त्रिणाम् ।। 7.32.33 ।।",
+      "transliteration": "tato halahalāśabdo narmadātīra ābabhau | arjunasyānuyāta'ṇāṃ rāvaṇasya ca mantriṇām || 7.32.33 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 34,
+      "shloka_text": "इषुभिस्तोमरैः शूलैस्त्रिशूलैर्वज्रकर्षणैः । सरावणानर्दयन्तः समन्तात्समभिद्रुताः ।। 7.32.34 ।।",
+      "transliteration": "iṣubhistomaraiḥ śūlaistriśūlairvajrakarṣaṇaiḥ | sarāvaṇānardayantaḥ samantātsamabhidrutāḥ || 7.32.34 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 35,
+      "shloka_text": "हैहयाधिपयोधानां वेग आसीत्सुदारुणः । सनक्रमीनमकरसमुद्रस्येव निःस्वनः ।। 7.32.35 ।।",
+      "transliteration": "haihayādhipayodhānāṃ vega āsītsudāruṇaḥ | sanakramīnamakarasamudrasyeva niḥsvanaḥ || 7.32.35 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 36,
+      "shloka_text": "रावणस्य तु ते ऽमात्याः प्रहस्तशुकसारणाः । कार्तवीर्यबलं क्रुद्धा निर्दहन्ति स्म तेजसा ।। 7.32.36 ।।",
+      "transliteration": "rāvaṇasya tu te 'mātyāḥ prahastaśukasāraṇāḥ | kārtavīryabalaṃ kruddhā nirdahanti sma tejasā || 7.32.36 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 37,
+      "shloka_text": "अर्जुनाय तु तत्कर्म रावणस्य समन्त्रिणः । क्रीडमानाय कथितं पुरुषैर्द्वाररक्षिभिः ।। 7.32.37 ।।",
+      "transliteration": "arjunāya tu tatkarma rāvaṇasya samantriṇaḥ | krīḍamānāya kathitaṃ puruṣairdvārarakṣibhiḥ || 7.32.37 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 38,
+      "shloka_text": "श्रुत्वा न भेतव्यमिति स्त्रीजनं तं ततो ऽर्जुनः । उत्ततार जलात्तस्माद्गङ्गातोयादिवाञ्जनः ।। 7.32.38 ।।",
+      "transliteration": "śrutvā na bhetavyamiti strījanaṃ taṃ tato 'rjunaḥ | uttatāra jalāttasmādgaṅgātoyādivāñjanaḥ || 7.32.38 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 39,
+      "shloka_text": "क्रोधदूषितनेत्रस्तु स ततो ऽर्जुनपावकः । प्रजज्वाल महाघोरो युगान्त इव पावकः ।। 7.32.39 ।।",
+      "transliteration": "krodhadūṣitanetrastu sa tato 'rjunapāvakaḥ | prajajvāla mahāghoro yugānta iva pāvakaḥ || 7.32.39 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 40,
+      "shloka_text": "स तूर्णतरमादाय वरहेमाङ्गदो गदाम् । अभिदुद्राव रक्षांसि तमांसीव दिवाकरः ।। 7.32.40 ।।",
+      "transliteration": "sa tūrṇataramādāya varahemāṅgado gadām | abhidudrāva rakṣāṃsi tamāṃsīva divākaraḥ || 7.32.40 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 41,
+      "shloka_text": "बाहुविक्षेपकरणां समुद्यम्य महागदाम् । गारुडं वेगमास्थाय चापपातैव सो ऽर्जुनः ।। 7.32.41 ।।",
+      "transliteration": "bāhuvikṣepakaraṇāṃ samudyamya mahāgadām | gāruḍaṃ vegamāsthāya cāpapātaiva so 'rjunaḥ || 7.32.41 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 42,
+      "shloka_text": "तस्य मार्गं समारुद्ध्य विन्ध्यो ऽर्कस्येव पर्वतः । स्थितो विन्ध्य इवाकम्प्यः प्रहस्तो मुसलायुधः ।। 7.32.42 ।।",
+      "transliteration": "tasya mārgaṃ samāruddhya vindhyo 'rkasyeva parvataḥ | sthito vindhya ivākampyaḥ prahasto musalāyudhaḥ || 7.32.42 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 43,
+      "shloka_text": "ततो ऽस्य मुसलं घोरं लोहबद्धं महोद्धतः । प्रहस्तः प्रेषयन्क्रुद्धो ररास च यथाम्बुदः ।। 7.32.43 ।।",
+      "transliteration": "tato 'sya musalaṃ ghoraṃ lohabaddhaṃ mahoddhataḥ | prahastaḥ preṣayankruddho rarāsa ca yathāmbudaḥ || 7.32.43 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 44,
+      "shloka_text": "तस्याग्रे मुसलस्याग्निरशोकापीडसन्निभः । प्रहस्तकरमुक्तस्य बभूव प्रदहन्निव ।। 7.32.44 ।।",
+      "transliteration": "tasyāgre musalasyāgniraśokāpīḍasannibhaḥ | prahastakaramuktasya babhūva pradahanniva || 7.32.44 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 45,
+      "shloka_text": "अथायान्तं तु मुसलं कार्तवीर्यस्तदार्जुनः । निपुणं वञ्चयामास सगदो ऽगदविक्रमः ।। 7.32.45 ।।",
+      "transliteration": "athāyāntaṃ tu musalaṃ kārtavīryastadārjunaḥ | nipuṇaṃ vañcayāmāsa sagado 'gadavikramaḥ || 7.32.45 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 46,
+      "shloka_text": "ततस्तमभिदुद्राव प्रहस्तं हैहयाधिपः । भ्रामयानो गदां गुर्वीं पञ्चबाहुशतोच्छ्रयाम् ।। 7.32.46 ।।",
+      "transliteration": "tatastamabhidudrāva prahastaṃ haihayādhipaḥ | bhrāmayāno gadāṃ gurvīṃ pañcabāhuśatocchrayām || 7.32.46 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 47,
+      "shloka_text": "तथा हतो ऽतिवेगेन प्रहस्तो गदया तदा । निपपात स्थितः शैलो वज्रिवज्रहतो यथा ।। 7.32.47 ।।",
+      "transliteration": "tathā hato 'tivegena prahasto gadayā tadā | nipapāta sthitaḥ śailo vajrivajrahato yathā || 7.32.47 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 48,
+      "shloka_text": "प्रहस्तं पतितं दृष्ट्वा मारीचशुकसारणाः । समहोदरधूम्राक्षा ह्यपसृष्टा रणाजिरात् ।। 7.32.48 ।।",
+      "transliteration": "prahastaṃ patitaṃ dṛṣṭvā mārīcaśukasāraṇāḥ | samahodaradhūmrākṣā hyapasṛṣṭā raṇājirāt || 7.32.48 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 49,
+      "shloka_text": "अपक्रान्तेष्वमात्येषु प्रहस्ते वै निपातिते । रावणो ऽभ्यद्रवत्तूर्णमर्जुनं नृपसत्तमम् ।। 7.32.49 ।।",
+      "transliteration": "apakrānteṣvamātyeṣu prahaste vai nipātite | rāvaṇo 'bhyadravattūrṇamarjunaṃ nṛpasattamam || 7.32.49 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 50,
+      "shloka_text": "सहस्रबाहोस्तद्युद्धं विंशद्बाहोश्च दारुणम् । नृपराक्षसयोस्तत्र चारब्धं रोमहर्षणम् ।। 7.32.50 ।।",
+      "transliteration": "sahasrabāhostadyuddhaṃ viṃśadbāhośca dāruṇam | nṛparākṣasayostatra cārabdhaṃ romaharṣaṇam || 7.32.50 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 51,
+      "shloka_text": "सागराविव संरब्धौ चलन्मूलाविवाचलौ । तेजोयुक्ताविवादित्यौ प्रदहन्ताविवानलौ ।। 7.32.51 ।।",
+      "transliteration": "sāgarāviva saṃrabdhau calanmūlāvivācalau | tejoyuktāvivādityau pradahantāvivānalau || 7.32.51 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 52,
+      "shloka_text": "बलोद्धतौ यथा नागौ वाशितार्थे यथा वृषौ । मेघाविव विनर्दन्तौ सिंहाविव बलोत्कटौ ।। 7.32.52 ।।",
+      "transliteration": "baloddhatau yathā nāgau vāśitārthe yathā vṛṣau | meghāviva vinardantau siṃhāviva balotkaṭau || 7.32.52 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 53,
+      "shloka_text": "रुद्रकालाविव क्रुद्धौ तदा तौ राक्षसार्जुनौ । परस्परं गदाभ्यां तौ ताडयामासतुर्भृशम् ।। 7.32.53 ।।",
+      "transliteration": "rudrakālāviva kruddhau tadā tau rākṣasārjunau | parasparaṃ gadābhyāṃ tau tāḍayāmāsaturbhṛśam || 7.32.53 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 54,
+      "shloka_text": "वज्रप्रहारानचला यथा घोरान्विषेहिरे । गदाप्रहारांस्तौ तत्र सेहाते नरराक्षसौ ।। 7.32.54 ।।",
+      "transliteration": "vajraprahārānacalā yathā ghorānviṣehire | gadāprahārāṃstau tatra sehāte nararākṣasau || 7.32.54 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 55,
+      "shloka_text": "यथा ऽ शनिरवेभ्यस्तु जायते ऽथ प्रतिश्रुतिः । तथा तयोर्गदापोथैर्दिशः सर्वाः प्रतिश्रुताः ।। 7.32.55 ।।",
+      "transliteration": "yathā ' śaniravebhyastu jāyate 'tha pratiśrutiḥ | tathā tayorgadāpothairdiśaḥ sarvāḥ pratiśrutāḥ || 7.32.55 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 56,
+      "shloka_text": "अर्जुनस्य गदा सा तु पात्यमाना ऽहितोरसि । काञ्चनाभं नभश्चक्रे विद्युत्सौदामिनी यथा ।। 7.32.56 ।।",
+      "transliteration": "arjunasya gadā sā tu pātyamānā 'hitorasi | kāñcanābhaṃ nabhaścakre vidyutsaudāminī yathā || 7.32.56 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 57,
+      "shloka_text": "तथैव रावणेनापि पात्यमाना मुहुर्मुहुः । अर्जुनोरसि निर्भाति गदोल्केव महागिरौ ।। 7.32.57 ।।",
+      "transliteration": "tathaiva rāvaṇenāpi pātyamānā muhurmuhuḥ | arjunorasi nirbhāti gadolkeva mahāgirau || 7.32.57 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 58,
+      "shloka_text": "नार्जुनः खेदमायाति न राक्षसगणेश्वरः । इदमासीत्तयोर्युद्धं यथा पूर्वं बलीन्द्रयोः ।। 7.32.58 ।।",
+      "transliteration": "nārjunaḥ khedamāyāti na rākṣasagaṇeśvaraḥ | idamāsīttayoryuddhaṃ yathā pūrvaṃ balīndrayoḥ || 7.32.58 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 59,
+      "shloka_text": "शृङ्गैरिव वृषायुध्यन्दन्ताग्रैरिव कुञ्जरौ । परस्परं तौ निघ्नन्तौ नरराक्षससत्तमौ ।। 7.32.59 ।।",
+      "transliteration": "śṛṅgairiva vṛṣāyudhyandantāgrairiva kuñjarau | parasparaṃ tau nighnantau nararākṣasasattamau || 7.32.59 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 60,
+      "shloka_text": "ततो ऽर्जुनेन क्रुद्धेन सर्वप्राणेन सा गदा । स्तनयोरन्तरे मुक्ता रावणस्य महोरसि ।। 7.32.60 ।।",
+      "transliteration": "tato 'rjunena kruddhena sarvaprāṇena sā gadā | stanayorantare muktā rāvaṇasya mahorasi || 7.32.60 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 61,
+      "shloka_text": "वरदानकृतत्राणे सा गदा रावणोरसि । दुर्बलेव यथावेगं द्विधाभूत्वा ऽपतत्क्षितौ ।। 7.32.61 ।।",
+      "transliteration": "varadānakṛtatrāṇe sā gadā rāvaṇorasi | durbaleva yathāvegaṃ dvidhābhūtvā 'patatkṣitau || 7.32.61 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 62,
+      "shloka_text": "स त्वर्जुनप्रमुक्तेन गदापातेन रावणः । अपासर्पद्धनुर्मात्रं निषसाद च निष्टनन् ।। 7.32.62 ।।",
+      "transliteration": "sa tvarjunapramuktena gadāpātena rāvaṇaḥ | apāsarpaddhanurmātraṃ niṣasāda ca niṣṭanan || 7.32.62 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 63,
+      "shloka_text": "स विह्वलं तदालक्ष्य दशग्रीवं ततो ऽर्जुनः । सहसोत्पत्य जग्राह गरुत्मानिव पन्नगम् ।। 7.32.63 ।।",
+      "transliteration": "sa vihvalaṃ tadālakṣya daśagrīvaṃ tato 'rjunaḥ | sahasotpatya jagrāha garutmāniva pannagam || 7.32.63 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 64,
+      "shloka_text": "स तु बाहुसहस्रेण बलाद्गृह्य दशाननम् । बबन्ध बलवान्राजा बलिं नारायणो यथा ।। 7.32.64 ।।",
+      "transliteration": "sa tu bāhusahasreṇa balādgṛhya daśānanam | babandha balavānrājā baliṃ nārāyaṇo yathā || 7.32.64 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 65,
+      "shloka_text": "बध्यमाने दशग्रीवे सिद्धचारणदेवताः । साध्वीतिवादिनः पुष्पैः किरन्त्यर्जुनमूर्धनि ।। 7.32.65 ।।",
+      "transliteration": "badhyamāne daśagrīve siddhacāraṇadevatāḥ | sādhvītivādinaḥ puṣpaiḥ kirantyarjunamūrdhani || 7.32.65 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 66,
+      "shloka_text": "व्याघ्रो मृगमिवादाय मृगराडिव दन्तिनम् । ननाद हैहयो राजा हर्षादम्बुदवन्मुहुः ।। 7.32.66 ।।",
+      "transliteration": "vyāghro mṛgamivādāya mṛgarāḍiva dantinam | nanāda haihayo rājā harṣādambudavanmuhuḥ || 7.32.66 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 67,
+      "shloka_text": "प्रहस्तस्तु समाश्वस्तो दृष्ट्वा बद्धं दशाननम् । सह तै राक्षसैः क्रुद्धश्चाभिदुद्राव पार्थिवम् ।। 7.32.67 ।।",
+      "transliteration": "prahastastu samāśvasto dṛṣṭvā baddhaṃ daśānanam | saha tai rākṣasaiḥ kruddhaścābhidudrāva pārthivam || 7.32.67 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 68,
+      "shloka_text": "नक्तञ्चराणां वेगस्तु तेषामापततां बभौ । उद्भूत आतपापाये पयोदानामिवाम्बुधौ ।। 7.32.68 ।।",
+      "transliteration": "naktañcarāṇāṃ vegastu teṣāmāpatatāṃ babhau | udbhūta ātapāpāye payodānāmivāmbudhau || 7.32.68 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 69,
+      "shloka_text": "मुञ्च मुञ्चेति भाषन्तस्तिष्ठतिष्ठेति चासकृत् । मुसलानि सशूलानि सोत्ससर्ज तदार्जुने ।। 7.32.69 ।।",
+      "transliteration": "muñca muñceti bhāṣantastiṣṭhatiṣṭheti cāsakṛt | musalāni saśūlāni sotsasarja tadārjune || 7.32.69 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 70,
+      "shloka_text": "अप्राप्तान्येव तान्याशु असम्भ्रान्तस्तदार्जुनः । आयुधान्यमरारीणां जग्राहारिनिषूदनः ।। 7.32.70 ।।",
+      "transliteration": "aprāptānyeva tānyāśu asambhrāntastadārjunaḥ | āyudhānyamarārīṇāṃ jagrāhāriniṣūdanaḥ || 7.32.70 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 71,
+      "shloka_text": "ततस्तैरेव रक्षांसि दुर्धरैः प्रवरायुधैः । भित्त्वा विद्रावयामास वायुरम्बुधरानिव ।। 7.32.71 ।।",
+      "transliteration": "tatastaireva rakṣāṃsi durdharaiḥ pravarāyudhaiḥ | bhittvā vidrāvayāmāsa vāyurambudharāniva || 7.32.71 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 72,
+      "shloka_text": "राक्षसांस्त्रासयित्वा तु कार्तवीर्यो ऽर्जुनस्तदा । रावणं गृह्य नगरं प्रविवेश सुहृद्वृतः ।। 7.32.72 ।।",
+      "transliteration": "rākṣasāṃstrāsayitvā tu kārtavīryo 'rjunastadā | rāvaṇaṃ gṛhya nagaraṃ praviveśa suhṛdvṛtaḥ || 7.32.72 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 73,
+      "shloka_text": "स कीर्यमाणः कुसुमाक्षतोत्करैर्द्विजैः सपौरैः पुरुहूतसन्निभः । तदा ऽर्जुनः सम्प्रविवेश तां पुरीं बलिं निगृह्येव सहस्रलोचनः ।। 7.32.73 ।।",
+      "transliteration": "sa kīryamāṇaḥ kusumākṣatotkarairdvijaiḥ sapauraiḥ puruhūtasannibhaḥ | tadā 'rjunaḥ sampraviveśa tāṃ purīṃ baliṃ nigṛhyeva sahasralocanaḥ || 7.32.73 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    },
+    {
+      "shloka": 74,
+      "shloka_text": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे द्वात्रिंशः सर्गः ।। 32 ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmaduttarakāṇḍe dvātriṃśaḥ sargaḥ || 32 ||",
+      "translation": "",
+      "explanation": "",
+      "comments": ""
+    }
+  ]
+}

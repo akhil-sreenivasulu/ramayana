@@ -1,0 +1,159 @@
+:root {
+  --bg: #f6f1e7;
+  --surface: #fffaf0;
+  --text: #1f1a15;
+  --accent: #8f3b1b;
+  --accent-soft: #e8c9b6;
+  --border: #d7c6b3;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Georgia", "Times New Roman", serif;
+  color: var(--text);
+  background: radial-gradient(circle at top left, #fff5dd, var(--bg));
+}
+
+.topbar {
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(120deg, #ffe2a7, #ffd3b7);
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.topbar p {
+  margin: 0.35rem 0 0;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  min-height: calc(100vh - 130px);
+}
+
+.sidebar {
+  border-right: 1px solid var(--border);
+  background: var(--surface);
+  overflow: auto;
+  padding: 1rem;
+}
+
+.sidebar h2 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.kanda {
+  margin-bottom: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.kanda summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.5rem 0.7rem;
+  font-weight: 700;
+  background: #f8ecde;
+}
+
+.kanda summary::-webkit-details-marker {
+  display: none;
+}
+
+.sarga-links {
+  max-height: 240px;
+  overflow: auto;
+  padding: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.sarga-links a,
+.sarga-nav a,
+.shloka-menu a {
+  text-decoration: none;
+  color: var(--accent);
+  border: 1px solid var(--accent-soft);
+  background: #fff;
+  border-radius: 999px;
+  padding: 0.25rem 0.55rem;
+  font-size: 0.85rem;
+}
+
+.content {
+  padding: 1rem 1.25rem 1.5rem;
+}
+
+.meta {
+  margin-bottom: 0.8rem;
+  font-weight: 700;
+}
+
+.sarga-nav,
+.shloka-menu {
+  display: flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.8rem;
+}
+
+.shloka-list {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.shloka-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.9rem;
+}
+
+.shloka-card h3 {
+  margin: 0 0 0.45rem;
+}
+
+.shloka-text {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.transliteration {
+  font-style: italic;
+  color: #5f5347;
+}
+
+.translation,
+.explanation,
+.comments {
+  margin-top: 0.45rem;
+  line-height: 1.5;
+}
+
+.footer {
+  border-top: 1px solid var(--border);
+  padding: 0.8rem 1.25rem;
+}
+
+@media (max-width: 940px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+    max-height: 40vh;
+  }
+}
