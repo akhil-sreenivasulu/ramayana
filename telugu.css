@@ -131,13 +131,13 @@ body {
 
 .meta {
   font-weight: 700;
-  margin-bottom: 0.9rem;
+  margin-bottom: 1rem;
 }
 
 .sarga-nav,
 .verse-nav,
 .shloka-menu {
-  margin-bottom: 0.9rem;
+  margin-bottom: 1.1rem;
 }
 
 .shloka-menu a.active {
@@ -148,24 +148,28 @@ body {
 
 .verse-nav {
   align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
 }
 
 .verse-indicator {
-  padding: 0.32rem 0.1rem;
+  padding: 0.32rem 0.4rem;
   font-weight: 700;
   color: #6a4c2e;
+  text-align: center;
 }
 
 .shloka-list {
   display: grid;
-  gap: 0.9rem;
+  gap: 1.2rem;
+  margin-bottom: 1.35rem;
 }
 
 .shloka-card {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 14px;
-  padding: 1rem;
+  padding: 1.1rem 1.15rem;
   box-shadow: 0 10px 30px rgba(93, 61, 33, 0.06);
 }
 
@@ -202,9 +206,13 @@ body {
   white-space: pre-wrap;
 }
 
+.shloka-menu {
+  padding-top: 0.35rem;
+}
+
 .transliteration,
 .english-note {
-  margin-top: 0.55rem;
+  margin-top: 0.7rem;
   line-height: 1.55;
 }
 
@@ -233,5 +241,9 @@ body {
     border-right: 0;
     border-bottom: 1px solid var(--line);
     max-height: 42vh;
+  }
+
+  .verse-nav {
+    justify-content: flex-start;
   }
 }
