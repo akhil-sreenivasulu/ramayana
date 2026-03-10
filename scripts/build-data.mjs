@@ -3,6 +3,7 @@ import path from 'node:path';
 
 const root = process.cwd();
 const inputPath = path.join(root, 'raw', 'Valmiki_Ramayan_Shlokas.json');
+const teluguInputPath = path.join(root, 'raw', 'telugu-meanings.json');
 const outputRoot = path.join(root, 'data');
 
 const slugify = (value) =>
@@ -13,6 +14,9 @@ const slugify = (value) =>
 
 const raw = fs.readFileSync(inputPath, 'utf8');
 const rows = JSON.parse(raw);
+const teluguMeanings = fs.existsSync(teluguInputPath)
+  ? JSON.parse(fs.readFileSync(teluguInputPath, 'utf8'))
+  : {};
 
 const grouped = new Map();
 
@@ -42,6 +46,7 @@ for (const row of rows) {
     transliteration: row.transliteration || '',
     translation: row.translation || '',
     explanation: row.explanation || '',
+    telugu_translation: teluguMeanings[`${kandaName}||${sargaNumber}||${shlokaNumber}`] || '',
     comments: row.comments || '',
   });
 }

@@ -135,10 +135,19 @@ body {
 }
 
 .translation,
+.telugu-translation,
 .explanation,
 .comments {
   margin-top: 0.45rem;
   line-height: 1.5;
+}
+
+.telugu-translation {
+  color: #214f3b;
+  background: #eef8f1;
+  border-left: 4px solid #78a98d;
+  padding: 0.55rem 0.7rem;
+  border-radius: 6px;
 }
 
 .footer {

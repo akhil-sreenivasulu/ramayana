@@ -99,6 +99,7 @@ function renderShlokas(kanda, sargaData) {
         <h3>Shloka ${verse.shloka}</h3>
         <div class="shloka-text">${verse.shloka_text || 'N/A'}</div>
         ${verse.transliteration ? `<div class="transliteration">${verse.transliteration}</div>` : ''}
+        ${verse.telugu_translation ? `<div class="telugu-translation"><strong>తెలుగు భావం:</strong> ${verse.telugu_translation}</div>` : ''}
         ${verse.translation ? `<div class="translation"><strong>Meaning:</strong> ${verse.translation}</div>` : ''}
         ${verse.explanation ? `<div class="explanation"><strong>Explanation:</strong> ${verse.explanation}</div>` : ''}
         ${verse.comments ? `<div class="comments"><strong>Comments:</strong> ${verse.comments}</div>` : ''}
