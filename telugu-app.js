@@ -143,6 +143,7 @@ function transliterateSanskritToTelugu(text) {
   }
 
   return text
+    .replace(/[0-9]/g, (digit) => String.fromCharCode('౦'.charCodeAt(0) + Number(digit)))
     .replace(/क्ष/g, DEVANAGARI_TO_TELUGU['क्ष'])
     .replace(/ज्ञ/g, DEVANAGARI_TO_TELUGU['ज्ञ'])
     .split('')

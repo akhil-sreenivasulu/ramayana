@@ -176,6 +176,7 @@ body {
 .shloka-text {
   font-size: 1.08rem;
   line-height: 1.8;
+  white-space: pre-wrap;
 }
 
 .telugu-pronunciation {
@@ -187,6 +188,7 @@ body {
   line-height: 1.75;
   color: #7f3f12;
   font-size: 1.05rem;
+  white-space: pre-wrap;
 }
 
 .telugu-meaning {
@@ -197,6 +199,7 @@ body {
   border-radius: 8px;
   line-height: 1.65;
   color: var(--green);
+  white-space: pre-wrap;
 }
 
 .transliteration,
