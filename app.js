@@ -1,6 +1,7 @@
 const sidebarEl = document.getElementById('sidebar');
 const metaEl = document.getElementById('meta');
 const sargaNavEl = document.getElementById('sargaNav');
+const verseNavEl = document.getElementById('verseNav');
 const shlokaMenuEl = document.getElementById('shlokaMenu');
 const shlokaListEl = document.getElementById('shlokaList');
 
@@ -85,34 +86,152 @@ function renderSargaNav(kanda, currentSarga) {
   `;
 }
 
-function renderShlokas(kanda, sargaData) {
+function renderShlokas(kanda, sargaData, route) {
   metaEl.textContent = `${kanda.name} - Chapter (Sarga) ${sargaData.sarga} - ${sargaData.shloka_count} shlokas`;
 
-  shlokaMenuEl.innerHTML = sargaData.shlokas
-    .map((verse) => `<a href="#/${kanda.slug}/${sargaData.sarga}/${verse.shloka}">${verse.shloka}</a>`)
-    .join('');
+  const selectedVerse =
+    sargaData.shlokas.find((verse) => verse.shloka === route.shloka) || sargaData.shlokas[0];
 
-  shlokaListEl.innerHTML = sargaData.shlokas
+  shlokaMenuEl.innerHTML = sargaData.shlokas
     .map(
-      (verse) => `
-      <section class="shloka-card" id="shloka-${verse.shloka}">
-        <h3>Shloka ${verse.shloka}</h3>
-        <div class="shloka-text">${verse.shloka_text || 'N/A'}</div>
-        ${verse.transliteration ? `<div class="transliteration">${verse.transliteration}</div>` : ''}
-        ${verse.telugu_translation ? `<div class="telugu-translation"><strong>తెలుగు భావం:</strong> ${verse.telugu_translation}</div>` : ''}
-        ${verse.translation ? `<div class="translation"><strong>Meaning:</strong> ${verse.translation}</div>` : ''}
-        ${verse.explanation ? `<div class="explanation"><strong>Explanation:</strong> ${verse.explanation}</div>` : ''}
-        ${verse.comments ? `<div class="comments"><strong>Comments:</strong> ${verse.comments}</div>` : ''}
-      </section>
-    `
+      (verse) =>
+        `<a class="${verse.shloka === selectedVerse.shloka ? 'active' : ''}" href="#/${kanda.slug}/${sargaData.sarga}/${verse.shloka}">${verse.shloka}</a>`
     )
     .join('');
+
+  const selectedIndex = sargaData.shlokas.findIndex((verse) => verse.shloka === selectedVerse.shloka);
+  const prevVerse = sargaData.shlokas[selectedIndex - 1];
+  const nextVerse = sargaData.shlokas[selectedIndex + 1];
+
+  verseNavEl.innerHTML = `
+    ${prevVerse ? `<a href="#/${kanda.slug}/${sargaData.sarga}/${prevVerse.shloka}">Prev Shloka</a>` : ''}
+    <span class="verse-indicator">Shloka ${selectedVerse.shloka} / ${sargaData.shloka_count}</span>
+    ${nextVerse ? `<a href="#/${kanda.slug}/${sargaData.sarga}/${nextVerse.shloka}">Next Shloka</a>` : ''}
+  `;
+
+  shlokaListEl.innerHTML = `
+    <section class="shloka-card" id="shloka-${selectedVerse.shloka}">
+      <h3>Shloka ${selectedVerse.shloka}</h3>
+      <div class="shloka-text">${selectedVerse.shloka_text || 'N/A'}</div>
+      ${selectedVerse.transliteration ? `<div class="transliteration">${selectedVerse.transliteration}</div>` : ''}
+      ${selectedVerse.translation ? `<div class="translation"><strong>Meaning:</strong> ${selectedVerse.translation}</div>` : ''}
+      ${selectedVerse.explanation ? `<div class="explanation"><strong>Explanation:</strong> ${selectedVerse.explanation}</div>` : ''}
+      ${selectedVerse.comments ? `<div class="comments"><strong>Comments:</strong> ${selectedVerse.comments}</div>` : ''}
+    </section>
+  `;
+}
+
+function getAdjacentSarga(kandaSlug, sargaNumber, direction) {
+  const kandas = sortKandas(manifest.kandas);
+  const kandaIndex = kandas.findIndex((item) => item.slug === kandaSlug);
+  if (kandaIndex === -1) {
+    return null;
+  }
+
+  const currentKanda = kandas[kandaIndex];
+  const sargaIndex = currentKanda.sargas.findIndex((item) => item.sarga === sargaNumber);
+  if (sargaIndex === -1) {
+    return null;
+  }
+
+  if (direction === 'next') {
+    const nextSarga = currentKanda.sargas[sargaIndex + 1];
+    if (nextSarga) {
+      return { kanda: currentKanda, sarga: nextSarga, targetShloka: 1 };
+    }
+
+    const nextKanda = kandas[kandaIndex + 1];
+    if (nextKanda?.sargas[0]) {
+      return { kanda: nextKanda, sarga: nextKanda.sargas[0], targetShloka: 1 };
+    }
+  }
+
+  if (direction === 'prev') {
+    const prevSarga = currentKanda.sargas[sargaIndex - 1];
+    if (prevSarga) {
+      return { kanda: currentKanda, sarga: prevSarga, targetShloka: null };
+    }
+
+    const prevKanda = kandas[kandaIndex - 1];
+    if (prevKanda?.sargas?.length) {
+      return {
+        kanda: prevKanda,
+        sarga: prevKanda.sargas[prevKanda.sargas.length - 1],
+        targetShloka: null,
+      };
+    }
+  }
+
+  return null;
+}
+
+async function navigateByArrow(direction) {
+  const route = parseHash();
+  if (!route.kandaSlug || !route.sarga || !route.shloka) {
+    return;
+  }
+
+  const kanda = manifest.kandas.find((item) => item.slug === route.kandaSlug);
+  const sarga = kanda?.sargas.find((item) => item.sarga === route.sarga);
+  if (!kanda || !sarga) {
+    return;
+  }
+
+  const sargaData = await loadSarga(sarga.path);
+  const currentIndex = sargaData.shlokas.findIndex((item) => item.shloka === route.shloka);
+  if (currentIndex === -1) {
+    return;
+  }
+
+  const targetVerse =
+    direction === 'next'
+      ? sargaData.shlokas[currentIndex + 1]
+      : sargaData.shlokas[currentIndex - 1];
+
+  if (targetVerse) {
+    setHash(kanda.slug, sargaData.sarga, targetVerse.shloka);
+    return;
+  }
+
+  const adjacent = getAdjacentSarga(kanda.slug, sargaData.sarga, direction);
+  if (!adjacent) {
+    return;
+  }
+
+  const adjacentData = await loadSarga(adjacent.sarga.path);
+  const targetShloka =
+    adjacent.targetShloka ?? adjacentData.shlokas[adjacentData.shlokas.length - 1]?.shloka;
+
+  if (targetShloka) {
+    setHash(adjacent.kanda.slug, adjacent.sarga.sarga, targetShloka);
+  }
+}
+
+function handleKeyNavigation(event) {
+  const target = event.target;
+  if (
+    target instanceof HTMLElement &&
+    (target.isContentEditable ||
+      ['INPUT', 'TEXTAREA', 'SELECT', 'AUDIO', 'BUTTON'].includes(target.tagName))
+  ) {
+    return;
+  }
+
+  if (event.key === 'ArrowRight') {
+    event.preventDefault();
+    navigateByArrow('next');
+  }
+
+  if (event.key === 'ArrowLeft') {
+    event.preventDefault();
+    navigateByArrow('prev');
+  }
 }
 
 function defaultRoute() {
   const firstKanda = sortKandas(manifest.kandas)[0];
   const firstSarga = firstKanda.sargas[0];
-  setHash(firstKanda.slug, firstSarga.sarga);
+  setHash(firstKanda.slug, firstSarga.sarga, 1);
 }
 
 async function renderFromRoute() {
@@ -131,7 +250,7 @@ async function renderFromRoute() {
 
   const sarga = kanda.sargas.find((s) => s.sarga === route.sarga);
   if (!sarga) {
-    setHash(kanda.slug, kanda.sargas[0].sarga);
+    setHash(kanda.slug, kanda.sargas[0].sarga, 1);
     return;
   }
 
@@ -140,16 +259,15 @@ async function renderFromRoute() {
 
   try {
     const sargaData = await loadSarga(sarga.path);
-    renderShlokas(kanda, sargaData);
-
-    if (route.shloka) {
-      const target = document.getElementById(`shloka-${route.shloka}`);
-      if (target) {
-        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+    if (!route.shloka || !sargaData.shlokas.some((verse) => verse.shloka === route.shloka)) {
+      setHash(kanda.slug, sargaData.sarga, sargaData.shlokas[0].shloka);
+      return;
     }
+
+    renderShlokas(kanda, sargaData, route);
   } catch (error) {
     metaEl.textContent = 'Unable to load selected chapter.';
+    verseNavEl.innerHTML = '';
     shlokaMenuEl.innerHTML = '';
     shlokaListEl.innerHTML = `<p>${error.message}</p>`;
   }
@@ -160,6 +278,7 @@ async function boot() {
   manifest = await response.json();
   renderSidebar(parseHash());
   window.addEventListener('hashchange', renderFromRoute);
+  window.addEventListener('keydown', handleKeyNavigation);
   renderFromRoute();
 }
 

@@ -81,6 +81,7 @@ body {
 
 .sarga-links a,
 .sarga-nav a,
+.verse-nav a,
 .shloka-menu a {
   text-decoration: none;
   color: var(--accent);
@@ -96,21 +97,33 @@ body {
 }
 
 .meta {
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem;
   font-weight: 700;
 }
 
 .sarga-nav,
+.verse-nav,
 .shloka-menu {
   display: flex;
   gap: 0.45rem;
   flex-wrap: wrap;
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.verse-nav {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.verse-indicator {
+  font-weight: 700;
+  color: #5a412d;
 }
 
 .shloka-list {
   display: grid;
-  gap: 0.85rem;
+  gap: 1rem;
+  margin-bottom: 1.1rem;
 }
 
 .shloka-card {
@@ -135,19 +148,20 @@ body {
 }
 
 .translation,
-.telugu-translation,
 .explanation,
 .comments {
   margin-top: 0.45rem;
   line-height: 1.5;
 }
 
-.telugu-translation {
-  color: #214f3b;
-  background: #eef8f1;
-  border-left: 4px solid #78a98d;
-  padding: 0.55rem 0.7rem;
-  border-radius: 6px;
+.shloka-menu {
+  padding-top: 0.2rem;
+}
+
+.shloka-menu a.active {
+  background: var(--accent);
+  color: #fff9f1;
+  border-color: var(--accent);
 }
 
 .footer {
@@ -164,5 +178,9 @@ body {
     border-right: 0;
     border-bottom: 1px solid var(--border);
     max-height: 40vh;
+  }
+
+  .verse-nav {
+    justify-content: flex-start;
   }
 }
