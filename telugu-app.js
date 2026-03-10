@@ -238,6 +238,113 @@ function renderShlokas(kanda, sargaData, route) {
   `;
 }
 
+function getAdjacentSarga(kandaSlug, sargaNumber, direction) {
+  const kandas = sortKandas(manifest.kandas);
+  const kandaIndex = kandas.findIndex((item) => item.slug === kandaSlug);
+  if (kandaIndex === -1) {
+    return null;
+  }
+
+  const currentKanda = kandas[kandaIndex];
+  const sargaIndex = currentKanda.sargas.findIndex((item) => item.sarga === sargaNumber);
+  if (sargaIndex === -1) {
+    return null;
+  }
+
+  if (direction === 'next') {
+    const nextSarga = currentKanda.sargas[sargaIndex + 1];
+    if (nextSarga) {
+      return { kanda: currentKanda, sarga: nextSarga, targetShloka: 1 };
+    }
+
+    const nextKanda = kandas[kandaIndex + 1];
+    if (nextKanda?.sargas[0]) {
+      return { kanda: nextKanda, sarga: nextKanda.sargas[0], targetShloka: 1 };
+    }
+  }
+
+  if (direction === 'prev') {
+    const prevSarga = currentKanda.sargas[sargaIndex - 1];
+    if (prevSarga) {
+      return { kanda: currentKanda, sarga: prevSarga, targetShloka: null };
+    }
+
+    const prevKanda = kandas[kandaIndex - 1];
+    if (prevKanda?.sargas?.length) {
+      return {
+        kanda: prevKanda,
+        sarga: prevKanda.sargas[prevKanda.sargas.length - 1],
+        targetShloka: null,
+      };
+    }
+  }
+
+  return null;
+}
+
+async function navigateByArrow(direction) {
+  const route = parseHash();
+  if (!route.kandaSlug || !route.sarga || !route.shloka) {
+    return;
+  }
+
+  const kanda = manifest.kandas.find((item) => item.slug === route.kandaSlug);
+  const sarga = kanda?.sargas.find((item) => item.sarga === route.sarga);
+  if (!kanda || !sarga) {
+    return;
+  }
+
+  const sargaData = await loadSarga(sarga.path);
+  const currentIndex = sargaData.shlokas.findIndex((item) => item.shloka === route.shloka);
+  if (currentIndex === -1) {
+    return;
+  }
+
+  const targetVerse =
+    direction === 'next'
+      ? sargaData.shlokas[currentIndex + 1]
+      : sargaData.shlokas[currentIndex - 1];
+
+  if (targetVerse) {
+    setHash(kanda.slug, sargaData.sarga, targetVerse.shloka);
+    return;
+  }
+
+  const adjacent = getAdjacentSarga(kanda.slug, sargaData.sarga, direction);
+  if (!adjacent) {
+    return;
+  }
+
+  const adjacentData = await loadSarga(adjacent.sarga.path);
+  const targetShloka =
+    adjacent.targetShloka ?? adjacentData.shlokas[adjacentData.shlokas.length - 1]?.shloka;
+
+  if (targetShloka) {
+    setHash(adjacent.kanda.slug, adjacent.sarga.sarga, targetShloka);
+  }
+}
+
+function handleKeyNavigation(event) {
+  const target = event.target;
+  if (
+    target instanceof HTMLElement &&
+    (target.isContentEditable ||
+      ['INPUT', 'TEXTAREA', 'SELECT', 'AUDIO', 'BUTTON'].includes(target.tagName))
+  ) {
+    return;
+  }
+
+  if (event.key === 'ArrowRight') {
+    event.preventDefault();
+    navigateByArrow('next');
+  }
+
+  if (event.key === 'ArrowLeft') {
+    event.preventDefault();
+    navigateByArrow('prev');
+  }
+}
+
 function defaultRoute() {
   const firstKanda = sortKandas(manifest.kandas)[0];
   const firstSarga = firstKanda.sargas[0];
@@ -288,6 +395,7 @@ async function boot() {
   manifest = await manifestResponse.json();
   renderSidebar(parseHash());
   window.addEventListener('hashchange', renderFromRoute);
+  window.addEventListener('keydown', handleKeyNavigation);
   renderFromRoute();
 }
 
