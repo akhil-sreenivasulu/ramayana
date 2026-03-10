@@ -7,6 +7,7 @@ const shlokaListEl = document.getElementById('shlokaList');
 
 const cache = new Map();
 let manifest;
+let audioManifest = {};
 
 const KANDA_ORDER = [
   'bala-kanda',
@@ -186,6 +187,24 @@ async function loadSarga(path) {
   return data;
 }
 
+async function loadAudioManifest() {
+  if (Object.keys(audioManifest).length > 0) {
+    return audioManifest;
+  }
+
+  try {
+    const response = await fetch('data/audio-manifest.json');
+    if (!response.ok) {
+      return audioManifest;
+    }
+    audioManifest = await response.json();
+  } catch (_error) {
+    audioManifest = {};
+  }
+
+  return audioManifest;
+}
+
 function renderSargaNav(kanda, currentSarga) {
   const currentIndex = kanda.sargas.findIndex((s) => s.sarga === currentSarga.sarga);
   const prev = kanda.sargas[currentIndex - 1];
@@ -221,12 +240,19 @@ function renderShlokas(kanda, sargaData, route) {
   `;
 
   const teluguPronunciation = transliterateSanskritToTelugu(selectedVerse.shloka_text);
+  const audioKey = `${kanda.slug}||${sargaData.sarga}||${selectedVerse.shloka}`;
+  const audioEntry = audioManifest[audioKey];
 
   shlokaListEl.innerHTML = `
     <section class="shloka-card" id="shloka-${selectedVerse.shloka}">
       <h3>శ్లోకం ${selectedVerse.shloka}</h3>
       <div class="shloka-text">${selectedVerse.shloka_text || 'N/A'}</div>
       ${teluguPronunciation ? `<div class="telugu-pronunciation"><strong>తెలుగు ఉచ్చారణ:</strong> ${teluguPronunciation}</div>` : ''}
+      ${
+        audioEntry
+          ? `<div class="audio-block"><strong>శ్రవణం:</strong><audio controls preload="none" src="${audioEntry.path}"></audio><p class="audio-note">పైలట్ ఆడియో: పురుష స్వరం + సాఫ్ట్ తంబూరా నేపథ్యం</p></div>`
+          : ''
+      }
       ${
         selectedVerse.telugu_translation
           ? `<div class="telugu-meaning"><strong>తెలుగు భావం:</strong> ${selectedVerse.telugu_translation}</div>`
@@ -284,8 +310,11 @@ async function renderFromRoute() {
 }
 
 async function boot() {
-  const response = await fetch('data/manifest.json');
-  manifest = await response.json();
+  const [manifestResponse] = await Promise.all([
+    fetch('data/manifest.json'),
+    loadAudioManifest(),
+  ]);
+  manifest = await manifestResponse.json();
   renderSidebar(parseHash());
   window.addEventListener('hashchange', renderFromRoute);
   renderFromRoute();

@@ -202,6 +202,26 @@ body {
   white-space: pre-wrap;
 }
 
+.audio-block {
+  margin-top: 0.7rem;
+  padding: 0.75rem 0.85rem;
+  background: #f3efe8;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.audio-block audio {
+  display: block;
+  width: 100%;
+  margin-top: 0.45rem;
+}
+
+.audio-note {
+  margin: 0.45rem 0 0;
+  font-size: 0.9rem;
+  color: #6e5b48;
+}
+
 .transliteration,
 .english-note {
   margin-top: 0.55rem;
