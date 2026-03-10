@@ -28,6 +28,87 @@ const KANDA_LABELS = {
   'uttara-kanda': 'ఉత్తర కాండ',
 };
 
+const DEVANAGARI_TO_TELUGU = {
+  'अ': 'అ',
+  'आ': 'ఆ',
+  'इ': 'ఇ',
+  'ई': 'ఈ',
+  'उ': 'ఉ',
+  'ऊ': 'ఊ',
+  'ऋ': 'ఋ',
+  'ॠ': 'ౠ',
+  'ऌ': 'ఌ',
+  'ए': 'ఏ',
+  'ऐ': 'ఐ',
+  'ओ': 'ఓ',
+  'औ': 'ఔ',
+  'ा': 'ా',
+  'ि': 'ి',
+  'ी': 'ీ',
+  'ु': 'ు',
+  'ू': 'ూ',
+  'ृ': 'ృ',
+  'ॄ': 'ౄ',
+  'ॢ': 'ఌ',
+  'े': 'ే',
+  'ै': 'ై',
+  'ो': 'ో',
+  'ौ': 'ౌ',
+  'ं': 'ం',
+  'ः': 'ః',
+  'ँ': 'ఁ',
+  'ऽ': 'ఽ',
+  '्': '్',
+  'क': 'క',
+  'ख': 'ఖ',
+  'ग': 'గ',
+  'घ': 'ఘ',
+  'ङ': 'ఙ',
+  'च': 'చ',
+  'छ': 'ఛ',
+  'ज': 'జ',
+  'झ': 'ఝ',
+  'ञ': 'ఞ',
+  'ट': 'ట',
+  'ठ': 'ఠ',
+  'ड': 'డ',
+  'ढ': 'ఢ',
+  'ण': 'ణ',
+  'त': 'త',
+  'थ': 'థ',
+  'द': 'ద',
+  'ध': 'ధ',
+  'न': 'న',
+  'प': 'ప',
+  'फ': 'ఫ',
+  'ब': 'బ',
+  'भ': 'భ',
+  'म': 'మ',
+  'य': 'య',
+  'र': 'ర',
+  'ल': 'ల',
+  'व': 'వ',
+  'श': 'శ',
+  'ष': 'ష',
+  'स': 'స',
+  'ह': 'హ',
+  'ळ': 'ళ',
+  'क्ष': 'క్ష',
+  'ज्ञ': 'జ్ఞ',
+  '०': '౦',
+  '१': '౧',
+  '२': '౨',
+  '३': '౩',
+  '४': '౪',
+  '५': '౫',
+  '६': '౬',
+  '७': '౭',
+  '८': '౮',
+  '९': '౯',
+  '।': '।',
+  '॥': '॥',
+};
+
 const sortKandas = (kandas) =>
   [...kandas].sort((a, b) => {
     const ai = KANDA_ORDER.indexOf(a.slug);
@@ -54,6 +135,19 @@ function setHash(kandaSlug, sarga, shloka) {
 
 function getKandaLabel(kanda) {
   return KANDA_LABELS[kanda.slug] || kanda.name;
+}
+
+function transliterateSanskritToTelugu(text) {
+  if (!text) {
+    return '';
+  }
+
+  return text
+    .replace(/क्ष/g, DEVANAGARI_TO_TELUGU['क्ष'])
+    .replace(/ज्ञ/g, DEVANAGARI_TO_TELUGU['ज्ञ'])
+    .split('')
+    .map((char) => DEVANAGARI_TO_TELUGU[char] || char)
+    .join('');
 }
 
 function renderSidebar(current) {
@@ -125,10 +219,13 @@ function renderShlokas(kanda, sargaData, route) {
     ${nextVerse ? `<a href="#/${kanda.slug}/${sargaData.sarga}/${nextVerse.shloka}">తర్వాతి శ్లోకం</a>` : ''}
   `;
 
+  const teluguPronunciation = transliterateSanskritToTelugu(selectedVerse.shloka_text);
+
   shlokaListEl.innerHTML = `
     <section class="shloka-card" id="shloka-${selectedVerse.shloka}">
       <h3>శ్లోకం ${selectedVerse.shloka}</h3>
       <div class="shloka-text">${selectedVerse.shloka_text || 'N/A'}</div>
+      ${teluguPronunciation ? `<div class="telugu-pronunciation"><strong>తెలుగు ఉచ్చారణ:</strong> ${teluguPronunciation}</div>` : ''}
       ${
         selectedVerse.telugu_translation
           ? `<div class="telugu-meaning"><strong>తెలుగు భావం:</strong> ${selectedVerse.telugu_translation}</div>`
