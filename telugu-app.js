@@ -2,6 +2,7 @@ const sidebarEl = document.getElementById('sidebar');
 const metaEl = document.getElementById('meta');
 const sargaNavEl = document.getElementById('sargaNav');
 const shlokaMenuEl = document.getElementById('shlokaMenu');
+const verseNavEl = document.getElementById('verseNav');
 const shlokaListEl = document.getElementById('shlokaList');
 
 const cache = new Map();
@@ -101,36 +102,48 @@ function renderSargaNav(kanda, currentSarga) {
   `;
 }
 
-function renderShlokas(kanda, sargaData) {
+function renderShlokas(kanda, sargaData, route) {
   metaEl.textContent = `${getKandaLabel(kanda)} - సర్గ ${sargaData.sarga} - ${sargaData.shloka_count} శ్లోకాలు`;
 
-  shlokaMenuEl.innerHTML = sargaData.shlokas
-    .map((verse) => `<a href="#/${kanda.slug}/${sargaData.sarga}/${verse.shloka}">${verse.shloka}</a>`)
-    .join('');
+  const selectedVerse =
+    sargaData.shlokas.find((verse) => verse.shloka === route.shloka) || sargaData.shlokas[0];
 
-  shlokaListEl.innerHTML = sargaData.shlokas
+  shlokaMenuEl.innerHTML = sargaData.shlokas
     .map(
-      (verse) => `
-      <section class="shloka-card" id="shloka-${verse.shloka}">
-        <h3>శ్లోకం ${verse.shloka}</h3>
-        <div class="shloka-text">${verse.shloka_text || 'N/A'}</div>
-        ${
-          verse.telugu_translation
-            ? `<div class="telugu-meaning"><strong>తెలుగు భావం:</strong> ${verse.telugu_translation}</div>`
-            : ''
-        }
-        ${verse.transliteration ? `<div class="transliteration"><strong>Roman:</strong> ${verse.transliteration}</div>` : ''}
-        ${verse.explanation ? `<div class="english-note"><strong>English note:</strong> ${verse.explanation}</div>` : ''}
-      </section>
-    `
+      (verse) =>
+        `<a class="${verse.shloka === selectedVerse.shloka ? 'active' : ''}" href="#/${kanda.slug}/${sargaData.sarga}/${verse.shloka}">${verse.shloka}</a>`
     )
     .join('');
+
+  const selectedIndex = sargaData.shlokas.findIndex((verse) => verse.shloka === selectedVerse.shloka);
+  const prevVerse = sargaData.shlokas[selectedIndex - 1];
+  const nextVerse = sargaData.shlokas[selectedIndex + 1];
+
+  verseNavEl.innerHTML = `
+    ${prevVerse ? `<a href="#/${kanda.slug}/${sargaData.sarga}/${prevVerse.shloka}">మునుపటి శ్లోకం</a>` : ''}
+    <span class="verse-indicator">శ్లోకం ${selectedVerse.shloka} / ${sargaData.shloka_count}</span>
+    ${nextVerse ? `<a href="#/${kanda.slug}/${sargaData.sarga}/${nextVerse.shloka}">తర్వాతి శ్లోకం</a>` : ''}
+  `;
+
+  shlokaListEl.innerHTML = `
+    <section class="shloka-card" id="shloka-${selectedVerse.shloka}">
+      <h3>శ్లోకం ${selectedVerse.shloka}</h3>
+      <div class="shloka-text">${selectedVerse.shloka_text || 'N/A'}</div>
+      ${
+        selectedVerse.telugu_translation
+          ? `<div class="telugu-meaning"><strong>తెలుగు భావం:</strong> ${selectedVerse.telugu_translation}</div>`
+          : ''
+      }
+      ${selectedVerse.transliteration ? `<div class="transliteration"><strong>Roman:</strong> ${selectedVerse.transliteration}</div>` : ''}
+      ${selectedVerse.explanation ? `<div class="english-note"><strong>English note:</strong> ${selectedVerse.explanation}</div>` : ''}
+    </section>
+  `;
 }
 
 function defaultRoute() {
   const firstKanda = sortKandas(manifest.kandas)[0];
   const firstSarga = firstKanda.sargas[0];
-  setHash(firstKanda.slug, firstSarga.sarga);
+  setHash(firstKanda.slug, firstSarga.sarga, 1);
 }
 
 async function renderFromRoute() {
@@ -149,7 +162,7 @@ async function renderFromRoute() {
 
   const sarga = kanda.sargas.find((item) => item.sarga === route.sarga);
   if (!sarga) {
-    setHash(kanda.slug, kanda.sargas[0].sarga);
+    setHash(kanda.slug, kanda.sargas[0].sarga, 1);
     return;
   }
 
@@ -158,17 +171,16 @@ async function renderFromRoute() {
 
   try {
     const sargaData = await loadSarga(sarga.path);
-    renderShlokas(kanda, sargaData);
-
-    if (route.shloka) {
-      const target = document.getElementById(`shloka-${route.shloka}`);
-      if (target) {
-        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+    if (!route.shloka || !sargaData.shlokas.some((verse) => verse.shloka === route.shloka)) {
+      setHash(kanda.slug, sargaData.sarga, sargaData.shlokas[0].shloka);
+      return;
     }
+
+    renderShlokas(kanda, sargaData, route);
   } catch (error) {
     metaEl.textContent = 'ఎంచుకున్న సర్గను లోడ్ చేయలేకపోయాం.';
     shlokaMenuEl.innerHTML = '';
+    verseNavEl.innerHTML = '';
     shlokaListEl.innerHTML = `<p>${error.message}</p>`;
   }
 }

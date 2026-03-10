@@ -99,6 +99,7 @@ body {
 
 .sarga-links,
 .sarga-nav,
+.verse-nav,
 .shloka-menu {
   display: flex;
   flex-wrap: wrap;
@@ -113,6 +114,7 @@ body {
 
 .sarga-links a,
 .sarga-nav a,
+.verse-nav a,
 .shloka-menu a {
   text-decoration: none;
   color: var(--accent);
@@ -133,8 +135,25 @@ body {
 }
 
 .sarga-nav,
+.verse-nav,
 .shloka-menu {
   margin-bottom: 0.9rem;
+}
+
+.shloka-menu a.active {
+  background: var(--accent);
+  color: #fff8ef;
+  border-color: var(--accent);
+}
+
+.verse-nav {
+  align-items: center;
+}
+
+.verse-indicator {
+  padding: 0.32rem 0.1rem;
+  font-weight: 700;
+  color: #6a4c2e;
 }
 
 .shloka-list {
