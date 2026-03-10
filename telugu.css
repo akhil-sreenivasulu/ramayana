@@ -1,0 +1,204 @@
+:root {
+  --bg: #f4ead8;
+  --surface: #fffaf2;
+  --ink: #2a1c11;
+  --accent: #b04a11;
+  --accent-soft: #efd0b6;
+  --line: #d8c0aa;
+  --green: #1f5a43;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at top right, rgba(255, 210, 146, 0.5), transparent 30%),
+    linear-gradient(180deg, #fff4dd 0%, var(--bg) 100%);
+  font-family: "Noto Serif Telugu", "Nirmala UI", serif;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-end;
+  padding: 1.2rem 1.4rem;
+  background: linear-gradient(135deg, #ffdf9c, #ffc49d);
+  border-bottom: 1px solid var(--line);
+}
+
+.eyebrow {
+  margin: 0 0 0.3rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.lead {
+  margin: 0.45rem 0 0;
+  max-width: 720px;
+}
+
+.switch-link {
+  display: inline-block;
+  padding: 0.65rem 0.9rem;
+  border-radius: 999px;
+  background: #fff9f2;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid var(--accent-soft);
+  white-space: nowrap;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 330px 1fr;
+  min-height: calc(100vh - 144px);
+}
+
+.sidebar {
+  padding: 1rem;
+  border-right: 1px solid var(--line);
+  background: rgba(255, 250, 242, 0.95);
+  overflow: auto;
+}
+
+.sidebar h2 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+
+.kanda {
+  margin-bottom: 0.8rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fffdf8;
+}
+
+.kanda summary {
+  padding: 0.65rem 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+  background: #f9ebda;
+}
+
+.kanda summary::-webkit-details-marker {
+  display: none;
+}
+
+.sarga-links,
+.sarga-nav,
+.shloka-menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.sarga-links {
+  max-height: 260px;
+  overflow: auto;
+  padding: 0.6rem;
+}
+
+.sarga-links a,
+.sarga-nav a,
+.shloka-menu a {
+  text-decoration: none;
+  color: var(--accent);
+  background: #fff;
+  border: 1px solid var(--accent-soft);
+  padding: 0.32rem 0.62rem;
+  border-radius: 999px;
+  font-size: 0.88rem;
+}
+
+.content {
+  padding: 1rem 1.3rem 1.6rem;
+}
+
+.meta {
+  font-weight: 700;
+  margin-bottom: 0.9rem;
+}
+
+.sarga-nav,
+.shloka-menu {
+  margin-bottom: 0.9rem;
+}
+
+.shloka-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.shloka-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 10px 30px rgba(93, 61, 33, 0.06);
+}
+
+.shloka-card h3 {
+  margin: 0 0 0.5rem;
+}
+
+.shloka-text {
+  font-size: 1.08rem;
+  line-height: 1.8;
+}
+
+.telugu-meaning {
+  margin-top: 0.6rem;
+  padding: 0.7rem 0.85rem;
+  background: #eef8f2;
+  border-left: 4px solid #74a98a;
+  border-radius: 8px;
+  line-height: 1.65;
+  color: var(--green);
+}
+
+.transliteration,
+.english-note {
+  margin-top: 0.55rem;
+  line-height: 1.55;
+}
+
+.transliteration {
+  color: #615244;
+  font-style: italic;
+}
+
+.footer {
+  border-top: 1px solid var(--line);
+  padding: 0.9rem 1.4rem;
+  background: rgba(255, 250, 242, 0.9);
+}
+
+@media (max-width: 940px) {
+  .hero {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+    max-height: 42vh;
+  }
+}

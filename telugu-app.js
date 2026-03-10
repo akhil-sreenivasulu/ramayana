@@ -1,0 +1,184 @@
+const sidebarEl = document.getElementById('sidebar');
+const metaEl = document.getElementById('meta');
+const sargaNavEl = document.getElementById('sargaNav');
+const shlokaMenuEl = document.getElementById('shlokaMenu');
+const shlokaListEl = document.getElementById('shlokaList');
+
+const cache = new Map();
+let manifest;
+
+const KANDA_ORDER = [
+  'bala-kanda',
+  'ayodhya-kanda',
+  'aranya-kanda',
+  'kishkindha-kanda',
+  'sundara-kanda',
+  'yuddha-kanda',
+  'uttara-kanda',
+];
+
+const KANDA_LABELS = {
+  'bala-kanda': 'బాల కాండ',
+  'ayodhya-kanda': 'అయోధ్య కాండ',
+  'aranya-kanda': 'అరణ్య కాండ',
+  'kishkindha-kanda': 'కిష్కింధా కాండ',
+  'sundara-kanda': 'సుందర కాండ',
+  'yuddha-kanda': 'యుద్ధ కాండ',
+  'uttara-kanda': 'ఉత్తర కాండ',
+};
+
+const sortKandas = (kandas) =>
+  [...kandas].sort((a, b) => {
+    const ai = KANDA_ORDER.indexOf(a.slug);
+    const bi = KANDA_ORDER.indexOf(b.slug);
+    if (ai === -1 && bi === -1) return a.name.localeCompare(b.name);
+    if (ai === -1) return 1;
+    if (bi === -1) return -1;
+    return ai - bi;
+  });
+
+function parseHash() {
+  const cleaned = location.hash.replace(/^#\/?/, '');
+  const [kandaSlug, sarga, shloka] = cleaned.split('/');
+  return {
+    kandaSlug,
+    sarga: sarga ? Number(sarga) : null,
+    shloka: shloka ? Number(shloka) : null,
+  };
+}
+
+function setHash(kandaSlug, sarga, shloka) {
+  location.hash = `/${kandaSlug}/${sarga}${shloka ? `/${shloka}` : ''}`;
+}
+
+function getKandaLabel(kanda) {
+  return KANDA_LABELS[kanda.slug] || kanda.name;
+}
+
+function renderSidebar(current) {
+  const kandas = sortKandas(manifest.kandas);
+
+  sidebarEl.innerHTML = `
+    <h2>కాండలు మరియు సర్గలు</h2>
+    ${kandas
+      .map(
+        (kanda) => `
+      <details class="kanda" ${current.kandaSlug === kanda.slug ? 'open' : ''}>
+        <summary>${getKandaLabel(kanda)} (${kanda.sarga_count} సర్గలు)</summary>
+        <div class="sarga-links">
+          ${kanda.sargas
+            .map(
+              (s) =>
+                `<a href="#/${kanda.slug}/${s.sarga}" title="${s.shloka_count} శ్లోకాలు">సర్గ ${s.sarga}</a>`
+            )
+            .join('')}
+        </div>
+      </details>`
+      )
+      .join('')}
+  `;
+}
+
+async function loadSarga(path) {
+  if (cache.has(path)) return cache.get(path);
+  const response = await fetch(path);
+  if (!response.ok) {
+    throw new Error(`Failed to load ${path}`);
+  }
+  const data = await response.json();
+  cache.set(path, data);
+  return data;
+}
+
+function renderSargaNav(kanda, currentSarga) {
+  const currentIndex = kanda.sargas.findIndex((s) => s.sarga === currentSarga.sarga);
+  const prev = kanda.sargas[currentIndex - 1];
+  const next = kanda.sargas[currentIndex + 1];
+
+  sargaNavEl.innerHTML = `
+    ${prev ? `<a href="#/${kanda.slug}/${prev.sarga}">మునుపటి సర్గ</a>` : ''}
+    ${next ? `<a href="#/${kanda.slug}/${next.sarga}">తర్వాతి సర్గ</a>` : ''}
+  `;
+}
+
+function renderShlokas(kanda, sargaData) {
+  metaEl.textContent = `${getKandaLabel(kanda)} - సర్గ ${sargaData.sarga} - ${sargaData.shloka_count} శ్లోకాలు`;
+
+  shlokaMenuEl.innerHTML = sargaData.shlokas
+    .map((verse) => `<a href="#/${kanda.slug}/${sargaData.sarga}/${verse.shloka}">${verse.shloka}</a>`)
+    .join('');
+
+  shlokaListEl.innerHTML = sargaData.shlokas
+    .map(
+      (verse) => `
+      <section class="shloka-card" id="shloka-${verse.shloka}">
+        <h3>శ్లోకం ${verse.shloka}</h3>
+        <div class="shloka-text">${verse.shloka_text || 'N/A'}</div>
+        ${
+          verse.telugu_translation
+            ? `<div class="telugu-meaning"><strong>తెలుగు భావం:</strong> ${verse.telugu_translation}</div>`
+            : ''
+        }
+        ${verse.transliteration ? `<div class="transliteration"><strong>Roman:</strong> ${verse.transliteration}</div>` : ''}
+        ${verse.explanation ? `<div class="english-note"><strong>English note:</strong> ${verse.explanation}</div>` : ''}
+      </section>
+    `
+    )
+    .join('');
+}
+
+function defaultRoute() {
+  const firstKanda = sortKandas(manifest.kandas)[0];
+  const firstSarga = firstKanda.sargas[0];
+  setHash(firstKanda.slug, firstSarga.sarga);
+}
+
+async function renderFromRoute() {
+  const route = parseHash();
+
+  if (!route.kandaSlug || !route.sarga) {
+    defaultRoute();
+    return;
+  }
+
+  const kanda = manifest.kandas.find((item) => item.slug === route.kandaSlug);
+  if (!kanda) {
+    defaultRoute();
+    return;
+  }
+
+  const sarga = kanda.sargas.find((item) => item.sarga === route.sarga);
+  if (!sarga) {
+    setHash(kanda.slug, kanda.sargas[0].sarga);
+    return;
+  }
+
+  renderSidebar(route);
+  renderSargaNav(kanda, sarga);
+
+  try {
+    const sargaData = await loadSarga(sarga.path);
+    renderShlokas(kanda, sargaData);
+
+    if (route.shloka) {
+      const target = document.getElementById(`shloka-${route.shloka}`);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+  } catch (error) {
+    metaEl.textContent = 'ఎంచుకున్న సర్గను లోడ్ చేయలేకపోయాం.';
+    shlokaMenuEl.innerHTML = '';
+    shlokaListEl.innerHTML = `<p>${error.message}</p>`;
+  }
+}
+
+async function boot() {
+  const response = await fetch('data/manifest.json');
+  manifest = await response.json();
+  renderSidebar(parseHash());
+  window.addEventListener('hashchange', renderFromRoute);
+  renderFromRoute();
+}
+
+boot();
